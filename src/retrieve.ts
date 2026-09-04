@@ -3,6 +3,11 @@ import type { Chunk, Dataset, Program } from './data.ts';
 const TR_FOLD: Record<string, string> = {
   ı: 'i', İ: 'i', ş: 's', Ş: 's', ğ: 'g', Ğ: 'g',
   ü: 'u', Ü: 'u', ö: 'o', Ö: 'o', ç: 'c', Ç: 'c',
+  // Balkan Latin
+  š: 's', Š: 's', č: 'c', Č: 'c', ć: 'c', Ć: 'c',
+  ž: 'z', Ž: 'z', đ: 'd', Đ: 'd',
+  // Almanca
+  ä: 'a', Ä: 'a', ß: 'ss',
 };
 
 export function fold(s: string): string {
@@ -58,50 +63,122 @@ export function tokenize(s: string): string[] {
 }
 
 export interface DilBilgisi {
-  kod: 'tr' | 'en' | 'ru' | 'uz' | 'diger';
+  /** tr/en/ru/uz + bilinen diller; bilinmeyen yabanci icin en */
+  kod: string;
   etiket: string;
   /** Turkce disindaki her dil: aday uluslararasi ogrenci kabul edilir */
   yabanci: boolean;
 }
 
+/** Bilinen diller: skorlayan anahtar kelimeler (kucuk harf, Turkce fold sonrasi). */
+const DILLER: Array<{ kod: string; etiket: string; kelimeler: RegExp }> = [
+  {
+    kod: 'uz',
+    etiket: 'Özbekçe',
+    kelimeler: /\b(qaysi|qancha|qanday|nima|mavjud|bolim|bo'?lim|universitet|talaba|narx|o'?qish|necha)\b/g,
+  },
+  {
+    kod: 'hr',
+    etiket: 'Hırvatça',
+    kelimeler: /\b(koliko|koji|koja|koje|gdje|postoji|postoje|fakultet|studij|cijena|skolarina|odjel|programi|upis|skolovanje|troskov|košta|kosta|mogu|imate)\b/g,
+  },
+  {
+    kod: 'bs',
+    etiket: 'Boşnakça',
+    kelimeler: /\b(koliko|koji|koja|gdje|fakultet|skolarina|upis|studij|cijena|odjeljenj)\b/g,
+  },
+  {
+    kod: 'de',
+    etiket: 'Almanca',
+    kelimeler: /\b(wieviel|wie|viel|welche|welcher|wo|gebuhr|studiengebuhr|studiengang|fakultat|universitat|kosten|kostet|preis|bewerbung|stipendium|studium)\b/g,
+  },
+  {
+    kod: 'fr',
+    etiket: 'Fransızca',
+    kelimeler: /\b(combien|quels|quelles|ou|frais|scolarite|universite|departement|programme|bourse|inscription|cout)\b/g,
+  },
+  {
+    kod: 'es',
+    etiket: 'İspanyolca',
+    kelimeler: /\b(cuanto|cuantos|cuales|donde|matrícula|matricula|universidad|departamento|programa|beca|costo|precio|carrera)\b/g,
+  },
+  {
+    kod: 'ar',
+    etiket: 'Arapça',
+    kelimeler: /\b(كم|ما|أين|كلية|جامعة|رسوم|قسم|تخصص|منحة)\b/g,
+  },
+  {
+    kod: 'en',
+    etiket: 'İngilizce',
+    kelimeler: /\b(what|why|how|where|much|when|the|is|are|can|fee|tuition|price|program|department|student|apply|dorm|choose|university|diploma|because|should|study|which|available|does|have)\b/g,
+  },
+  {
+    kod: 'tr',
+    etiket: 'Türkçe',
+    kelimeler: /\b(ne|nasil|kac|nerede|mi|mu|icin|var|bolum|ucret|kayit|ogrenci|misiniz|nedir|neden|tercih|hangi|neler|fiyat|burs|kampus)\b/g,
+  },
+];
+
 /**
  * Sorunun dilini kestirir.
- * Oncelik: yazim sistemi (Kiril/Arap) > ozbek/turkmen ipuclari > EN vs TR skor.
- * Tek bir Turkce harf (ornegin "why ı am") Ingilizceyi ezmemeli.
+ *
+ * Kural:
+ * 1) Bilinen diller skorlanır (TR, EN, RU, UZ, HR, DE, FR, ES, AR...).
+ * 2) En yuksek skorlu bilinen dil secilir.
+ * 3) Turkce net degilse ve hicbir dil tutmazsa → İngilizce (asla sessizce Turkce'ye dusme).
  */
 export function detectLanguage(question: string): DilBilgisi {
+  const raw = normalizeScript(question);
+
   if (/[\u0400-\u04FF]/.test(question)) {
     return { kod: 'ru', etiket: 'Rusça', yabanci: true };
   }
   if (/[\u0600-\u06FF]/.test(question)) {
-    return { kod: 'diger', etiket: 'Arapça', yabanci: true };
+    return { kod: 'ar', etiket: 'Arapça', yabanci: true };
   }
 
-  const raw = normalizeScript(question);
   const q = fold(raw);
-
-  // Ozbekce Latin: qaysi, bo'lim, mavjud, qancha, nima... (Turkcede "q" neredeyse yok)
-  const uzHits = (q.match(/\b(qaysi|qancha|qanday|nima|mavjud|bolim|bo'?lim|universitet|talaba|narx|o'?qish)\b/g) ?? []).length
-    + (/[ʻʼ']/.test(raw) && /\b(o|g)['ʻʼ]/.test(raw) ? 1 : 0)
-    + (/\bq[aeiouy]/.test(q) ? 1 : 0);
-
-  if (uzHits >= 2) {
-    return { kod: 'uz', etiket: 'Özbekçe', yabanci: true };
-  }
-
-  const trHits = (q.match(/\b(ne|nasil|kac|nerede|mi|mu|icin|var|bolum|ucret|kayit|ogrenci|misiniz|nedir|neden|tercih|hangi|neler)\b/g) ?? []).length;
-  const enHits = (q.match(/\b(what|why|how|where|much|when|the|is|are|can|fee|tuition|price|program|department|student|apply|dorm|choose|university|diploma|because|should|study|which|available)\b/g) ?? []).length;
   const trHarf = (question.match(/[ıİşŞğĞçÇöÖüÜ]/g) ?? []).length;
+  const balkanHarf = (question.match(/[čćšžđČĆŠŽĐ]/g) ?? []).length;
 
-  if (enHits >= 2 && enHits >= trHits && trHarf <= 2) {
-    return { kod: 'en', etiket: 'İngilizce', yabanci: true };
+  const skorlar = new Map<string, { etiket: string; n: number }>();
+  for (const d of DILLER) {
+    const n = (q.match(d.kelimeler) ?? []).length;
+    if (n > 0) skorlar.set(d.kod, { etiket: d.etiket, n });
   }
-  if (trHarf >= 2 || trHits > enHits) {
-    return { kod: 'tr', etiket: 'Türkçe', yabanci: false };
+
+  if ((/[ʻʼ']/.test(raw) && /\b(o|g)['ʻʼ]/.test(raw)) || /\bq[aeiouy]/.test(q)) {
+    const prev = skorlar.get('uz') ?? { etiket: 'Özbekçe', n: 0 };
+    skorlar.set('uz', { ...prev, n: prev.n + 1 });
   }
-  if (enHits > 0) return { kod: 'en', etiket: 'İngilizce', yabanci: true };
-  if (uzHits > 0) return { kod: 'uz', etiket: 'Özbekçe', yabanci: true };
-  return { kod: 'tr', etiket: 'Türkçe', yabanci: false };
+  if (balkanHarf > 0) {
+    const prev = skorlar.get('hr') ?? { etiket: 'Hırvatça', n: 0 };
+    skorlar.set('hr', { ...prev, n: prev.n + balkanHarf + 1 });
+  }
+  if (trHarf >= 2) {
+    const prev = skorlar.get('tr') ?? { etiket: 'Türkçe', n: 0 };
+    skorlar.set('tr', { ...prev, n: prev.n + trHarf });
+  }
+
+  let enIyi: { kod: string; etiket: string; n: number } | null = null;
+  for (const [kod, v] of skorlar) {
+    if (!enIyi || v.n > enIyi.n || (v.n === enIyi.n && kod !== 'tr' && enIyi.kod === 'tr')) {
+      // esitlikte yabanci dili tercih et (yanlis TR dusmesini azaltir)
+      enIyi = { kod, etiket: v.etiket, n: v.n };
+    }
+  }
+
+  if (enIyi && enIyi.n > 0) {
+    return {
+      kod: enIyi.kod,
+      etiket: enIyi.etiket,
+      yabanci: enIyi.kod !== 'tr',
+    };
+  }
+
+  // Hicbir bilinen dil tutmadi: Turkce harf yoksa İngilizce
+  if (trHarf >= 2) return { kod: 'tr', etiket: 'Türkçe', yabanci: false };
+  return { kod: 'en', etiket: 'İngilizce', yabanci: true };
 }
 
 export interface Intents {
@@ -114,11 +191,10 @@ export interface Intents {
 export function detectIntents(question: string): Intents {
   const q = fold(normalizeScript(question));
   return {
-    ucret: /(ucret|fiyat|kac para|kaca|ne kadar|odeme|taksit|burs|indirim|tuition|fee|price|cost|payment|scholarship|сколько|стоим|цена|обучение|qancha|narx)/.test(q),
-    // "hangi bolumler", "qaysi bo'limlar", "какие факультеты", "what departments"
-    liste: /(hangi bolum|bolumler|bolum listesi|neler var|programlar|program listesi|what (departments|programs)|list of|which (departments|programs)|qaysi (bo'?lim|fakultet)|bo'?limlar|mavjud|какие (факультет|программ|специальност)|какие отделени|список (программ|факультет))/.test(q),
-    konum: /(nerede|nerde|adres|konum|ulasim|nasil gid|nasil gel|harita|yol|otobus|servis|kampus nerede|where|address|location|direction|how to get|map|campus|qayerda|где|как добраться)/.test(q),
-    uluslararasi: /(uluslararasi|yabanci|yurt disi|international|foreign|usd|dolar|visa|vize|oturma izni|residence|xorijiy|иностранн)/.test(q),
+    ucret: /(ucret|fiyat|kac para|kaca|ne kadar|odeme|taksit|burs|indirim|tuition|fee|price|cost|payment|scholarship|сколько|стоим|цена|обучение|qancha|narx|koliko|cijena|skolarina|kosta|gebuhr|kosten|kostet|wie\s*viel|combien|frais|cuanto|precio|costo)/.test(q),
+    liste: /(hangi bolum|bolumler|bolum listesi|neler var|programlar|program listesi|what (departments|programs)|list of|which (departments|programs)|qaysi (bo'?lim|fakultet)|bo'?limlar|mavjud|какие (факультет|программ|специальност)|какие отделени|список (программ|факультет)|koji (odjel|fakultet|program)|koja (odjeljenj|studij)|postoje|welche (studiengang|fakultat|program)|quels? (departement|programme)|cuales? (departamento|programa|carrera))/.test(q),
+    konum: /(nerede|nerde|adres|konum|ulasim|nasil gid|nasil gel|harita|yol|otobus|servis|kampus nerede|where|address|location|direction|how to get|map|campus|qayerda|где|как добраться|gdje|kako do|wo (ist|liegt)|ou se trouve|donde)/.test(q),
+    uluslararasi: /(uluslararasi|yabanci|yurt disi|international|foreign|usd|dolar|visa|vize|oturma izni|residence|xorijiy|иностранн|inostrani|međunarodn|medjunarodn|ausland|etranger|extranjer)/.test(q),
   };
 }
 
@@ -284,10 +360,10 @@ export interface Retrieval {
 }
 
 function etiketle(dil: DilBilgisi, tr: string, en: string, ru: string, uz?: string): string {
+  if (dil.kod === 'tr') return tr;
   if (dil.kod === 'ru') return ru;
   if (dil.kod === 'uz') return uz ?? en;
-  if (dil.kod === 'en' || dil.yabanci) return en;
-  return tr;
+  return en; // en, hr, de, fr, es, ar, bilinmeyen → İngilizce etiket
 }
 
 export function retrieve(question: string, dataset: Dataset): Retrieval {
