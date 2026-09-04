@@ -1,8 +1,14 @@
 /**
  * Mudy - Mudanya Üniversitesi öğrenci bilgi asistanı widget'ı.
  *
- * Kullanım:
- *   <script src="https://.../widget.js" data-api="https://.../api/chat" defer></script>
+ * Kullanım (başka sitede):
+ *   <script
+ *     src="https://mudy-one.vercel.app/widget.js"
+ *     data-api="https://mudy-one.vercel.app/api/chat"
+ *     defer></script>
+ *
+ * Avatar ve API, script'in src origin'inden çözülür; host sitenin
+ * kökünde mudy.jpeg aranmaz.
  *
  * Shadow DOM kullanıyor: sitenin CSS'i widget'ı, widget'ın CSS'i siteyi bozmaz.
  */
@@ -10,10 +16,19 @@
   'use strict';
 
   const script = document.currentScript || document.querySelector('script[src*="widget.js"]');
-  const API = (script && script.dataset.api) || new URL('/api/chat', location.origin).toString();
+
+  function scriptOrigin() {
+    try {
+      if (script && script.src) return new URL(script.src).origin;
+    } catch (_) { /* ignore */ }
+    return location.origin;
+  }
+
+  const KOK = scriptOrigin();
+  const API = (script && script.dataset.api) || new URL('/api/chat', KOK).toString();
   const BASLIK = (script && script.dataset.baslik) || 'Mudy';
   const ALT_BASLIK = (script && script.dataset.altBaslik) || 'Mudanya Üniversitesi Öğrenci Asistanı';
-  const AVATAR = (script && script.dataset.avatar) || new URL('/mudy.jpeg', location.origin).toString();
+  const AVATAR = (script && script.dataset.avatar) || new URL('/mudy.jpeg', KOK).toString();
 
   const ONERILER = [
     'Bilgisayar Mühendisliği ücreti ne kadar?',
@@ -269,7 +284,7 @@
     return d.innerHTML;
   }
 
-  /** Model bazen cevabin basina isim etiketi koyuyor; widget zaten avatar gosteriyor. */
+  
   function imzaSil(metin) {
     let s = metin.replace(/^\uFEFF/, '');
     s = s.replace(/^\s*(\*{0,2}Mudy\*{0,2})\s*[:\-–]?\s*/i, '');
