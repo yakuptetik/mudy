@@ -1,0 +1,907 @@
+{
+  "akademik_yil": "2026-2027",
+  "cekilme_tarihi": "2026-09-03",
+  "programlar": [
+    {
+      "slug": "cocuk-gelisimi--tr",
+      "ad": "Çocuk Gelişimi",
+      "ad_sade": "Çocuk Gelişimi",
+      "fakulte": "Sağlık Bilimleri Fakültesi",
+      "seviye": "lisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 1028000,
+        "burslu_50": 514000,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 4800,
+        "standart": 6000,
+        "kontenjan": 50,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/saglik-bilimleri-fakultesi-566722/bolum/cocuk-gelisimi-550048",
+      "aciklama": "Sağlıkta Geleceği Birlikte Şekillendirelim\n\nÜniversitemizin Çocuk Gelişimi Bölümünde amaç, 0-18 yaş aralığında normal gelişim gösteren, özel gereksinimli, korunmaya ihtiyacı olan (risk altında, çalışan, mülteci, suça itilmiş, ihmal edilmiş ve istismara uğramış) ya da hastanede yatan çocukların gelişimlerini (bilişsel, dil, sosyal, duygusal ve motor gelişim; öz bakım becerileri) bütüncül bir bakış açısıyla ele alarak çocuğa, aileye, topluma hizmet sunan mezunlar yetiştirmektir. Mezunların, aldıkları çocuk gelişimci unvanlarıyla, gelişimsel tarama, değerlendirme, tanılama, izlem, gelişimsel destek ve müdahale programları hazırlama ve uygulama; ailelere ve çocuk gelişimi alanında hizmet veren kişi, kurum ve kuruluşlara danışmanlık hizmeti verme; bu kişi, kurum ve kuruluşlarla iş birliği yapma gibi konularda faaliyet göstermek üzere farklı sektörlerde çalışma yeterliliğine ve donanımına sahip olmaları hedeflenmektedir.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/saglik-bilimleri-fakultesi-566722/bolum/cocuk-gelisimi-550048"
+    },
+    {
+      "slug": "fizyoterapi-rehabilitasyon--tr",
+      "ad": "Fizyoterapi ve Rehabilitasyon",
+      "ad_sade": "Fizyoterapi ve Rehabilitasyon",
+      "fakulte": "Sağlık Bilimleri Fakültesi",
+      "seviye": "lisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 1028000,
+        "burslu_50": 514000,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 4800,
+        "standart": 6000,
+        "kontenjan": 45,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/saglik-bilimleri-fakultesi-566722/bolum/fizyoterapi-ve-rehabilitasyon-569404",
+      "aciklama": "Sağlıkta Geleceği Birlikte Şekillendirelim\n\nFizyoterapistler, fizyoterapi alanında kullanabileceği temel tıp ve sağlık bilimleri ile ilgili temel bilgiye sahip olan, fizyoterapi uygulamalarında kullanabileceği fizyoterapiye özgü etik, yeterli, güncel ve güvenilir değerlendirme, tedavi programı planlama, uygulama, tedaviyi sonlandırma ve programı değiştirme yetkinliği bulunan sağlık personelidir.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/saglik-bilimleri-fakultesi-566722/bolum/fizyoterapi-ve-rehabilitasyon-569404"
+    },
+    {
+      "slug": "hemsirelik--tr",
+      "ad": "Hemşirelik",
+      "ad_sade": "Hemşirelik",
+      "fakulte": "Sağlık Bilimleri Fakültesi",
+      "seviye": "lisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 1028000,
+        "burslu_50": 514000,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 4800,
+        "standart": 6000,
+        "kontenjan": 45,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/saglik-bilimleri-fakultesi-566722/bolum/hemsirelik-712487",
+      "aciklama": "Sağlıkta Geleceği Birlikte Şekillendirelim\n\nHemşirelik Bölümünün Amacı sağlık bilimleri ile ilgili temel bilgiler ve toplumun sağlık gereksinimleri doğrultusunda birey, aile ve toplumun sağlığının korunması, geliştirilmesi, tedavi ve rehabilitasyonunda kanıta dayalı ve bütüncül hemşirelik bakımı verecek, aynı zamanda bilim ve teknolojideki güncel gelişmeleri takip edecek bilgi, beceri ve tutum sahibi hemşireler yetiştirmektir.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/saglik-bilimleri-fakultesi-566722/bolum/hemsirelik-712487"
+    },
+    {
+      "slug": "beslenme-diyetetik--tr",
+      "ad": "Beslenme ve Diyetetik",
+      "ad_sade": "Beslenme ve Diyetetik",
+      "fakulte": "Sağlık Bilimleri Fakültesi",
+      "seviye": "lisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 1028000,
+        "burslu_50": 514000,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 4800,
+        "standart": 6000,
+        "kontenjan": 45,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/saglik-bilimleri-fakultesi-566722/bolum/beslenme-ve-diyetetik-906794",
+      "aciklama": "Sağlıkta Geleceği Birlikte Şekillendirelim\n\nBeslenme ve Diyetetik Bölümü’nde, bireylerin, ailelerin ve toplumun yaşam boyu yeterli ve dengeli beslenmesinin sağlanması ile sağlığının korunması, iyileştirilmesi, geliştirilmesi ve yaşam kalitesinin artırılması amacıyla, ulusal ve uluslararası standartlar çerçevesinde belirlenen niteliklere uygun, çağdaş, evrensel düşünce ve etik değerlere sahip, ülke ve dünya kültürüne saygılı diyetisyenler yetişmekte; bilim ve teknolojiye dayalı, ulusal ve uluslararası standartlarda eğitim- öğretim, araştırma ve danışmanlık hizmeti sunulmaktadır.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/saglik-bilimleri-fakultesi-566722/bolum/beslenme-ve-diyetetik-906794"
+    },
+    {
+      "slug": "ebelik--tr",
+      "ad": "Ebelik",
+      "ad_sade": "Ebelik",
+      "fakulte": "Sağlık Bilimleri Fakültesi",
+      "seviye": "lisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 1028000,
+        "burslu_50": 514000,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 4800,
+        "standart": 6000,
+        "kontenjan": null,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/saglik-bilimleri-fakultesi-566722/bolum/ebelik-115530",
+      "aciklama": "Sağlıkta Geleceği Birlikte Şekillendirelim\n\nEbelik Bölümünün Amacı ebelik mesleğinin her alanında hizmet verebilecek bilgi, beceri ve tutumla donanmış, kanıta dayalı bakım veren, bilimsel araştırmalar yaparak ebelik mesleğinin gelişimine katkıda bulunabilen, eleştirel düşünebilen, problem çözme yeteneği gelişmiş, etik değerleri benimsemiş, insan hak ve özgürlüklerine saygılı ve yaşam boyu öğrenmenin önemini ilke edinmiş profesyonel ebeler yetiştirmektir.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/saglik-bilimleri-fakultesi-566722/bolum/ebelik-115530"
+    },
+    {
+      "slug": "dil-konusma-terapisi--tr",
+      "ad": "Dil ve Konuşma Terapisi",
+      "ad_sade": "Dil ve Konuşma Terapisi",
+      "fakulte": "Sağlık Bilimleri Fakültesi",
+      "seviye": "lisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 1028000,
+        "burslu_50": 514000,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 4800,
+        "standart": 6000,
+        "kontenjan": 30,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/saglik-bilimleri-fakultesi-566722/bolum/dil-ve-konusma-terapisi-093648",
+      "aciklama": "Sağlıkta Geleceği Birlikte Şekillendirelim\n\nDil ve konuşma terapistleri dil, konuma, ses ve yutma bozukluklarının belirlenmesi ve rehabilitasyonu alanında çalışmalar yapar. Dil ve konuşma bozuklukları alanı disiplinler arası etkileşimin gerekli olduğu ancak kendi mesleki otonomisine sahip bir bilim dalıdır. Mezunlara dil ve konuma terapisti ünvanı verilmektedir. Üniversitemizin Dil ve Konuşma Bölümünde mesleki etik ve otonomiye sahip, bilgili, sorumluluk alabilen ve mesleki uygulama becerisi kazanmış, mesleğini icra edebilecek alt yapıya sahip dil ve konuşma terapistleri yetiştirilmesi hedeflenmektedir.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/saglik-bilimleri-fakultesi-566722/bolum/dil-ve-konusma-terapisi-093648"
+    },
+    {
+      "slug": "psikoloji--en",
+      "ad": "Psikoloji (İngilizce)",
+      "ad_sade": "Psikoloji",
+      "fakulte": "Sanat ve Sosyal Bilimler Fakültesi",
+      "seviye": "lisans",
+      "egitim_dili": "İngilizce",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 1362000,
+        "burslu_50": 681000,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 5200,
+        "standart": 6500,
+        "kontenjan": 60,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/sanat-ve-sosyal-bilimler-fakultesi-528368/bolum/psikoloji-ingilizce-549210",
+      "aciklama": "İnsan Davranışını Keşfedin, Geleceği Anlayın\n\nÜniversitemizin Psikoloji Bölümünde amaç, psikolojinin temel ilke ve kuramlarına hâkim, bilimsel düşünebilme yetisine sahip, mesleki ve bilimsel etik ilkeler çerçevesinde hareket eden, eleştirel, özerk ve yaratıcı düşünebilen, bireysel ve toplumsal sorunlara yaratıcı çözümler üretebilen mezunlar yetiştirmektir.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/sanat-ve-sosyal-bilimler-fakultesi-528368/bolum/psikoloji-ingilizce-549210"
+    },
+    {
+      "slug": "psikoloji--tr",
+      "ad": "Psikoloji",
+      "ad_sade": "Psikoloji",
+      "fakulte": "Sanat ve Sosyal Bilimler Fakültesi",
+      "seviye": "lisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 1224000,
+        "burslu_50": 612000,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 4800,
+        "standart": 6000,
+        "kontenjan": 60,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/sanat-ve-sosyal-bilimler-fakultesi-528368/bolum/psikoloji-278278",
+      "aciklama": "İnsan Davranışını Keşfedin, Geleceği Anlayın\n\nÜniversitemizin Psikoloji Bölümünde amaç, psikolojinin temel ilke ve kuramlarına hâkim, bilimsel düşünebilme yetisine sahip, mesleki ve bilimsel etik ilkeler çerçevesinde hareket eden, eleştirel, özerk ve yaratıcı düşünebilen, bireysel ve toplumsal sorunlara yaratıcı çözümler üretebilen mezunlar yetiştirmektir.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/sanat-ve-sosyal-bilimler-fakultesi-528368/bolum/psikoloji-278278"
+    },
+    {
+      "slug": "ingiliz-dili-edebiyati--tr",
+      "ad": "İngiliz Dili ve Edebiyatı",
+      "ad_sade": "İngiliz Dili ve Edebiyatı",
+      "fakulte": "Sanat ve Sosyal Bilimler Fakültesi",
+      "seviye": "lisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 770000,
+        "burslu_50": 385000,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 4800,
+        "standart": 6000,
+        "kontenjan": 60,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/sanat-ve-sosyal-bilimler-fakultesi-528368/bolum/ingiliz-dili-ve-edebiyati-222241",
+      "aciklama": "İngilizceyi Kültür ve Edebiyatla Birlikte Öğrenin\n\nÜniversitemizin İngiliz Dili Edebiyatı Bölümünde amaç, Öncelikle İngilizceyi Dilsel yeterlilik açısından tamamlamış ve İngiliz Edebiyatını inceleyip, analiz edip öğrenmiş ve bu bilgiler ışığında fikirler üretebilen farklı kültürleri karşılaştırıp akademik ve toplumsal zeminlerde tartışabilen mezunlar yetiştirmektir. Ayrıca öğrencilere aldıkları eğitimle çağdaş ve güncel konuları ülkemiz özelinde ve dünya genelinde yorumlayabilme becerileri kazandırmaktır.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/sanat-ve-sosyal-bilimler-fakultesi-528368/bolum/ingiliz-dili-ve-edebiyati-222241"
+    },
+    {
+      "slug": "isletme--tr",
+      "ad": "İşletme",
+      "ad_sade": "İşletme",
+      "fakulte": "Sanat ve Sosyal Bilimler Fakültesi",
+      "seviye": "lisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 1138000,
+        "burslu_50": 569000,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 4800,
+        "standart": 6000,
+        "kontenjan": 80,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/sanat-ve-sosyal-bilimler-fakultesi-528368/bolum/isletme-241744",
+      "aciklama": "Geleceğin İş Liderleri Burada Yetişiyor\n\nİşletme Bölümü, günümüzde gerek özel sektörde gerekse akademide yönetim bilimlerinin mihenk taşını oluşturan bir programdır. Kamu kurumları, sivil toplum Kuruluşları, şirketler gibi pek çok alanda yönetimin gerçekleşebilmesi için kararların alınması gerekmektedir, bu karar mekanizmasının doğru işleyebilmesi ise teorik bilgiler çerçevesinde gerçekleşmektedir. Bu hizmetin ne kadar ve nasıl üretileceğinin planlanmasından başlayarak, finans konularını kapsayan, insan kaynakları süreçlerinin yürütülmesini, ürünün veya hizmetin müşteriye ulaşması aşamalarının sürekliliğini takip eden bir dizi karar mekanizmalarından ilerler. Kurumlar ve firmalar ayrıca kendi değerlerini yaratarak, geleceğe yönelik stratejilerini de geliştirmek durumundadırlar. Bu kapsamda, Üniversitemizin İşletme Bölümü bu kararların alınmasında yol gösterecek teorileri ve uygulamaları öğrenmiş ve içselleştirmiş bireyler yetiştirmeyi amaçlamaktadır.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/sanat-ve-sosyal-bilimler-fakultesi-528368/bolum/isletme-241744"
+    },
+    {
+      "slug": "isletme--en",
+      "ad": "İşletme (İngilizce)",
+      "ad_sade": "İşletme",
+      "fakulte": "Sanat ve Sosyal Bilimler Fakültesi",
+      "seviye": "lisans",
+      "egitim_dili": "İngilizce",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 1138000,
+        "burslu_50": 569000,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 5200,
+        "standart": 6500,
+        "kontenjan": 30,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/sanat-ve-sosyal-bilimler-fakultesi-528368/bolum/isletme-ingilizce-524034",
+      "aciklama": "Geleceğin İş Liderleri Burada Yetişiyor\n\nİşletme Bölümü, günümüzde gerek özel sektörde gerekse akademide yönetim bilimlerinin mihenk taşını oluşturan bir programdır. Kamu kurumları, sivil toplum Kuruluşları, şirketler gibi pek çok alanda yönetimin gerçekleşebilmesi için kararların alınması gerekmektedir, bu karar mekanizmasının doğru işleyebilmesi ise teorik bilgiler çerçevesinde gerçekleşmektedir. Bu hizmetin ne kadar ve nasıl üretileceğinin planlanmasından başlayarak, finans konularını kapsayan, insan kaynakları süreçlerinin yürütülmesini, ürünün veya hizmetin müşteriye ulaşması aşamalarının sürekliliğini takip eden bir dizi karar mekanizmalarından ilerler. Kurumlar ve firmalar ayrıca kendi değerlerini yaratarak, geleceğe yönelik stratejilerini de geliştirmek durumundadırlar. Bu kapsamda, Üniversitemizin İşletme Bölümü bu kararların alınmasında yol gösterecek teorileri ve uygulamaları öğrenmiş ve içselleştirmiş bireyler yetiştirmeyi amaçlamaktadır.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/sanat-ve-sosyal-bilimler-fakultesi-528368/bolum/isletme-ingilizce-524034"
+    },
+    {
+      "slug": "ekonomi-finans--tr",
+      "ad": "Ekonomi ve Finans",
+      "ad_sade": "Ekonomi ve Finans",
+      "fakulte": "Sanat ve Sosyal Bilimler Fakültesi",
+      "seviye": "lisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 1138000,
+        "burslu_50": 569000,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 4800,
+        "standart": 6000,
+        "kontenjan": 60,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/sanat-ve-sosyal-bilimler-fakultesi-528368/bolum/ekonomi-ve-finans-412003",
+      "aciklama": "Geleceğin Ekonomi ve Finans Uzmanları Burada Yetişiyor\n\nDijital ürün süreçlerinin ve iletişim kanallarının yaygınlaştığı, bilgi çağının yoğun olarak yaşandığı ve bu nedenle geçmişe kıyasla çok daha karmaşık ve rekabetçi hale gelen iş dünyasında, hem ekonomik hem de finansal performans gerek kurumlar gerekse ülkeler açısından kritik bir araç ve gösterge olarak öne çıkmaktadır. Ekonomik ve finansal yapıların yanı sıra, ekonomik büyüme, kalkınma, gelir dağılımı, uluslararası ticaret, işsizlik, enflasyon ve para politikaları gibi makroekonomik unsurlar devletlerin politika oluşturma süreçlerinde stratejik bir rol oynamaktadır. Bu da ekonomi ve finans alanlarının birbirinden ayrılmaz bir bütün olduğunu ve bu disiplinlerin kavranmasının ne denli mühim olduğunu ortaya koymaktadır.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/sanat-ve-sosyal-bilimler-fakultesi-528368/bolum/ekonomi-ve-finans-412003"
+    },
+    {
+      "slug": "ekonomi-finans--en",
+      "ad": "Ekonomi Finans (İngilizce)",
+      "ad_sade": "Ekonomi Finans",
+      "fakulte": "Sanat ve Sosyal Bilimler Fakültesi",
+      "seviye": "lisans",
+      "egitim_dili": "İngilizce",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 1138000,
+        "burslu_50": 569000,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": null,
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/sanat-ve-sosyal-bilimler-fakultesi-528368/bolum/ekonomi-ve-finans-ingilizce-189488",
+      "aciklama": "Geleceğin Ekonomi ve Finans Uzmanları Burada Yetişiyor\n\nDijital ürün süreçlerinin ve iletişim kanallarının yaygınlaştığı, bilgi çağının yoğun olarak yaşandığı ve bu nedenle geçmişe kıyasla çok daha karmaşık ve rekabetçi hale gelen iş dünyasında, hem ekonomik hem de finansal performans gerek kurumlar gerekse ülkeler açısından kritik bir araç ve gösterge olarak öne çıkmaktadır. Ekonomik ve finansal yapıların yanı sıra, ekonomik büyüme, kalkınma, gelir dağılımı, uluslararası ticaret, işsizlik, enflasyon ve para politikaları gibi makroekonomik unsurlar devletlerin politika oluşturma süreçlerinde stratejik bir rol oynamaktadır. Bu da ekonomi ve finans alanlarının birbirinden ayrılmaz bir bütün olduğunu ve bu disiplinlerin kavranmasının ne denli mühim olduğunu ortaya koymaktadır.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/sanat-ve-sosyal-bilimler-fakultesi-528368/bolum/ekonomi-ve-finans-ingilizce-189488"
+    },
+    {
+      "slug": "gorsel-iletisim-tasarimi--tr",
+      "ad": "Görsel İletişim Tasarımı",
+      "ad_sade": "Görsel İletişim Tasarımı",
+      "fakulte": "Sanat ve Sosyal Bilimler Fakültesi",
+      "seviye": "lisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 1138000,
+        "burslu_50": 569000,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 4800,
+        "standart": 6000,
+        "kontenjan": 60,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/sanat-ve-sosyal-bilimler-fakultesi-528368/bolum/gorsel-iletisim-tasarimi-259625",
+      "aciklama": "Geleceğin Görsel İletişim Tasarımcıları Burada Yetişiyor\n\nBölüm Hakkında: Görsel İletişim Tasarımı Bölümü, yaratıcılık ve tasarım odaklı bir yapı üzerine kurulmuş olup, eğitim programı da bu temel üzerine şekillendirilmiştir. Hedef, klasik tasarım eğitiminden daha fazlasını sunmaktır; çok yönlü teknolojilerin etkin kullanımını kapsayan ve tüm medya araçları için tasarım geliştirmede farklı uzmanlıkları gerektiren disiplinlerarası bir eğitim programı oluşturmaktır. Görsel İletişim Tasarımı, günümüzde kamu kuruluşlarından yaratıcı endüstrilere ve reklam tanıtım sektörüne kadar geniş bir yelpazede, bilgi ve düşüncelerin paylaşım süreçlerini tanımlamak için kullanılan iletişim alanının önemli bir parçası haline gelmiştir.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/sanat-ve-sosyal-bilimler-fakultesi-528368/bolum/gorsel-iletisim-tasarimi-259625"
+    },
+    {
+      "slug": "lojistik-yonetimi--tr",
+      "ad": "Lojistik Yönetimi",
+      "ad_sade": "Lojistik Yönetimi",
+      "fakulte": "Sanat ve Sosyal Bilimler Fakültesi",
+      "seviye": "lisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 1138000,
+        "burslu_50": 569000,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 4800,
+        "standart": 6000,
+        "kontenjan": 30,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/sanat-ve-sosyal-bilimler-fakultesi-528368/bolum/lojistik-yonetimi-867315",
+      "aciklama": "Geleceğin Lojistik Yöneticileri Burada Yetişiyor\n\nİnsanoğlunun var olmasıyla başlayan ve süregelen lojistik, ihtiyaçlarımızı karşıladığımız her türlü mal ve hizmetin üretiminde kullanılan ham maddenin başlangıç noktasından ürünün tüketildiği son noktaya kadar geçen süreçte hayatımızın tüm aşamalarında yer almaktadır. Buradan hareketle yürütülen lojistik faaliyetlere hammaddenin temini, üretilen ürünün paketlenmesi, etiketlenmesi, depolanması, taşınması, rafta ya da adresinde tüketiciye sunulması, ihraç edilmesi durumunda gümrük işlemlerinin yapılması, kullanılan ürün atıklarının yok edilmesi veya değerlendirilmesini örnek olarak verebiliriz.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/sanat-ve-sosyal-bilimler-fakultesi-528368/bolum/lojistik-yonetimi-867315"
+    },
+    {
+      "slug": "yonetim-bilisim-sistemleri--tr",
+      "ad": "Yönetim Bilişim Sistemleri",
+      "ad_sade": "Yönetim Bilişim Sistemleri",
+      "fakulte": "Sanat ve Sosyal Bilimler Fakültesi",
+      "seviye": "lisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 1138000,
+        "burslu_50": 569000,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 4800,
+        "standart": 6000,
+        "kontenjan": 35,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/sanat-ve-sosyal-bilimler-fakultesi-528368/bolum/yonetim-bilisim-sistemleri-125951",
+      "aciklama": "Geleceğin Yönetim Bilişim Uzmanları Burada Yetişiyor\n\nYönetim Bilişim Sistemleri (YBS) programı, bilgi teknolojileri ve işletme yönetimini bir araya getiren disiplinler arası bir programdır. Günümüzde dijitalleşmenin etkisiyle bilgi ve iletişim teknolojileri artık sadece teknik bir alan olmaktan çıkmış; aynı zamanda işletmelerin karar alma süreçlerini doğrudan etkileyen stratejik bir faktör haline gelmiştir. Bu bağlamda YBS, işletmelerde veriye dayalı olarak hızlı ve etkili kararlar alınmasını sağlayan teknolojileri anlayan ve yöneten profesyoneller yetiştirmeyi hedeflemektedir.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/sanat-ve-sosyal-bilimler-fakultesi-528368/bolum/yonetim-bilisim-sistemleri-125951"
+    },
+    {
+      "slug": "gastronomi-mutfak-sanatlari--tr",
+      "ad": "Gastronomi ve Mutfak Sanatları",
+      "ad_sade": "Gastronomi ve Mutfak Sanatları",
+      "fakulte": "Sanat ve Sosyal Bilimler Fakültesi",
+      "seviye": "lisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 1138000,
+        "burslu_50": 569000,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": null,
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/sanat-ve-sosyal-bilimler-fakultesi-528368/bolum/gastronomi-ve-mutfak-sanatlari-010217",
+      "aciklama": "2026-2027 Akademik Yılında İlk Öğrencilerini Bekliyor\n\nÜniversitemizin Mutfak Sanatları ve Gastronomi Programı; gastronomiyi yalnızca yemek hazırlama süreci olarak değil, kültür, sanat, bilim ve işletmecilik boyutlarıyla ele alan çağdaş bir eğitim anlayışı sunmaktadır. Program; dünya mutfaklarına hâkim, yaratıcı düşünme becerisine sahip, profesyonel mutfak tekniklerini etkin şekilde kullanabilen ve sektörün ihtiyaç duyduğu nitelikli gastronomi uzmanlarını yetiştirmeyi amaçlamaktadır.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/sanat-ve-sosyal-bilimler-fakultesi-528368/bolum/gastronomi-ve-mutfak-sanatlari-010217"
+    },
+    {
+      "slug": "bilgisayar-muhendisligi--tr",
+      "ad": "Bilgisayar Mühendisliği",
+      "ad_sade": "Bilgisayar Mühendisliği",
+      "fakulte": "Mühendislik, Mimarlık ve Tasarım Fakültesi",
+      "seviye": "lisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 1224000,
+        "burslu_50": 612000,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 4800,
+        "standart": 6000,
+        "kontenjan": 45,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/muhendislik-mimarlik-tasarim/bolum/bilgisayar-muhendisligi-009248",
+      "aciklama": "Geleceğin Mühendisleri Burada Yetişiyor\n\nBilgisayar mühendisliği; bilgisayarların bilgiyi nasıl yapılandıracağı, saklayacağı, paylaşacağı, işleyeceği, ölçeceğine dair çalışmaları konu alır. Bilgisayar mühendisliği lisans programı eğitimimiz, öğrencilerin temel mühendislik, yazılım, donanım ve bilgisayar bilimleri konularında iddialı bir bilgi altyapısı oluşturmaları hedefleri ile tasarlanmıştır. Ayrıca, üniversitemizde öğrencilerimize teorik bilgilerini pratikte uygulayabilecekleri son teknoloji laboratuvar altyapısı ve mezuniyet öncesinde iş tecrübelerini artırmak için sekizinci yarıyılda İşletmede Mesleki Eğitim uygulaması imkanları sağlanmaktadır.\n\nMudanya Üniversitesi'nde eğitim, dersliklerin ötesine geçer. Öğrencilerimizi küresel iş dünyasının dinamiklerine hazırlıyor, onlara dünyayı bir kampüs olarak görme vizyonu aşılıyoruz.\n\nBurada aldığınız eğitim, hayat boyu sürecek bir başarı hikayesinin ilk adımıdır.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/muhendislik-mimarlik-tasarim/bolum/bilgisayar-muhendisligi-009248"
+    },
+    {
+      "slug": "bilgisayar-muhendisligi--en",
+      "ad": "Bilgisayar Mühendisliği (İngilizce)",
+      "ad_sade": "Bilgisayar Mühendisliği",
+      "fakulte": "Mühendislik, Mimarlık ve Tasarım Fakültesi",
+      "seviye": "lisans",
+      "egitim_dili": "İngilizce",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 1362000,
+        "burslu_50": 681000,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 5200,
+        "standart": 6500,
+        "kontenjan": 45,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/muhendislik-mimarlik-tasarim/bolum/bilgisayar-muhendisligi-ingilizce-420491",
+      "aciklama": "Geleceğin Mühendisleri Burada Yetişiyor\n\nBilgisayar mühendisliği; bilgisayarların bilgiyi nasıl yapılandıracağı, saklayacağı, paylaşacağı, işleyeceği, ölçeceğine dair çalışmaları konu alır. Bilgisayar mühendisliği lisans programı eğitimimiz, öğrencilerin temel mühendislik, yazılım, donanım ve bilgisayar bilimleri konularında iddialı bir bilgi altyapısı oluşturmaları hedefleri ile tasarlanmıştır. Ayrıca, üniversitemizde öğrencilerimize teorik bilgilerini pratikte uygulayabilecekleri son teknoloji laboratuvar altyapısı ve mezuniyet öncesinde iş tecrübelerini artırmak için sekizinci yarıyılda İşletmede Mesleki Eğitim uygulaması imkanları sağlanmaktadır.\n\nMudanya Üniversitesi'nde eğitim, dersliklerin ötesine geçer. Öğrencilerimizi küresel iş dünyasının dinamiklerine hazırlıyor, onlara dünyayı bir kampüs olarak görme vizyonu aşılıyoruz.\n\nBurada aldığınız eğitim, hayat boyu sürecek bir başarı hikayesinin ilk adımıdır.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/muhendislik-mimarlik-tasarim/bolum/bilgisayar-muhendisligi-ingilizce-420491"
+    },
+    {
+      "slug": "elektrik-elektronik-muhendisligi--en",
+      "ad": "Elektrik - Elektronik Mühendisliği (İngilizce)",
+      "ad_sade": "Elektrik - Elektronik Mühendisliği",
+      "fakulte": "Mühendislik, Mimarlık ve Tasarım Fakültesi",
+      "seviye": "lisans",
+      "egitim_dili": "İngilizce",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 1224000,
+        "burslu_50": 612000,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 5200,
+        "standart": 6500,
+        "kontenjan": 30,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/muhendislik-mimarlik-tasarim/bolum/elektrik-elektronik-muhendisligi-ingilizce-941992",
+      "aciklama": "Geleceğin Mühendisleri Burada Yetişiyor\n\nElektrik- Elektronik Mühendisliği Bölümümüzde, modern dünyanın dinamik ve hızla gelişen teknoloji ihtiyaçlarına cevap verebilecek nitelikli mühendisler yetiştirmeyi amaçlamaktayız. Bölümümüz, elektrik ve elektronik sistemlerin tasarımı, analizi, geliştirilmesi ve uygulanması konularında öğrencilere geniş kapsamlı bir eğitim sunar. Bölümümüzde, temel mühendislik bilimleri ile başlayarak elektrik ve elektronik mühendisliğinin tüm alanlarında uzmanlaşmayı sağlayacak kapsamlı bir müfredat programı mevcuttur. Programımızda yer alan başlıca zorunlu temel derslerimiz arasında: Temel Elektrik-Elektronik, Devre Teorisi, Sinyaller ve Sistemler, Elektromanyetik Alanlar, Kontrol Sistemleri, Güç Elektroniği, Mikroişlemci ve mikrokontrolörler, Telekomünikasyon v.b. bulunmakta olup geniş bir seçmeli ders yelpazesine sahibiz. Ayrıca bölümümüz, öğrencilere teorik bilgilerini pratikte uygulayabilecekleri son teknoloji laboratuvar imkanları sunmaktadır. Başlıca laboratuvarlarımız arasında: Elektrik-Elektronik Devreleri Laboratuvarı, Elektronik ve Haberleşme Laboratuvarı, Mikroişlemci ve Gömülü Sistemler Laboratuvarı, Kontrol Sistemleri Laboratuvarı bulunmaktadır.\n\nMudanya Üniversitesi'nde eğitim, dersliklerin ötesine geçer. Öğrencilerimizi küresel iş dünyasının dinamiklerine hazırlıyor, onlara dünyayı bir kampüs olarak görme vizyonu aşılıyoruz.\n\nBurada aldığınız eğitim, hayat boyu sürecek bir başarı hikayesinin ilk adımıdır.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/muhendislik-mimarlik-tasarim/bolum/elektrik-elektronik-muhendisligi-ingilizce-941992"
+    },
+    {
+      "slug": "endustri-muhendisligi--tr",
+      "ad": "Endüstri Mühendisliği",
+      "ad_sade": "Endüstri Mühendisliği",
+      "fakulte": "Mühendislik, Mimarlık ve Tasarım Fakültesi",
+      "seviye": "lisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 1224000,
+        "burslu_50": 612000,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 4800,
+        "standart": 6000,
+        "kontenjan": 45,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/muhendislik-mimarlik-tasarim/bolum/endustri-muhendisligi-894822",
+      "aciklama": "Optimize Edin, Yönetin, Geleceği Şekillendirin\n\n[Hakkımızda](https://mudanya.edu.tr/duyuru-detay?slug=2026-2027-lisansustu-basvurulari-basladi-228315)\n\nMudanya Üniversitesi'nde eğitim, dersliklerin ötesine geçer. Öğrencilerimizi küresel iş dünyasının dinamiklerine hazırlıyor, onlara dünyayı bir kampüs olarak görme vizyonu aşılıyoruz.\n\nBurada aldığınız eğitim, hayat boyu sürecek bir başarı hikayesinin ilk adımıdır.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/muhendislik-mimarlik-tasarim/bolum/endustri-muhendisligi-894822"
+    },
+    {
+      "slug": "endustri-muhendisligi--en",
+      "ad": "Endüstri Mühendisliği (İngilizce)",
+      "ad_sade": "Endüstri Mühendisliği",
+      "fakulte": "Mühendislik, Mimarlık ve Tasarım Fakültesi",
+      "seviye": "lisans",
+      "egitim_dili": "İngilizce",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 1362000,
+        "burslu_50": 681000,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 5200,
+        "standart": 6500,
+        "kontenjan": 45,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/muhendislik-mimarlik-tasarim/bolum/endustri-muhendisligi-ingilizce-497765",
+      "aciklama": "Optimize Edin, Yönetin, Geleceği Şekillendirin\n\nEndüstri Mühendisliği, üretim sistemlerin etkili ve verimli çalışmasını sağlamayı konu alır. Sanayi Devrimiyle birlikte büyük karmaşık sistemlerin planlanması, organizasyonu ve idaresi önemli bir ihtiyaç haline gelmiştir. Endüstri Mühendisliği, bu işleri gerçekleştirecek kişilere olan ihtiyaç doğrultusunda ortaya çıkan ilk mühendislik dallarından biridir. Endüstri mühendisliğinin öncü çalışmaları 20.yüzyıl başlarında Bilimsel Yönetim olarak başlamıştır.\n\nMudanya Üniversitesi'nde eğitim, dersliklerin ötesine geçer. Öğrencilerimizi küresel iş dünyasının dinamiklerine hazırlıyor, onlara dünyayı bir kampüs olarak görme vizyonu aşılıyoruz.\n\nBurada aldığınız eğitim, hayat boyu sürecek bir başarı hikayesinin ilk adımıdır.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/muhendislik-mimarlik-tasarim/bolum/endustri-muhendisligi-ingilizce-497765"
+    },
+    {
+      "slug": "endustriyel-tasarim--tr",
+      "ad": "Endüstriyel Tasarım",
+      "ad_sade": "Endüstriyel Tasarım",
+      "fakulte": "Mühendislik, Mimarlık ve Tasarım Fakültesi",
+      "seviye": "lisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 1224000,
+        "burslu_50": 612000,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 4800,
+        "standart": 6000,
+        "kontenjan": 30,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/muhendislik-mimarlik-tasarim/bolum/endustriyel-tasarim-436244",
+      "aciklama": "Fikirlerinizi Ürünlere Dönüştürün\n\nEndüstriyel Tasarım Bölümü, ürünlerin, arayüzlerin, ambalajların, kullanıcı etkileşimlerinin, hizmetlerin, sistemlerin ve fiziksel çevrelerin tasarımına odaklanır. Bölümümüzde öğrenciler; ergonomi, estetik ve işlevsellik gibi temel kriterleri göz önünde bulundurarak, kullanıcı deneyimini iyileştirmeye yönelik tasarım yapmayı öğrenirler.\n\nMudanya Üniversitesi'nde eğitim, dersliklerin ötesine geçer. Öğrencilerimizi küresel iş dünyasının dinamiklerine hazırlıyor, onlara dünyayı bir kampüs olarak görme vizyonu aşılıyoruz.\n\nBurada aldığınız eğitim, hayat boyu sürecek bir başarı hikayesinin ilk adımıdır.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/muhendislik-mimarlik-tasarim/bolum/endustriyel-tasarim-436244"
+    },
+    {
+      "slug": "malzeme-bilimi-teknolojileri--tr",
+      "ad": "Malzeme Bilimi ve Teknolojileri",
+      "ad_sade": "Malzeme Bilimi ve Teknolojileri",
+      "fakulte": "Mühendislik, Mimarlık ve Tasarım Fakültesi",
+      "seviye": "lisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 1224000,
+        "burslu_50": 612000,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": null,
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/muhendislik-mimarlik-tasarim/bolum/malzeme-bilimi-ve-teknolojileri-686299",
+      "aciklama": "2026-2027 Akademik Yılında İlk Öğrencilerini Bekliyor\n\nMalzeme Bilimi ve Teknolojileri Bölümü, maddelerin yapısını, özelliklerini ve performanslarını inceleyerek farklı sektörlerin ihtiyaçlarına yönelik yenilikçi malzemeler geliştirmeyi amaçlayan disiplinler arası bir mühendislik alanıdır. Fizik, kimya ve mühendislik bilimlerini bir araya getiren bölüm; metal, seramik, polimer, kompozit ve nanomalzemeler gibi farklı malzeme türlerinin üretimi ve geliştirilmesi üzerine çalışmalar yürütmektedir.\n\nMudanya Üniversitesi'nde eğitim, dersliklerin ötesine geçer. Öğrencilerimizi küresel iş dünyasının dinamiklerine hazırlıyor, onlara dünyayı bir kampüs olarak görme vizyonu aşılıyoruz.\n\nBurada aldığınız eğitim, hayat boyu sürecek bir başarı hikayesinin ilk adımıdır.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/muhendislik-mimarlik-tasarim/bolum/malzeme-bilimi-ve-teknolojileri-686299"
+    },
+    {
+      "slug": "biyoteknoloji-genetik--tr",
+      "ad": "Biyoteknoloji ve Genetik",
+      "ad_sade": "Biyoteknoloji ve Genetik",
+      "fakulte": "Mühendislik, Mimarlık ve Tasarım Fakültesi",
+      "seviye": "lisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 1224000,
+        "burslu_50": 612000,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": null,
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/muhendislik-mimarlik-tasarim/bolum/biyoteknoloji-ve-genetik-014266",
+      "aciklama": "2026-2027 Akademik Yılında İlk Öğrencilerini Bekliyor\n\nBiyoteknoloji ve Genetik Bölümü, canlı sistemlerin yapısını ve genetik özelliklerini inceleyerek bu bilgileri insan yaşamını geliştirecek teknolojilere dönüştürmeyi amaçlayan disiplinler arası bir bilim alanıdır. Moleküler biyoloji, genetik, mikrobiyoloji ve biyokimya gibi alanları bir araya getiren bölüm; sağlık, tarım, çevre ve gıda sektörlerinde yenilikçi çözümler geliştirmektedir. DNA’nın yapısının keşfi ve moleküler biyolojideki ilerlemeler, biyoteknolojinin hızla gelişmesini sağlamış ve modern genetik çalışmalarının temelini oluşturmuştur.\n\nMudanya Üniversitesi'nde eğitim, dersliklerin ötesine geçer. Öğrencilerimizi küresel iş dünyasının dinamiklerine hazırlıyor, onlara dünyayı bir kampüs olarak görme vizyonu aşılıyoruz.\n\nBurada aldığınız eğitim, hayat boyu sürecek bir başarı hikayesinin ilk adımıdır.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/muhendislik-mimarlik-tasarim/bolum/biyoteknoloji-ve-genetik-014266"
+    },
+    {
+      "slug": "anestezi--tr",
+      "ad": "Anestezi",
+      "ad_sade": "Anestezi",
+      "fakulte": "Meslek Yüksekokulu",
+      "seviye": "onlisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 683000,
+        "burslu_50": 341500,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 2800,
+        "standart": 3500,
+        "kontenjan": 60,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/anestezi-936864",
+      "aciklama": "Geleceğin Anestezi Teknikerleri Burada Yetişiyor\n\nÜniversitemizin Anestezi Programı, ameliyat öncesi hasta hazırlığını yapabilecek, ameliyat sırasında anestezi uzmanına destek verecek, ameliyat sonrasında hasta kontrolü ve denetimini üstlenebilecek yetkinlikte tekniker yetiştirmeyi amaçlamaktadır.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/anestezi-936864"
+    },
+    {
+      "slug": "ilk-acil-yardim--tr",
+      "ad": "İlk ve Acil Yardım",
+      "ad_sade": "İlk ve Acil Yardım",
+      "fakulte": "Meslek Yüksekokulu",
+      "seviye": "onlisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 683000,
+        "burslu_50": 341500,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 2800,
+        "standart": 3500,
+        "kontenjan": 60,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/ilk-ve-acil-yardim-969064",
+      "aciklama": "Geleceğin Paramedikleri Burada Yetişiyor\n\nÜniversitemizde İlk ve Acil Yardım Programı, hastane öncesi hasta ve yaralılara temel ve ileri yaşam desteği verebilen, her türlü sistem travmasını tanıyıp uygun acil yaklaşımı yapabilen; hasta ya da yaralıların ambulansla güvenli bir şekilde hastanelere ulaşmasını sağlayan, ekiple iş birliği içinde çalışabilen nitelikli sağlık teknikeri yetiştirmeyi amaçlamaktadır.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/ilk-ve-acil-yardim-969064"
+    },
+    {
+      "slug": "fizyoterapi--tr",
+      "ad": "Fizyoterapi",
+      "ad_sade": "Fizyoterapi",
+      "fakulte": "Meslek Yüksekokulu",
+      "seviye": "onlisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 683000,
+        "burslu_50": 341500,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 2800,
+        "standart": 3500,
+        "kontenjan": 60,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/fizyoterapi-180593",
+      "aciklama": "Geleceğin Fizyoterapi Teknikerleri Burada Yetişiyor\n\nÜniversitemizde Fizyoterapi Programı; bireylerde hareket bozukluğuna yol açan yaralanma, hastalık ve yaşlılık gibi durumlarda, ağrı ve fonksiyon bozukluklarında, uzman hekimin tanısından sonra gerekli tedavi yöntemlerinin planlanarak uygulanmasını gerçekleştiren teknikerler yetiştirmeyi amaçlamaktadır.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/fizyoterapi-180593"
+    },
+    {
+      "slug": "tibbi-goruntuleme-teknikleri--tr",
+      "ad": "Tıbbi Görüntüleme Teknikleri",
+      "ad_sade": "Tıbbi Görüntüleme Teknikleri",
+      "fakulte": "Meslek Yüksekokulu",
+      "seviye": "onlisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 683000,
+        "burslu_50": 341500,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 2800,
+        "standart": 3500,
+        "kontenjan": 60,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/tibbi-goruntuleme-teknikleri-818070",
+      "aciklama": "Geleceğin Tıbbi Görüntüleme Teknikerleri Burada Yetişiyor\n\nÜniversitemizde Tıbbi Görüntüleme Teknikleri Programı; günümüzün sayıları giderek artan sağlık kurumlarının, ileri teknoloji ürünü tıbbi araç-gereçleri (sayısal röntgen, bilgisayarlı tomografi, manyetik rezonans görüntüleyici, sayısal görüntüleyiciler vb.) başarı ile kullanabilecek, nitelikli ve donanımlı meslek elemanlarını yetiştirmeyi amaçlamaktadır.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/tibbi-goruntuleme-teknikleri-818070"
+    },
+    {
+      "slug": "grafik-tasarimi--tr",
+      "ad": "Grafik Tasarım",
+      "ad_sade": "Grafik Tasarım",
+      "fakulte": "Meslek Yüksekokulu",
+      "seviye": "onlisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 683000,
+        "burslu_50": 341500,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 2800,
+        "standart": 3500,
+        "kontenjan": 60,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/grafik-tasarimi-220566",
+      "aciklama": "Geleceğin Tasarımcıları Burada Yetişiyor\n\nGrafik Tasarımı ön lisans programı, kuramsal ve uygulamalı derslerden oluşmaktadır. Öğrenciler iki yıl süresince kuramsal ve uygulamalı atölye dersleriyle yaratıcılığa ve teknik yeterliliğe yönelik olarak aldıkları eğitim boyunca grafik tasarımın çeşitli disiplinlerinde uzmanlaşmaktadırlar.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/grafik-tasarimi-220566"
+    },
+    {
+      "slug": "dis-ticaret--tr",
+      "ad": "Dış Ticaret",
+      "ad_sade": "Dış Ticaret",
+      "fakulte": "Meslek Yüksekokulu",
+      "seviye": "onlisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 683000,
+        "burslu_50": 341500,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 2800,
+        "standart": 3500,
+        "kontenjan": 60,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/dis-ticaret-751633",
+      "aciklama": "Dünyaya Açılan Kariyer Kapınızı Aralayın\n\nGloballeşmeyle birlikte gerek malların gerekse sermayenin uluslararası alanda serbest dolaşımının sağlanması, ülkelerin dış ticaret (ihracat ve ithalat) hacimlerinin de artmasını beraberinde getirmiştir. Türkiye de yıllar itibariyle dünya dış ticaret hacmindeki payını arttırmaktadır. İletişim araçlarının gelişmesi ile ülkeler birbirlerine daha çok yaklaşmış, çok küçük işletmeler bile uluslararası piyasalarda iş yapabilir hale gelmiş ve dış ticaret önem kazanmıştır. Türkiye'nin dünya ülkeleri ile olan ilişkilerinin gelişmesinde dış ticaretin önemi her geçen gün daha da artmaktadır.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/dis-ticaret-751633"
+    },
+    {
+      "slug": "bilgisayar-programciligi--tr",
+      "ad": "Bilgisayar Programcılığı",
+      "ad_sade": "Bilgisayar Programcılığı",
+      "fakulte": "Meslek Yüksekokulu",
+      "seviye": "onlisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 683000,
+        "burslu_50": 341500,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 2800,
+        "standart": 3500,
+        "kontenjan": 45,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/bilgisayar-programciligi-936254",
+      "aciklama": "Geleceğin Yazılım Geliştiricileri Burada Yetişiyor\n\nComputer programming is a critical field in today’s technological world. This program aims to teach students modern programming languages, data structures, algorithm design, and the fundamental principles of software engineering. Graduates of the Computer Programming Program receive an associate degree and are provided with opportunities to build a career in computer programming and keep pace with technological advancements.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/bilgisayar-programciligi-936254"
+    },
+    {
+      "slug": "otomotiv-teknolojisi--tr",
+      "ad": "Otomotiv Teknolojisi",
+      "ad_sade": "Otomotiv Teknolojisi",
+      "fakulte": "Meslek Yüksekokulu",
+      "seviye": "onlisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 683000,
+        "burslu_50": 341500,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 2800,
+        "standart": 3500,
+        "kontenjan": 45,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/otomotiv-teknolojisi-476782",
+      "aciklama": "Otomotiv Sektörünün Aranan Profesyonelleri Burada Yetişiyor\n\nOtomotiv Teknolojisi Programı, öğrencilere otomotiv sektöründe başarılı bir kariyer için gereken bilgi ve becerileri sağlamaktadır. Otomotiv Teknolojisi Programını tamamlayanlara ön lisans diploması verilir.\n\nÜniversitemizin Otomotiv Teknolojisi Programında, otomotiv sektöründe çalışacak teknik personelin yetiştirilmesini amaçlamaktadır. Bu program, öğrencilere otomotiv mekanik ve elektrik sistemlerinin temel prensiplerini, araç bakım ve onarım tekniklerini, otomotiv elektroniği ve otomotiv sanayi standartları hakkında bilgi ve beceri kazandırmayı hedefler.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/otomotiv-teknolojisi-476782"
+    },
+    {
+      "slug": "agiz-dis-sagligi--tr",
+      "ad": "Ağız ve Diş Sağlığı",
+      "ad_sade": "Ağız ve Diş Sağlığı",
+      "fakulte": "Meslek Yüksekokulu",
+      "seviye": "onlisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 683000,
+        "burslu_50": 341500,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 2800,
+        "standart": 3500,
+        "kontenjan": 45,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/agiz-ve-dis-sagligi-817991",
+      "aciklama": "Ağız ve Diş Sağlığında Profesyonel Bir Kariyere Adım Atın\n\nÜniversitemizin Ağız ve Diş Sağlığı Programı, Ağız diş sağlığı teknikeri, diş hekimi tarafından düzenlenen diş ve çene rahatsızlıklarının tedavisi esnasında diş hekimine yardımcı olan ve ağız diş sağlığı bilincinin geliştirilmesi için gerekli temel bilgilerin hastaya aktarılmasın sağlayan ve hastaların klinik ve laboratuvar aşamalarını yürütebilecek, yetkili teknik personel yetiştirmeyi amaçlamaktadır.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/agiz-ve-dis-sagligi-817991"
+    },
+    {
+      "slug": "dijital-donusum-elektronigi--tr",
+      "ad": "Dijital Dönüşüm Elektroniği",
+      "ad_sade": "Dijital Dönüşüm Elektroniği",
+      "fakulte": "Meslek Yüksekokulu",
+      "seviye": "onlisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 683000,
+        "burslu_50": 341500,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 2800,
+        "standart": 3500,
+        "kontenjan": 30,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/dijital-donusum-elektronigi-529266",
+      "aciklama": "Elektronik ve Dijitalleşmenin Buluştuğu Nokta\n\nDijitalleşen dünyada hemen her sistem, elektronik donanım ile yazılım bileşenlerinin kusursuz uyumuna dayanır. Akıllı fabrikalardan otonom araçlara, uzaktan izlenebilir medikal sistemlerden enerji yönetim platformlarına kadar pek çok kritik teknolojinin temelinde dijital dönüşüm elektroniği yer almaktadır. Bu alan, modern sanayinin rekabet gücünü artıran, akıllı otomasyon altyapılarını mümkün kılan ve geleceğin dijital toplumuna yön veren stratejik bir disiplindir. Her geçen gün gelişen bu alanda, bütünleşmiş elektronik-yazılım çözümleri geliştirebilen hem donanıma hem algoritmalara hâkim teknik uzmanlara olan ihtiyaç hızla artmaktadır.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/dijital-donusum-elektronigi-529266"
+    },
+    {
+      "slug": "elektronik-haberlesme-teknolojisi--tr",
+      "ad": "Elektronik Haberleşme Teknolojisi",
+      "ad_sade": "Elektronik Haberleşme Teknolojisi",
+      "fakulte": "Meslek Yüksekokulu",
+      "seviye": "onlisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 683000,
+        "burslu_50": 341500,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": {
+        "erken_kayit": 2800,
+        "standart": 3500,
+        "kontenjan": 30,
+        "kaynak": "https://mudanya.edu.tr/icerik/73"
+      },
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/elektronik-haberlesme-teknolojisi-621598",
+      "aciklama": "Dünyayı Birbirine Bağlayan Teknolojilerin Parçası Olun\n\nHer saniye, farkında bile olmadan milyarlarca veri dünyanın dört bir yanına ulaşıyor. Akıllı telefonlar, araçlar, evler, fabrikalar, şehirler… Artık her şey elektronik ortamda birbirine bağlı. Elektronik haberleşme teknolojileri yalnızca iletişim değil; savunma, uzay, enerji, otomotiv, ulaşım, üretim, medikal, tarım, eğitim ve medya gibi birçok sektörde de kritik rol üstlenmektedir. Teknolojinin bu denli geniş bir alana yayılması, elektronik haberleşme alanında yetişmiş, nitelikli ve uzman teknik personele olan ihtiyacı her geçen gün artırmaktadır.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/elektronik-haberlesme-teknolojisi-621598"
+    },
+    {
+      "slug": "tele-saglik-teknikerligi--tr",
+      "ad": "Tele Sağlık Sekreterliği",
+      "ad_sade": "Tele Sağlık Sekreterliği",
+      "fakulte": "Meslek Yüksekokulu",
+      "seviye": "onlisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 683000,
+        "burslu_50": 341500,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": null,
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/tele-saglik-teknikerligi-550468",
+      "aciklama": "Geleceğin Tele Sağlık Teknikerleri Burada Yetişiyor\n\nÜniversitemizde Tele-sağlık Teknikerliği Programı; günümüzün dijitalleşen ve uzaktan erişim imkanlarını artıran sağlık sektörünün, telekomünikasyon teknolojilerini (video konferans sistemleri, mobil sağlık uygulamaları, uzaktan hasta izleme cihazları vb.) başarı ile kullanabilecek, nitelikli ve donanımlı meslek elemanlarını yetiştirmeyi amaçlamaktadır.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/tele-saglik-teknikerligi-550468"
+    },
+    {
+      "slug": "ascilik--tr",
+      "ad": "Aşçılık",
+      "ad_sade": "Aşçılık",
+      "fakulte": "Meslek Yüksekokulu",
+      "seviye": "onlisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 683000,
+        "burslu_50": 341500,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": null,
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/ascilik-565463",
+      "aciklama": "2026-2027 Akademik Yılında İlk Öğrencilerini Bekliyor\n\nÜniversitemizin Aşçılık Programı, yiyecek-içecek sektörünün ihtiyaç duyduğu; mutfakta üretimden sunuma kadar her aşamada görev alabilecek, Türk ve dünya mutfaklarına hâkim, hijyen ve gıda güvenliği ilkelerini özümsemiş, yaratıcı ve girişimci aşçılar yetiştirmeyi amaçlamaktadır.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/ascilik-565463"
+    },
+    {
+      "slug": "imalat-yurutme-sistemleri-operatorlugu--tr",
+      "ad": "İmalat Yürütme Sistemleri",
+      "ad_sade": "İmalat Yürütme Sistemleri",
+      "fakulte": "Meslek Yüksekokulu",
+      "seviye": "onlisans",
+      "egitim_dili": "Türkçe",
+      "akademik_yil": "2026-2027",
+      "ucret_try": {
+        "tam": 683000,
+        "burslu_50": 341500,
+        "not": "Peşin ödeme için geçerlidir.",
+        "kaynak": "https://mudanya.edu.tr/icerik/645"
+      },
+      "ucret_usd_uluslararasi": null,
+      "sayfa_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/imalat-yurutme-sistemleri-operatorlugu-838653",
+      "aciklama": "2026-2027 Akademik Yılında İlk Öğrencilerini Bekliyor\n\nGünümüz imalat sektörü hız, doğruluk ve kesintisiz üretim süreçleri gerektirmektedir. Özellikle otomotiv başta olmak üzere seri üretimin yoğun biçimde gerçekleştiği endüstriyel alanlarda, üretim süreçlerinin dijital ortamda izlenmesi ve yönetilmesi artık bir tercih değil, bir zorunluluk hâline gelmiştir. Bu ihtiyacı karşılamak üzere geliştirilen İmalat Yürütme Sistemleri gerçek zamanlı kalite veri kontrolleri, verim ve performans izleme, spesifikasyon ile iş kurallarının otomatik uygulanması ve makine ya da birim izlenebilirliği gibi kapsamlı işlevleriyle üretimde insan hatasını en aza indirmeyi hedefleyen bütünleşik bir dijital platformdur.",
+      "detay_url": "https://mudanya.edu.tr/fakulte/meslek-yuksekokulu-257052/bolum/imalat-yurutme-sistemleri-operatorlugu-838653"
+    }
+  ]
+}

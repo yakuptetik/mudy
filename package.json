@@ -1,0 +1,33 @@
+{
+  "name": "mudy",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Mudy — Mudanya Üniversitesi öğrenci bilgi asistanı",
+  "scripts": {
+    "discover": "node --experimental-strip-types scripts/discover.ts",
+    "fees": "node --experimental-strip-types scripts/parse-fees.ts",
+    "programs": "node --experimental-strip-types scripts/parse-programs.ts",
+    "content": "node --experimental-strip-types scripts/parse-content.ts",
+    "campus": "node --experimental-strip-types scripts/parse-campus.ts",
+    "aliases": "node --experimental-strip-types scripts/parse-aliases.ts",
+    "build:data": "npm run fees && npm run programs && npm run aliases && npm run content && npm run campus",
+    "scrape": "npm run discover && npm run build:data",
+    "verify": "node --experimental-strip-types scripts/verify.ts",
+    "inspect": "node --experimental-strip-types scripts/inspect-table.ts",
+    "dev": "node --experimental-strip-types --env-file-if-exists=.env.local --watch src/server.ts",
+    "start": "node --experimental-strip-types --env-file-if-exists=.env.local src/server.ts",
+    "test": "node --experimental-strip-types --env-file-if-exists=.env.local scripts/test-answers.ts",
+    "test:retrieval": "node --experimental-strip-types scripts/test-answers.ts --retrieval",
+    "test:key": "node --experimental-strip-types --env-file-if-exists=.env.local scripts/test-mistral.ts"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/node": "^5.5.16",
+    "cheerio": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.4.1",
+    "typescript": "^7.0.2"
+  }
+}

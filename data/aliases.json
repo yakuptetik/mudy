@@ -1,0 +1,125 @@
+{
+  "aciklama": "Programlarin resmi Ingilizce adlari. sitemap-en.xml icindeki /department/<en-slug> yollari ile sayfa <title>'indaki Turkce ad eslestirilerek uretildi.",
+  "kaynak": "https://mudanya.edu.tr/sitemap-en.xml",
+  "cekilme_tarihi": "2026-09-03",
+  "program_ingilizce_adlari": {
+    "biyoteknoloji-genetik--tr": [
+      "Biotechnology and Genetics"
+    ],
+    "bilgisayar-muhendisligi--tr": [
+      "Computer Engineering"
+    ],
+    "bilgisayar-muhendisligi--en": [
+      "Computer Engineering"
+    ],
+    "elektrik-elektronik-muhendisligi--en": [
+      "Electrical and Electronics Engineering"
+    ],
+    "endustriyel-tasarim--tr": [
+      "Industrial Design"
+    ],
+    "endustri-muhendisligi--tr": [
+      "Industrial Engineering"
+    ],
+    "endustri-muhendisligi--en": [
+      "Industrial Engineering"
+    ],
+    "malzeme-bilimi-teknolojileri--tr": [
+      "Materials Science and Technologies"
+    ],
+    "isletme--tr": [
+      "Business"
+    ],
+    "isletme--en": [
+      "Business",
+      "Business Administration"
+    ],
+    "ekonomi-finans--en": [
+      "Economics and Finance"
+    ],
+    "ekonomi-finans--tr": [
+      "Economics and Finance"
+    ],
+    "ingiliz-dili-edebiyati--tr": [
+      "English Language and Literature"
+    ],
+    "gastronomi-mutfak-sanatlari--tr": [
+      "Gastronomy and Culinary Arts"
+    ],
+    "lojistik-yonetimi--tr": [
+      "Logistics Management"
+    ],
+    "yonetim-bilisim-sistemleri--tr": [
+      "Management Information Systems"
+    ],
+    "psikoloji--en": [
+      "Psychology"
+    ],
+    "psikoloji--tr": [
+      "Psychology"
+    ],
+    "gorsel-iletisim-tasarimi--tr": [
+      "Visual Communication Design"
+    ],
+    "cocuk-gelisimi--tr": [
+      "Child Development"
+    ],
+    "ebelik--tr": [
+      "Midwifery"
+    ],
+    "hemsirelik--tr": [
+      "Nursing"
+    ],
+    "beslenme-diyetetik--tr": [
+      "Nutrition and Dietetics"
+    ],
+    "fizyoterapi-rehabilitasyon--tr": [
+      "Physiotherapy and Rehabilitation"
+    ],
+    "dil-konusma-terapisi--tr": [
+      "Speech and Language Therapy"
+    ],
+    "anestezi--tr": [
+      "Anesthesia"
+    ],
+    "otomotiv-teknolojisi--tr": [
+      "Automotive Technology"
+    ],
+    "bilgisayar-programciligi--tr": [
+      "Computer Programming"
+    ],
+    "ascilik--tr": [
+      "Cooking"
+    ],
+    "dijital-donusum-elektronigi--tr": [
+      "Digital Transformation Electronics"
+    ],
+    "elektronik-haberlesme-teknolojisi--tr": [
+      "Electronic Communication Technology"
+    ],
+    "ilk-acil-yardim--tr": [
+      "First Aid and Emergency Care"
+    ],
+    "dis-ticaret--tr": [
+      "Foreign Trade"
+    ],
+    "grafik-tasarimi--tr": [
+      "Graphic Design"
+    ],
+    "imalat-yurutme-sistemleri-operatorlugu--tr": [
+      "Manufacturing Execution Systems Operator"
+    ],
+    "tibbi-goruntuleme-teknikleri--tr": [
+      "Medical Imaging Techniques"
+    ],
+    "agiz-dis-sagligi--tr": [
+      "Oral and Dental Health"
+    ],
+    "fizyoterapi--tr": [
+      "Physiotherapy"
+    ],
+    "tele-saglik-teknikerligi--tr": [
+      "Telehealth Technician"
+    ]
+  }
+}

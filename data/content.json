@@ -1,0 +1,1195 @@
+{
+  "cekilme_tarihi": "2026-09-03",
+  "parcalar": [
+    {
+      "id": "icerik-645",
+      "baslik": "Burslar ve Ücretler",
+      "kategori": "ucret_burs",
+      "kategori_etiket": "Ücret ve Burs",
+      "ornek_sorular": [
+        "bölüm ücretleri ne kadar",
+        "burslu fiyat",
+        "%50 burs indirimi",
+        "öğrenim ücreti"
+      ],
+      "icerik": "Ücretler, her akademik yıl için yeniden belirlenir.\n\nÜcretlerimiz peşin ödeme için geçerlidir.\n\n| 2026-2027 ÜCRETLER | 2026-2027 ÜCRETLER | 2026-2027 ÜCRETLER | 2026-2027 ÜCRETLER |\n| --- | --- | --- | --- |\n| FAKÜLTE/MYO | BÖLÜM/PROGRAM | ÜCRETLİ | %50 BURSLU |\n| Sağlık Bilimleri Fakültesi | Çocuk Gelişimi | ₺1.028.000,00 | ₺514.000,00 |\n| Sağlık Bilimleri Fakültesi | Fizyoterapi ve Rehabilitasyon | ₺1.028.000,00 | ₺514.000,00 |\n| Sağlık Bilimleri Fakültesi | Hemşirelik | ₺1.028.000,00 | ₺514.000,00 |\n| Sağlık Bilimleri Fakültesi | Beslenme ve Diyetetik | ₺1.028.000,00 | ₺514.000,00 |\n| Sağlık Bilimleri Fakültesi | Ebelik | ₺1.028.000,00 | ₺514.000,00 |\n| Sağlık Bilimleri Fakültesi | Dil ve Konuşma Terapisi | ₺1.028.000,00 | ₺514.000,00 |\n| Sanat ve Sosyal Bilimler Fakültesi | Psikoloji (İngilizce) | ₺1.362.000,00 | ₺681.000,00 |\n| Sanat ve Sosyal Bilimler Fakültesi | Psikoloji | ₺1.224.000,00 | ₺612.000,00 |\n| Sanat ve Sosyal Bilimler Fakültesi | İngiliz Dili ve Edebiyatı | ₺770.000,00 | ₺385.000,00 |\n| Sanat ve Sosyal Bilimler Fakültesi | İşletme | ₺1.138.000,00 | ₺569.000,00 |\n| Sanat ve Sosyal Bilimler Fakültesi | İşletme (İngilizce) | ₺1.138.000,00 | ₺569.000,00 |\n| Sanat ve Sosyal Bilimler Fakültesi | Ekonomi ve Finans | ₺1.138.000,00 | ₺569.000,00 |\n| Sanat ve Sosyal Bilimler Fakültesi | Ekonomi Finans (İngilizce) | ₺1.138.000,00 | ₺569.000,00 |\n| Sanat ve Sosyal Bilimler Fakültesi | Görsel İletişim Tasarımı | ₺1.138.000,00 | ₺569.000,00 |\n| Sanat ve Sosyal Bilimler Fakültesi | Lojistik Yönetimi | ₺1.138.000,00 | ₺569.000,00 |\n| Sanat ve Sosyal Bilimler Fakültesi | Yönetim Bilişim Sistemleri | ₺1.138.000,00 | ₺569.000,00 |\n| Sanat ve Sosyal Bilimler Fakültesi | Gastronomi ve Mutfak Sanatları | ₺1.138.000,00 | ₺569.000,00 |\n| Mühendislik, Mimarlık veTasarım Fakültesi | Bilgisayar Mühendisliği | ₺1.224.000,00 | ₺612.000,00 |\n| Mühendislik, Mimarlık veTasarım Fakültesi | Bilgisayar Mühendisliği (İngilizce) | ₺1.362.000,00 | ₺681.000,00 |\n| Mühendislik, Mimarlık veTasarım Fakültesi | Elektrik - Elektronik Mühendisliği (İngilizce) | ₺1.224.000,00 | ₺612.000,00 |\n| Mühendislik, Mimarlık veTasarım Fakültesi | Endüstri Mühendisliği | ₺1.224.000,00 | ₺612.000,00 |\n| Mühendislik, Mimarlık veTasarım Fakültesi | Endüstri Mühendisliği (İngilizce) | ₺1.362.000,00 | ₺681.000,00 |\n| Mühendislik, Mimarlık veTasarım Fakültesi | Endüstriyel Tasarım | ₺1.224.000,00 | ₺612.000,00 |\n| Mühendislik, Mimarlık veTasarım Fakültesi | Malzeme Bilimi ve Teknolojileri | ₺1.224.000,00 | ₺612.000,00 |\n| Mühendislik, Mimarlık veTasarım Fakültesi | Biyoteknoloji ve Genetik | ₺1.224.000,00 | ₺612.000,00 |\n| Meslek Yüksekokulu | Anestezi | ₺683.000,00 | ₺341.500,00 |\n| Meslek Yüksekokulu | İlk ve Acil Yardım | ₺683.000,00 | ₺341.500,00 |\n| Meslek Yüksekokulu | Fizyoterapi | ₺683.000,00 | ₺341.500,00 |\n| Meslek Yüksekokulu | Tıbbi Görüntüleme Teknikleri | ₺683.000,00 | ₺341.500,00 |\n| Meslek Yüksekokulu | Grafik Tasarım | ₺683.000,00 | ₺341.500,00 |\n| Meslek Yüksekokulu | Dış Ticaret | ₺683.000,00 | ₺341.500,00 |\n| Meslek Yüksekokulu | Bilgisayar Programcılığı | ₺683.000,00 | ₺341.500,00 |\n| Meslek Yüksekokulu | Otomotiv Teknolojisi | ₺683.000,00 | ₺341.500,00 |\n| Meslek Yüksekokulu | Ağız ve Diş Sağlığı | ₺683.000,00 | ₺341.500,00 |\n| Meslek Yüksekokulu | Dijital Dönüşüm Elektroniği | ₺683.000,00 | ₺341.500,00 |\n| Meslek Yüksekokulu | Elektronik Haberleşme Teknolojisi | ₺683.000,00 | ₺341.500,00 |\n| Meslek Yüksekokulu | Tele Sağlık Sekreterliği | ₺683.000,00 | ₺341.500,00 |\n| Meslek Yüksekokulu | Aşçılık | ₺683.000,00 | ₺341.500,00 |\n| Meslek Yüksekokulu | İmalat Yürütme Sistemleri | ₺683.000,00 | ₺341.500,00 |",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/645",
+      "belgeler": [],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-92",
+      "baslik": "Ücretler",
+      "kategori": "ogrenci_hizmet",
+      "kategori_etiket": "Öğrenci Hizmetleri",
+      "ornek_sorular": [
+        "otopark ücreti",
+        "araç park etme",
+        "dolap ücreti",
+        "şifreli dolap",
+        "parking fee"
+      ],
+      "icerik": "2025-2026 AKADEMİK YILI BURSLAR VE ÜCRETLER İÇİN TIKLAYINIZ.\n\nŞifreli Dolap Ücretleri\n\nÖğrencilerimiz kişisel eşyaları için kullanabilecekleri Öğrenci Merkezi’nde (ÖMER) bulunan şifreli dolapların yıllık kullanım ücreti 750 TL olarak belirlenmiştir.\n\n2025-2026 Akademik Yılı Bahar Dönemi Otopark Ücretleri\n\nÜniversitemiz kampüsünde bulunan açık ve kapalı otoparkın ücretlendirmeleri aşağıdaki şekilde uygulanacaktır.\n\nYÖNERGE\n\n[OTOPARK KULLANIM YÖNERGESİ](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/183/mudanya_universitesi_otopark_kullanim_yonergesi.pdf)\n\nEK-1: [Otopark Kayıt Ön Başvuru Formu](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/183/ek1_otopark_kayit_on_basvuru_formu.docx)\n\nEK-2: [Otopark Plaka Değişim Talep Formu](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/183/ek2_otopark_plaka_degisim_talep_formu.docx)\n\nAşağıdaki yöntemleri kullanarak ödeme yapabilirsiniz.\n\nIBAN numarası ile ödeme yapmak için;\n\nAlıcı Adı: MUDANYA ÜNİVERSİTESİ İKTİSADİ İŞLETMESİ\nIBAN: TR 1200 0100 0951 9761 6486 5009\nAçıklama: Ad-Soyad ve Araç plakası (Örnek: Ahmet Acar-MDU22)\nÖdeme yaptığınıza ilişkin dekontunuzu otopark@mudanya.edu.tr adresine gönderebilirsiniz.\n\nKredi Kartı ile ödeme yapmak için ödeme noktası: MUDUSTORE\n\nFiyatlara KDV dahildir.\n\n|   | AÇIK OTOPARK | KAPALI OTOPARK |\n| --- | --- | --- |\n| ÖĞRENCİLER İÇİN | 6750₺ | 8500₺ |",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/92",
+      "belgeler": [
+        {
+          "metin": "OTOPARK KULLANIM YÖNERGESİ",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/183/mudanya_universitesi_otopark_kullanim_yonergesi.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Otopark Kayıt Ön Başvuru Formu",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/183/ek1_otopark_kayit_on_basvuru_formu.docx",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Otopark Plaka Değişim Talep Formu",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/183/ek2_otopark_plaka_degisim_talep_formu.docx",
+          "tur": "pdf"
+        }
+      ],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "fakulte-lisansustu-egitim-enstitusu-556860-icerik-195",
+      "baslik": "Burslar / Kontenjanlar / Ücretler",
+      "kategori": "ucret_burs",
+      "kategori_etiket": "Ücret ve Burs",
+      "ornek_sorular": [
+        "lisansüstü ücret",
+        "yüksek lisans ücreti",
+        "tezli tezsiz fiyat",
+        "yüksek lisans kontenjanı",
+        "master tuition fee"
+      ],
+      "icerik": "Burslar\n\nKurumsal Protokol Bursları\n\nKurumsal iş birliği protokolü bulunan kurumların çalışanlarına, kurum ile yapılan anlaşmada belirtilen oranda burs uygulanır.\n\nLisansüstü Genel Koşullar\n\n1- Mudanya Üniversitesi Lisansüstü Eğitim Enstitüsü tarafından, her eğitim öğretim dönemi başında sunulan programlarda belirlenmiş olan kontenjanlar ve oranlar dahilinde burs uygulanır.\n\n2- Öğrenim süresi boyunca geçerli olduğu belirtilen burslar ilgili programın mevzuatta belirtilen azami öğrenim sürelerini aşmadığı sürece devam eder. Ders tekrarı yapan öğrenciler belirtilen ders tekrar ücretini ödemekle yükümlüdürler.\n\n3- Lisansüstü programlar için tanımlanan burs oranları birleştirilebilir. Ancak bir öğrencinin kullanabileceği burs oranı %50 ile sınırlıdır.\n\n4- Disiplin cezası kesinleşen öğrencinin burslarının devam durumu, Enstitü tarafından değerlendirilir.\n\n| Anabilim Dalı | Yüksek Lisans Kontenjanları | Ücretli | %50 Burslu |\n| --- | --- | --- | --- |\n| Bilgisayar Mühendisliği Tezsiz Yüksek Lisans | 30 | 261,827,86₺ | 130.913,93₺ |\n| Endüstri Mühendisliği Tezsiz Yüksek Lisans | 30 | 261.827,86₺ | 130.913,93₺ |\n| Psikoloji Tezsiz Yüksek Lisans | 30 | 289.360,82₺ | 144.680,41₺ |\n| Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans | 15 | 289.360,82₺ | 144.680,41₺ |\n| Hemşirelik Tezli Yüksek Lisans | 15 | 289.360,82₺ | 144.680,41₺ |\n| İşletme Tezli Yüksek Lisans | 15 | 289.360,82₺ | 144.680,41₺ |\n| İşletme Tezsiz Yüksek Lisans | 30 | 261,827,86₺ | 130.913,93₺ |\n\n| Anabilim Dalı (Yabancı Öğrenciler İçin) | Yüksek Lisans Kontenjanları | Ücretler(USD) |\n| --- | --- | --- |\n| Bilgisayar Mühendisliği Tezsiz Yüksek Lisans | 30 | 6000 USD |\n| Endüstri Mühendisliği Tezsiz Yüksek Lisans | 30 | 6000 USD |\n| Psikoloji Tezsiz Yüksek Lisans | 30 | 6000 USD |\n| Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans | 15 | 6000 USD |\n| Hemşirelik Tezli Yüksek Lisans | 15 | 6000 USD |\n| İşletme Tezli Yüksek Lisans | 15 | 6000 USD |\n| İşletme Tezsiz Yüksek Lisans | 30 | 6000 USD |",
+      "kaynak_url": "https://mudanya.edu.tr/fakulte/lisansustu-egitim-enstitusu-556860/icerik/195",
+      "belgeler": [],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-565",
+      "baslik": "Nasıl Başvurabilirim?",
+      "kategori": "basvuru_kayit",
+      "kategori_etiket": "Başvuru ve Kayıt",
+      "ornek_sorular": [
+        "nasıl başvurabilirim",
+        "başvuru adımları",
+        "kayıt nasıl yapılır"
+      ],
+      "icerik": "Üniversitemize başvuruda bulunmak için, Başvuru Formumuzu doldurarak kayıt için gerekli olan belgeleri sisteme yüklemeniz gerekmektedir.\n\n•Orijinal belgelerin dijital kopyaları, çevirileriyle birlikte yüklenmelidir.\n\n•Şayet istenen belgelerde eksiklik var ise, Uluslararası Ofis size eposta ile eksikliği bildirir ve en kısa zamanda eksik belgenin temin edilmesi istenir. Eksik belgeler tamamlanmaması durumunda kayıtlarınız silinecektir.\n\n•Başvuru sonucunuz başvuru formunda belirtmiş olduğunuz eposta üzerinden iletilecektir, lütfen epostalarınızı düzenli olarak kontrol ediniz.",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/565",
+      "belgeler": [],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-77",
+      "baslik": "Başvuru Kriterleri",
+      "kategori": "basvuru_kayit",
+      "kategori_etiket": "Başvuru ve Kayıt",
+      "ornek_sorular": [
+        "başvuru kriterleri",
+        "başvuru şartları",
+        "hangi sınav puanı gerekli"
+      ],
+      "icerik": "Yurt dışından öğrenci kabul kontenjanları ile eğitim görmek isteyen adaylar, aşağıdaki başvuru koşullarını sağlamaları durumunda, (belirtilen sınav/diploma minimum skorlarından en az birini sağlamak koşuluyla), Üniversitemizin önlisans ve lisans programlarına başvuruda bulunabilirler.\n\nLise son sınıfta olmaları ya da mezun durumda bulunmaları koşuluyla;\n\nAdaylardan,\n\n- Yabancı uyruklu olanlar,\n\n- Doğumla Türk vatandaşı olup da İçişleri Bakanlığı’ndan Türk vatandaşlığından çıkma izni alanlar ve bunların Türk vatandaşlığından çıkma belgesinde kayıtlı reşit olmayan çocuklarının Türk Vatandaşlığı Kanunu uyarınca aldığı Tanınan Hakların Kullanılmasına İlişkin Belge sahibi olduklarını belgeleyenler, (5901 sayılı Türk Vatandaşlığı Kanununun 7. Maddesinde “(1) Türkiye içinde veya dışında Türk vatandaşı ana veya babadan evlilik birliği içinde doğan çocuk Türk vatandaşıdır.” hükmü bulunmakta olup, yurt dışından kabul kontenjanlarına başvuracak adayların Türk Vatandaşlığı Kanunu’nu incelemelerinde yarar bulunmaktadır.)\n\n- Doğumla yabancı uyruklu olup daha sonra TC vatandaşlığına geçen çift uyruklular,\n\n- TC uyruklu olup 01/02/2013 tarihinden önce yurt dışında orta öğretime devam eden öğrencilerden ortaöğreniminin (lise) son üç yılını KKTC hariç yabancı bir ülkede tamamlayanlar, (ortaöğretiminin (lise) tamamını KKTC dışında yabancı bir ülkedeki MEB nezdinde açılmış olan Türk okullarında tamamlayanlar dâhil)\n\n- 01/02/2013 tarihinden sonra yurt dışında orta öğretime başlayan adaylardan ortaöğretimin (lise) tamamını KKTC hariç yabancı bir ülkede tamamlayanların, (ortaöğretiminin (lise) tamamını KKTC dışında yabancı bir ülkedeki MEB nezdinde açılmış olan Türk okullarında tamamlayanlar dâhil)\n\n- KKTC uyruklu olup KKTC’de ikamet eden ve KKTC’de ortaöğrenimini tamamlayan GCE AL sınav sonuçlarına sahip olanlar,\n\n- KKTC uyruklu olup 2005-2010 tarihleri arasında diğer ülkelerdeki kolej ve liselere kayıt yaptırıp eğitim alarak GCE AL sınav sonuçlarına sahip olan veya sahip olacaklar, başvuru yapabilir.\n\nAdaylardan;\n\n- TC uyruklu olup ortaöğreniminin tamamını Türkiye’de veya KKTC’de tamamlayanlar (orta öğreniminin tamamını KKTC dışında yabancı bir ülkede tamamlayanlar hariç),\n\n- KKTC uyruklu olanlar (ortaöğreniminin tamamını KKTC liselerinde bitirip GCE AL sonucuna sahip olanlar hariç),\n\n- 5’inci maddenin birinci bendinin b alt bendinde tanımlanan doğumla ilk uyruğu TC olan çift uyruklular (orta öğreniminin tamamını KKTC dışında yabancı bir ülkede tamamlayanlar ile ortaöğretiminin tamamını KKTC dışında yabancı bir ülkedeki Türk okullarında tamamlayanlar hariç),\n\n- Uyruğundan birisi KKTC olan çift uyruklular (ortaöğreniminin tamamını KKTC liselerinde bitirip GCE AL sonucuna sahip olanlar ile 2005-2010 tarihleri arasında diğer ülkelerdeki kolej ve liselere kayıt yaptırıp eğitim alarak GCE AL sınav sonuçlarına sahip olan veya sahip olacaklar hariç),\n\n- Türkiye’deki büyükelçilikler bünyesinde bulunan okullar ile Türkiye’de bulunan yabancı liselerde öğrenimlerini gören T.C uyruklu olan veya 5nci maddenin birinci bendinin b alt bendinde tanımlanan doğumla ilk uyruğu T.C olan çift uyruklularbaşvuru yapamaz.\n\n[Başvuru kriterleri dikkat edilmesi gereken noktalar için tıklayınız.](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/167/onemli_bilgiler.pdf)",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/77",
+      "belgeler": [
+        {
+          "metin": "Başvuru kriterleri dikkat edilmesi gereken noktalar için tıklayınız.",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/167/onemli_bilgiler.pdf",
+          "tur": "pdf"
+        }
+      ],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-79",
+      "baslik": "Kayıt için Gerekli Belgeler",
+      "kategori": "basvuru_kayit",
+      "kategori_etiket": "Başvuru ve Kayıt",
+      "ornek_sorular": [
+        "kayıt için gerekli belgeler",
+        "hangi evraklar lazım",
+        "kayıt evrakları",
+        "denklik belgesi",
+        "diploma denkliği",
+        "equivalence diploma"
+      ],
+      "icerik": "Başvuru Kayıt Belgeleri\n\n- Pasaport Fotokopisi (Kimlik sayfası)\n\n- Lise Diploması Türkçe Tercümesi (noter onaylı)\n\n- Türkçe Transkript Tercümesi (noter onaylı)\n\n- Denklik Belgesi([https://edenklik.meb.gov.tr/](https://edenklik.meb.gov.tr/))\n\nTürkiye’de İl eğitim müdürlüğünden, yurt dışında ise eğitim müşavirlikleri ve/veya eğitim ataşeliklerinden alınabilir. Denklik belgesi olmayan öğrencilerin evraklarına Apostil yaptırmalarının zorunlu olduğu bilgisini arz ederiz( Türk konsolosluğundan yapılır). Denklik Belgesi başvuruları için https://edenklik.meb.gov.tr/ adresi üzerinden randevu almanız ve gerekli adımları tamamlamanız gerekmektedir. Detaylı bilgilerin tümü https://edenklik.meb.gov.tr/ adresi içerisinde yer almaktadır.\n\n- 2 Vesikalık Fotoğraf\n\n- Ulusal-Uluslararası Sınav Sonuçları (Öğrenci Lise Diploması ile başvurmayacak ise SAT I, ACT, GCE vb. veya başka bir ulusal veya uluslararası sınavın sınav sonuçlarının onaylı bir kopyası ile başvurabilir. Daha detaylı bilgi için [“buraya” tıklayabilirsiniz](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/170/Ek-1-Yurt_disindan_ogrenci_basvurusunda_kabul_edilen_sinavlar_diplomalar_ve_asgari_puanlar.pdf).\n\n- Türkçe Dil Yeterlilik Belgesi (TÖMER Belgesi) (olmadığı durumlarda 1 yıl Türkçe hazırlık programına devam etmesi gerekir.)\n\n- Oturma İzni (Varsa)\n\n-Mavi Kimlik Kartı (varsa)\n\n-Vukuatlı Nüfus Kayıt Örneği (E-devletten)\n\n-İngilizce Yeterlilik Sınav Sonucu\n\nYÖK tarafından kabul edilen uluslararası yabancı dil sınavlarından (TOEFL-IBT, CPE, CAE, PTE Akademik) ÖSYM eşdeğerlik tablosuna göre 60 puan karşılığı bir puana sahip olduğunu belgeleyenler eğitim dilinin Türkçe olduğu bölümlerde verilen İngilizce I- II derslerinden muaf olabilirler. Herhangi bir muafiyet belgesi bulunmayan öğrenciler Mudanya Üniversitesinin düzenlediği İngilizce Muafiyet Sınavına katılmalıdır.\n\n- Ödeme Belgesi",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/79",
+      "belgeler": [
+        {
+          "metin": "“buraya” tıklayabilirsiniz",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/170/Ek-1-Yurt_disindan_ogrenci_basvurusunda_kabul_edilen_sinavlar_diplomalar_ve_asgari_puanlar.pdf",
+          "tur": "pdf"
+        }
+      ],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-65",
+      "baslik": "Ön Lisans ve Lisans Akademik Takvimi",
+      "kategori": "akademik_takvim",
+      "kategori_etiket": "Akademik Takvim",
+      "ornek_sorular": [
+        "akademik takvim",
+        "dersler ne zaman başlıyor",
+        "sınav tarihleri"
+      ],
+      "icerik": "[2026-2027 Akademik Yılı Akademik Takvim için tıklayınız.](https://best.mudanya.edu.tr/files/Ek%201%202026-2027%20Akademik%20Takvim.pdf)\n\n[2025-2026 Akademik Yılı Akademik Takvim için tıklayınız.](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/147/2526_akademik_takvim_2.pdf)\n\n[2024-2025 Akademik Yılı Akademik Takvim için tıklayınız.](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/147/2425_lisans_onlisans_akademik_takvim.pdf)\n\n[2023-2024 Akademik Yılı Akademik Takvim için tıklayınız.](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/147/23_24_akademik_takvim.pdf)\n\n[2022-2023 Akademik Yılı Akademik Takvim için tıklayınız.](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/147/22_23_Akademik_Takvim.pdf)\n\nLisansüstü Akademik Takvimi\n\n[2026-2027 Akademik Yılı Akademik Takvim için tıklayınız.](https://best.mudanya.edu.tr/files/Ek%202%202026-2027%20Akademik%20Takvim%20%C3%87al%C4%B1%C5%9Fmas%C4%B1-Lisans%C3%BCst%C3%BC.pdf)\n\n[2025-2026 Akademik Yılı Akademik Takvim için tıklayınız.](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/147/2526_lee_akademik_takvim.pdf)\n\n[2024-2025 Akademik Yılı Akademik Takvim için tıklayınız.](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/147/2425_lee_akademik_takvim.pdf)\n\n[2023-2024 Akademik Yılı Akademik Takvim için tıklayınız.](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/147/23_24_egitim_ogretim_lisansustu_akademik_takvim.pdf)\n\nHazırlık Sınıfı Akademik Takvimi\n\n[2026-2027 Akademik Yılı Akademik Takvim için tıklayınız.](https://best.mudanya.edu.tr/files/hazirlik_akademik_takvim_2627.pdf)\n\n[2025-2026 Akademik Yılı Akademik Takvim için tıklayınız.](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/147/2526_hazirlik_akademik_takvim.pdf)\n\n[2024-2025 Akademik Yılı Akademik Takvim için tıklayınız.](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/147/2425_hazirlik_akademik_takvim.pdf)",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/65",
+      "belgeler": [
+        {
+          "metin": "2026-2027 Akademik Yılı Akademik Takvim için tıklayınız.",
+          "url": "https://best.mudanya.edu.tr/files/Ek%201%202026-2027%20Akademik%20Takvim.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "2025-2026 Akademik Yılı Akademik Takvim için tıklayınız.",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/147/2526_akademik_takvim_2.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "2024-2025 Akademik Yılı Akademik Takvim için tıklayınız.",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/147/2425_lisans_onlisans_akademik_takvim.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "2023-2024 Akademik Yılı Akademik Takvim için tıklayınız.",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/147/23_24_akademik_takvim.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "2022-2023 Akademik Yılı Akademik Takvim için tıklayınız.",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/147/22_23_Akademik_Takvim.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "2026-2027 Akademik Yılı Akademik Takvim için tıklayınız.",
+          "url": "https://best.mudanya.edu.tr/files/Ek%202%202026-2027%20Akademik%20Takvim%20%C3%87al%C4%B1%C5%9Fmas%C4%B1-Lisans%C3%BCst%C3%BC.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "2025-2026 Akademik Yılı Akademik Takvim için tıklayınız.",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/147/2526_lee_akademik_takvim.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "2024-2025 Akademik Yılı Akademik Takvim için tıklayınız.",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/147/2425_lee_akademik_takvim.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "2023-2024 Akademik Yılı Akademik Takvim için tıklayınız.",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/147/23_24_egitim_ogretim_lisansustu_akademik_takvim.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "2026-2027 Akademik Yılı Akademik Takvim için tıklayınız.",
+          "url": "https://best.mudanya.edu.tr/files/hazirlik_akademik_takvim_2627.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "2025-2026 Akademik Yılı Akademik Takvim için tıklayınız.",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/147/2526_hazirlik_akademik_takvim.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "2024-2025 Akademik Yılı Akademik Takvim için tıklayınız.",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/147/2425_hazirlik_akademik_takvim.pdf",
+          "tur": "pdf"
+        }
+      ],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-73",
+      "baslik": "2026-2027 Eğitim Öğretim Döneminde İlk Kayıt Yaptıracak Öğrenciler için Kontenjan ve Ücretler",
+      "kategori": "uluslararasi",
+      "kategori_etiket": "Uluslararası Öğrenci",
+      "ornek_sorular": [
+        "international student fees",
+        "uluslararası öğrenci ücreti",
+        "kontenjan",
+        "tuition fee usd"
+      ],
+      "icerik": "Lisansüstü ücretleri için tıklayınız.\n\n1. Erken kayıt döneminde öğrenim ücretleri akademik takvimde belirtilen kesin kayıt sırasında peşin olarak ödenecek olup ayrıca bir indirim yapılmayacaktır.\n2. Uluslararası öğrencilerde peşin ödeme indirimi uygulanmamaktadır.\n3. Öğrenim ücretine K.D.V. dahildir.\n4. Yıllık öğrenim ücretine sağlık sigortası, yemek ve konaklama ücreti dahil değildir.\n5. Uluslararası öğrenci başvurularında kontenjan ayırmak için yapılan ön kayıt/depozito ödemelerinin iadesi yapılmamaktadır.\n6. Uluslararası öğrenciler öğrenim süreleri boyunca, yıllık öğrenim ücretlerini U.S.D. kuru olarak ve kayıt oldukları dönemdeki yıllık öğrenim ücreti üzerinden ödeyeceklerdir.\n\n| Birim | Bölüm | Kontenjan | Erken Kayıt (31/07/2026 Günü Son Gün; %20 İndirim) USD | 1 Ağustos 2026 ve Sonrası (USD) |\n| --- | --- | --- | --- | --- |\n| Sağlık BilimleriFakültesi | Hemşirelik | 45 | 4800 | 6000 |\n| Sağlık BilimleriFakültesi | Çocuk Gelişimi | 50 | 4800 | 6000 |\n| Sağlık BilimleriFakültesi | Fizyoterapi ve Rehabilitasyon | 45 | 4800 | 6000 |\n| Sağlık BilimleriFakültesi | Beslenme ve Diyetetik | 45 | 4800 | 6000 |\n| Sağlık BilimleriFakültesi | Dil ve Konuşma Terapisi | 30 | 4800 | 6000 |\n| Sağlık BilimleriFakültesi | Ebelik |   | 4800 | 6000 |\n| Sanat ve Sosyal Bilimler Fakültesi | Psikoloji | 60 | 4800 | 6000 |\n| Sanat ve Sosyal Bilimler Fakültesi | Psikoloji (İngilizce) | 60 | 5200 | 6500 |\n| Sanat ve Sosyal Bilimler Fakültesi | Ekonomi ve Finans | 60 | 4800 | 6000 |\n| Sanat ve Sosyal Bilimler Fakültesi | Görsel İletişim Tasarımı | 60 | 4800 | 6000 |\n| Sanat ve Sosyal Bilimler Fakültesi | İngiliz Dili ve Edebiyatı | 60 | 4800 | 6000 |\n| Sanat ve Sosyal Bilimler Fakültesi | İşletme | 80 | 4800 | 6000 |\n| Sanat ve Sosyal Bilimler Fakültesi | İşletme (İngilizce) | 30 | 5200 | 6500 |\n| Sanat ve Sosyal Bilimler Fakültesi | Lojistik Yönetimi | 30 | 4800 | 6000 |\n| Sanat ve Sosyal Bilimler Fakültesi | Yönetim Bilişim Sistemleri | 35 | 4800 | 6000 |\n| Mühendislik ve TasarımFakültesi | Endüstri Mühendisliği | 45 | 4800 | 6000 |\n| Mühendislik ve TasarımFakültesi | Endüstri Mühendisliği (İngilizce) | 45 | 5200 | 6500 |\n| Mühendislik ve TasarımFakültesi | Bilgisayar Mühendisliği | 45 | 4800 | 6000 |\n| Mühendislik ve TasarımFakültesi | Bilgisayar Mühendisliği(İngilizce) | 45 | 5200 | 6500 |\n| Mühendislik ve TasarımFakültesi | Endüstriyel Tasarım | 30 | 4800 | 6000 |\n| Mühendislik ve TasarımFakültesi | Elektrik Elektronik Mühendisliği (İngilizce) | 30 | 5200 | 6500 |\n| Meslek Yüksekokulu | Anestezi | 60 | 2800 | 3500 |\n| Meslek Yüksekokulu | İlk ve Acil Yardım | 60 | 2800 | 3500 |\n| Meslek Yüksekokulu | Tıbbi Görüntüleme Teknikleri | 60 | 2800 | 3500 |\n| Meslek Yüksekokulu | Fizyoterapi | 60 | 2800 | 3500 |\n| Meslek Yüksekokulu | Ağız ve Diş Sağlığı | 45 | 2800 | 3500 |\n| Meslek Yüksekokulu | Bilgisayar Programcılığı | 45 | 2800 | 3500 |\n| Meslek Yüksekokulu | Dış Ticaret | 60 | 2800 | 3500 |\n| Meslek Yüksekokulu | Grafik Tasarımı | 60 | 2800 | 3500 |\n| Meslek Yüksekokulu | Otomotiv Teknolojisi | 45 | 2800 | 3500 |\n| Meslek Yüksekokulu | Elektronik Haberleşme Teknolojisi | 30 | 2800 | 3500 |\n| Meslek Yüksekokulu | Dijital Dönüşüm Elektroniği | 30 | 2800 | 3500 |\n| Tömer |   |   | 1600 | 2000 |\n\n| USD Hesap Bilgileri |\n| --- |\n| Receiver Name: MUDANYA ÜNİVERSİTESİ Bank: HALKBANKASI Branch: 299 - BURSA HEYKEL ŞUBESİ Account No: 53001054 IBAN: TR92 0001 2009 2990 0053 0010 54 Swift Code: TRHBTR2AXXX |\n\n| TÖMER Hesabı IBAN Bilgilerimiz |\n| --- |\n| ZİRAAT BANKASI ULUYOL TİCARİ ŞUBESİ MUDANYA ÜNİVERSİTESİ İKTİSADİ İŞLETMESİ USD-TR77 0001 0009 5197 6164 8650 03 Açıklama kısmına mutlaka mutlaka Öğrenci TC-Adı Soyadı yazılacaktır. |",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/73",
+      "belgeler": [],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-66",
+      "baslik": "Yabancı Uyruklu Öğrenci Başvuruları",
+      "kategori": "uluslararasi",
+      "kategori_etiket": "Uluslararası Öğrenci",
+      "ornek_sorular": [
+        "yabancı uyruklu başvuru",
+        "foreign student application"
+      ],
+      "icerik": "[Mudanya Üniversitesi uluslararası öğrenci başvuru formu için buraya tıklayınız.](https://ois.mudanya.edu.tr/ogrenciler/applicationform/form/view/lisans)",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/66",
+      "belgeler": [
+        {
+          "metin": "Mudanya Üniversitesi uluslararası öğrenci başvuru formu için buraya tıklayınız.",
+          "url": "https://ois.mudanya.edu.tr/ogrenciler/applicationform/form/view/lisans",
+          "tur": "form"
+        }
+      ],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-82",
+      "baslik": "Kabul Kriterleri",
+      "kategori": "uluslararasi",
+      "kategori_etiket": "Uluslararası Öğrenci",
+      "ornek_sorular": [
+        "kabul kriterleri",
+        "admission criteria",
+        "hangi diploma kabul ediliyor",
+        "diploma recognition",
+        "признание диплома"
+      ],
+      "icerik": "[*CONTRY BASED ADMISSION CRITERIA](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/173/country-based-admission-criteria.pdf)",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/82",
+      "belgeler": [
+        {
+          "metin": "*CONTRY BASED ADMISSION CRITERIA",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/173/country-based-admission-criteria.pdf",
+          "tur": "pdf"
+        }
+      ],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-74",
+      "baslik": "Türkiye'ye Giriş",
+      "kategori": "uluslararasi",
+      "kategori_etiket": "Uluslararası Öğrenci",
+      "ornek_sorular": [
+        "türkiyeye giriş",
+        "vize",
+        "oturma izni",
+        "visa residence permit"
+      ],
+      "icerik": "Türkiye’ye birden fazla giriş seçeneği bulunmaktadır;\n\n•Kimlik Kartı\n\n•Pasaport\n\n•E-vize\n\n•Konsolosluk vizesi\n\n•Varışta vize\n\nSürecinizde sorun yaşamamanız adına başvuru süreçlerinizi iki ay öncesinde başlamanız sizin yararınıza olacaktır. Vatandaşlığınız gereği ülkemize vize, pasaport ya da kimlik belgesiyle ile giriş hakkınız var ise ikamet izninizin tarafınıza ulaşmasını beklemeden uluslararası alanda seyahat edebilirsiniz. Öğrenciler için öğrenci vizeleri ancak konsolosluk/büyükelçilik başvurusu ile alındığından ve genellikle “Tek Giriş” olarak verildiğinden, öğrencilerin ikamet izni başvuru süreci tamamlanmadan Türkiye dışına acil çıkışları kısıtlı olabilmektedir.\n\n•E-vize\n\nAdaylar ülkemize e-vize alarak girebilmektedir.\n\nE-vize şahsen vize başvurusu gerektirmeden alınan bir turist vizesidir.\n\nE-vize başvurusu bir kişinin turist vizesinden muaf olup olmadığı ve ülkemize geçerli bir pasaportla giriş yapıp yapmadığı hakkında bilgi vermektedir.\n\nTürkiye’ye girişte vize şartlarını kontrol etmek için e-vize modülünü kullanmanız tavsiye edilmektedir:\n\n[https://www.evisa.gov.tr](https://www.evisa.gov.tr/) linkinden ulaşabilirsiniz.\n\n•Önemli Notlar\n\n•Türkiye’ye gelen her uluslararası öğrenci, öğretim üyesi, personel, stajyer, araştırmacı ve ziyaretçinin ikamet izni başvurusunda bulunması ayrıca geçerli pasaport ile seyahat etmesi gerekmektedir.\n\n[•Göç İdaresi Müdürlüğü](https://www.goc.gov.tr/), ikamet izni başvurusu için başka bir seyahat belgesi kabul etmemektedir.\n\n•Pasaportların geçerlilik süresi öğrenim süresinden en az 60 gün daha uzun olmalıdır.\n\n•Türk vatandaşlığına veya Mavi Karta sahip olan kişilerin Türkiye'ye gelişlerinde vize almalarına veya ikamet iznine başvurmalarına gerek bulunmamaktadır. Bu kişilerin Türkiye’ye girişlerinde geçerli bir pasaport veya kimlik belgesi sunması yeterlidir.\n\n•Pasaport, vize kuralları hakkında daha fazla bilgi İçin [https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa](https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa) adresini ziyaret edebilirsiniz.",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/74",
+      "belgeler": [
+        {
+          "metin": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+          "url": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+          "tur": "form"
+        }
+      ],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-654",
+      "baslik": "Öğrenci Hareketliliği",
+      "kategori": "uluslararasi",
+      "kategori_etiket": "Uluslararası Öğrenci",
+      "ornek_sorular": [
+        "erasmus öğrenci hareketliliği",
+        "değişim programı",
+        "student mobility"
+      ],
+      "icerik": "· Öğrenci Öğrenim hareketliliği faaliyeti, yükseköğretim kurumunda kayıtlı öğrencinin, öğreniminin bir bölümünü kurumlararası anlaşma ile ortak olunan yurt dışındaki yükseköğretim kurumunda gerçekleştirmesidir.\n\n· Faaliyet süresi, her bir öğrenim kademesi için ayrı ayrı geçerli olmak üzere bir akademik dönem veya bir akademik yıl olabilir. Öğrenim kademesi ön lisans/lisans, yüksek lisans ve doktora düzeylerini ifade eder.\n\n· Faaliyete katılacak öğrencilerin yükseköğretim kurumunda bir diploma programına kayıtlı olması ve GNO en az 2,20 olması gerekir.\n\n· Öğrencilerin gidecekleri ev sahibi kurumdan bir tam akademik yıl için 60 AKTS; iki dönemlik akademik yılda bir dönem için 30 AKTS ders alması beklenir.\n\n· Takip edilen programda başarılı olunan kredilere tam akademik tanınma sağlanır. Başarısız olunan krediler ev sahibi kurumda tekrar edilir ve komisyon tarafından belirlenen tutarda hibe kesintisi yapılır.\n\nHİBELENDİRME\n\nTürkiye Ulusal Ajansı tarafından yayınlanan 2026 el kitapçığına göre yapılan hibelendirme tutarı aşağıdaki gibidir.\n\nSEYAHAT DESTEĞİ\n\nÖğrencilerin seyahat masraflarına katkı sağlamak amacıyla, Avrupa Komisyonu tarafından sağlanan [mesafe hesaplayıcısı](https://erasmus-plus.ec.europa.eu/resources-and-tools/distance-calculator) aracılığı ile hareketliliğin başlangıç noktası ve faaliyetin gerçekleştiği yer arasındaki km değeri tespit edilip aşağıdaki tablo kullanılarak seyahat hibesi hesaplanacaktır.\n\n· *Yeşil seyahat, seyahatin düşük karbon salımlı toplu ulaşım araçlarının kullanılarak gerçekleştirilmesidir. Otobüs, tren, paylaşımlı otomobil kullanımı yeşil seyahat kapsamında yer alır. Yeşil seyahat desteği alınabilmesi için gidişte ve dönüşte yeşil seyahat kullanılması ve seyahatin tamamının yarısından fazlasının yeşil araçlar kullanılarak yapılması gerekmektedir.\n\nİÇERME DESTEĞİ (INCLUSION SUPPORT)\n\nErasmus+ Programı, imkânı kısıtlı katılımcıların programa katılımını teşvik etmektedir. İmkânı kısıtlı olan kişi, ek finansal destek olmadığı takdirde kişisel fiziksel durumu, zihinsel durumu veya sağlık durumu projeye/hareketlilik faaliyetine katılmasına izin vermeyen potansiyel katılımcıdır.\n\nİçerme Desteği sahibi katılımcı seçildikten sonra, katılımcının ilave hibe talebi varsa, yaklaşık ek masrafları belirlenir ve katılımcının faaliyeti başlamadan önce İçerme Desteği Talep formu doldurularak gerekli kanıtlayıcı belgelerle birlikte yasal temsilci imzasıyla bu talep yükseköğretim kurumu/konsorsiyum koordinatörü tarafından Merkezin onayına sunulur.\n\nYukarıda bahsedilenlerin sizin için geçerli olduğunu düşünüyorsanız, ofisimizle iletişime geçebilirsiniz.\n\nİLAVE HİBE DESTEĞİ\n\nİmkânları kısıtlı olan katılımcılara, hak ettikleri hibeye ek olarak İlave Hibe Desteği sağlanacaktır. Söz konusu hibenin verilebilmesi için, imkânları kısıtlı katılımcı, ekonomik ve sosyal açıdan imkânları kısıtlı olan ve aşağıdaki alt kategorilere uyan birey olarak tanımlanmıştır.\n\n- 2828 sayılı kanuna tabi olanlar (Aile ve Sosyal Hizmetler Bakanlığı tarafından haklarında 2828 sayılı Kanun uyarınca koruma, bakım veya barınma kararı olanlar)\n\n- 5395 sayılı Çocuk Koruma Kanunu kapsamında haklarında korunma, bakım veya barınma kararı alınmış öğrenciler\n\n- Yetim/ölüm aylığı bağlananlar\n\n- Şehit/gazi eş ve çocukları ile gazilerin kendileri\n\n- Kendisine veya ailesine muhtaçlık aylığı bağlananlar (Erasmus başvurusu esnasında maddi destek aldığını kanıtlayan bir belge ibraz edilmesi yeterlidir.)\n\n- Engelliler (Engellilik Sağlık Kurulu raporu ile belgelenmiş en az %50 engel oranına sahip kişiler)\n\n- 65 yaşını doldurmuş muhtaç, güçsüz ve kimsesiz Türk vatandaşları ile engelli ve muhtaç Türk vatandaşlarına aylık bağlanması hakkında 2022 sayılı Kanun kapsamında ebeveynlerinden biri veya vasisi engelli veya muhtaç aylığı alanlar\n\n- Kendileri veya 1. derece yakınları AFAD’dan afetzede yardımı alanlar\n\n- İlave kategoriler üniversitenin hibe imkânları dâhilinde geriye dönük olarak uygulanabilir.\n\n- Muharip gaziler ve bunların eş ve çocukları ile harp şehitlerinin eş ve çocukları Erasmus+ öğrenci hareketliliğine başvurmaları halinde önceliklendirilir.\n\nTek sefere mahsus olarak uygulanır. Hareketliliğe katıldığı takdirde öğrencinin sonraki hareketliliklerinde aynı belge ile bu kategoride tekrar ilave hibe desteği verilmez.\n\nKredi ve Yurtlar Kurumu bursları ve benzeri burslar, başarı bursu niteliğindeki diğer hibe, yardım ve burslar, tek seferlik yardımlar söz konusu maddi yardım kapsamında kabul edilmez.\n\nDetaylı bilgi için ofisimizle iletişime geçebilir, [detaylı bilgi dosyasını](https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/2.%20%C3%96%C4%9Frenci%20Hareketlili%C4%9Fi.pdf)indirebilirsiniz.\n\n| Ülke Grupları | Ev sahibi Ülke | Aylık Hibe Öğrenim (Avro) | Aylık Hibe Staj (Avro) |\n| --- | --- | --- | --- |\n| 1. Ve 2. Grup Ülkeler | Almanya, Avusturya, Belçika, Çek Cumhuriyeti, Danimarka, Estonya, Finlandiya, Fransa, Güney Kıbrıs Rum Yönetimi, Hollanda, İrlanda, İspanya, İsveç, İtalya, İzlanda, Letonya, Lihtenştayn, Lüksemburg, Malta, Norveç, Portekiz, Slovakya, Slovenya, Yunanistan | 600 | 750 |\n| 3. Grup Ülkeler | Bulgaristan, Hırvatistan, Kuzey Makedonya, Litvanya, Macaristan, Polonya, Romanya, Sırbistan, Türkiye | 450 | 600 |\n\n| Seyahat Mesafesi | Standart Seyahat Hibe Tutarı (Avro) | Yeşil Seyahat Hibe Tutarı (Avro) |\n| --- | --- | --- |\n| 10 ila 99 KM arasında | 28 | 56 |\n| 100 ila 499 KM arasında | 211 | 285 |\n| 500 ila 1999 KM arasında | 309 | 417 |\n| 2000 ila 2999 KM arasında | 395 | 535 |\n| 3000 ila 3999 KM arasında | 580 | 785 |\n| 4000 ila 7999 KM arasında | 1188 | 1188 |\n| 8000 KM veya daha fazla | 1735 | 1735 |",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/654",
+      "belgeler": [
+        {
+          "metin": "detaylı bilgi dosyasını",
+          "url": "https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/2.%20%C3%96%C4%9Frenci%20Hareketlili%C4%9Fi.pdf",
+          "tur": "pdf"
+        }
+      ],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-62",
+      "baslik": "Kampüse Ulaşım",
+      "kategori": "konum_ulasim",
+      "kategori_etiket": "Konum ve Ulaşım",
+      "ornek_sorular": [
+        "kampüs nerede",
+        "nasıl gidilir",
+        "otobüs",
+        "ulaşım",
+        "adres",
+        "how to get there"
+      ],
+      "icerik": "• Kampüse Araçla Ulaşım\n\nMudanya Üniversitesi’ni özel aracınızla ziyaret edecekseniz, bu sayfadaki alternatiflerinden birini kullanarak kampüse en kısa sürede ulaşım sağlayabilirsiniz.\n\n[•Bursa’dan – Mudanya Üniversitesi](https://www.google.com/maps/d/u/0/edit?mid=19ihhydFLBwSas7Mp41z6Qg_-1pQ2KSc&usp=sharing)[•İstanbul’dan – Mudanya Üniversitesi](https://www.google.com/maps/d/u/0/edit?mid=1VTdMhrKmqmSRo3aczB9MRELPeUMb0Lg&usp=sharing)[•İzmir’den – Mudanya Üniversitesi](https://www.google.com/maps/d/u/0/edit?mid=1KtVZgBapvA-PaAZ3lWHvsGXx_rr9Fy4&usp=sharing)[•Ankara’dan – Mudanya Üniversitesi](https://www.google.com/maps/d/u/0/edit?mid=1I3tKIRibMqEkcjwkrQkUz-PgTNMrlC4&usp=sharing) • Kampüse Toplu Taşıma Aracıyla Ulaşım\n\nBurulaş [www.burulas.com.tr](http://www.burulas.com.tr/) adresini kullanarak Bursa'nın herhangi bir yerinden Çağrışan Kampüsümüze ulaşım güzergâhınızı belirleyebilirsiniz.\n\nKampüs - BURULAŞ otobüs seferleri:\n\n[14 L](https://www.burulas.com.tr/hizmetler/otobus)\n\n[14 L3](https://www.burulas.com.tr/hizmetler/otobus)\n\n[14 U](https://www.burulas.com.tr/hizmetler/otobus)\n\n• Kampüse Deniz Yolu Üzerinden Ulaşım\n\nİDO\n\nBursa’ya (Mudanya-Güzelyalı İskelesi) İstanbul’un üç farklı noktasından ([Yenikapı](https://www.google.com/maps/d/u/0/edit?mid=1GkEnLmNepdC7b5S-YQDUH2ztQsTWRpg&usp=sharing), Kadıköy ve Kabataş) İDO aracılığı ile tarifeli ve karşılıklı deniz otobüsü ve feribot seferleri bulunmaktadır (Bkz: [www.ido.com.tr](http://www.ido.com.tr/) ).\n\nBUDO\n\nBursa’ya (Mudanya Merkez İskelesi) İstanbul’un Kabataş semtinden BUDO aracılığı ile tarifeli ve karşılıklı deniz otobüsü seferleri bulunmaktadır (Bkz: [https://budo.burulas.com.tr](https://budo.burulas.com.tr/) ).",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/62",
+      "belgeler": [],
+      "gorseller": [],
+      "harita_linkleri": [
+        "https://www.google.com/maps/d/u/0/edit?mid=19ihhydFLBwSas7Mp41z6Qg_-1pQ2KSc&usp=sharing",
+        "https://www.google.com/maps/d/u/0/edit?mid=1VTdMhrKmqmSRo3aczB9MRELPeUMb0Lg&usp=sharing",
+        "https://www.google.com/maps/d/u/0/edit?mid=1KtVZgBapvA-PaAZ3lWHvsGXx_rr9Fy4&usp=sharing",
+        "https://www.google.com/maps/d/u/0/edit?mid=1I3tKIRibMqEkcjwkrQkUz-PgTNMrlC4&usp=sharing",
+        "https://www.google.com/maps/d/u/0/edit?mid=1GkEnLmNepdC7b5S-YQDUH2ztQsTWRpg&usp=sharing"
+      ],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-24",
+      "baslik": "Kampüs Planı",
+      "kategori": "konum_ulasim",
+      "kategori_etiket": "Konum ve Ulaşım",
+      "ornek_sorular": [
+        "kampüs planı",
+        "kampüs haritası",
+        "hangi bina nerede"
+      ],
+      "icerik": "Mudanya Üniversitesi, 27.500 m2’lik kapalı ve 22.000 m2’lik açık alan üzerine inşa edilmiş merkez kampüs içerisinde, Türkiye’nin en büyük kütüphanesine, 520 kişilik iki farklı konferans salonuna, 48 adet çok amaçlı laboratuvar ve dersliğe, 300 kişilik 3 farklı amfiye, 5 adet atölye ve stüdyoya sahiptir. Mudanya Üniversitesi kampüsü, öğrenci dostu ve maksimum güvenliğe sahip, öğrencileri akademik ve sosyal hayata yakınlaştıran, ormanın kalbinde bir üniversite olmanın yanı sıra, engelsiz yaşam alanları, ulaşım kolaylığı ve 7 gün 24 saat yaşayan bir üniversite deneyimi sunmaktadır.",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/24",
+      "belgeler": [],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "iletisim",
+      "baslik": "Telefon ve Adresler",
+      "kategori": "iletisim",
+      "kategori_etiket": "İletişim",
+      "ornek_sorular": [
+        "iletişim",
+        "telefon numarası",
+        "e-posta",
+        "adres",
+        "contact"
+      ],
+      "icerik": "### Telefon ve Adresler\n\n### Bizimle İletişime Geçin\n\n### Mudanya Üniversitesi\n\nAdres\n\nÇağrışan Mah. 2029 Sk. No:2 16940 Mudanya/Bursa\n\nTelefon\n\n+90 (224) 224 20 22\n\nWhatsApp\n\n[0 (224) 224 20 22](https://api.whatsapp.com/send?phone=++90(224)2242022&text=Merhaba)\n\nMail\n\nbilgi@mudanya.edu.tr\n\nKEP Adresi:\n\nmudanyauniversitesi@hs03.kep.tr",
+      "kaynak_url": "https://mudanya.edu.tr/iletisim",
+      "belgeler": [],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [
+        "+90 (224) 224 20 22"
+      ],
+      "epostalar": [
+        "bilgi@mudanya.edu.tr"
+      ],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-16",
+      "baslik": "Yurtlar",
+      "kategori": "kampus_yasam",
+      "kategori_etiket": "Kampüs Yaşamı",
+      "ornek_sorular": [
+        "yurt var mı",
+        "konaklama",
+        "yurt ücreti",
+        "dormitory"
+      ],
+      "icerik": "ANLAŞMALI YURTLARIMIZ\n\nBüşra Yıldız Kız Öğrenci Yurdu\nİrtibat: 0 224 236 61 70\n\nAhmet Aktaş Erkek Öğrenci Yurdu\nİrtibat: 0 224 413 68 14\n\nBilici Erkek Öğrenci Yurdu\nİrtibat: 0 537 837 05 53\n\nEgemen Kız ve Erkek Öğrenci Yurdu\nİrtibat: 0 224 483 30 55\n\nÇağdaş Yaşam Ayşe Leyla Akçağlılar Kız Öğrenci Yurdu\nTelefon: 0543 381 18 04\n\nÖğrencilerimiz BTÜ Yıldırım Yerleşkesinde bulunan KYK Kız Yurdu için Bursa İl Gençlik Müdürlüğü’ne giderek yüz yüze başvuru yapabilir.",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/16",
+      "belgeler": [],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [
+        "0 224 236 61 70",
+        "0 224 413 68 14",
+        "0 537 837 05 53",
+        "0 224 483 30 55",
+        "0543 381 18 04"
+      ],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-15",
+      "baslik": "Yiyecek ve İçecek",
+      "kategori": "kampus_yasam",
+      "kategori_etiket": "Kampüs Yaşamı",
+      "ornek_sorular": [
+        "yemekhane",
+        "yiyecek içecek",
+        "kafeterya",
+        "yemek ücreti"
+      ],
+      "icerik": "Mudanya Üniversitesi, öğrencileri ve çalışanlarına ferah mekânlarda, sağlıklı, temiz ve kaliteli yemek olanağı sunar. Kampüs bünyesinde bulunan kafeterya ve yemekhanelerde farklı damak zevklerine uygun seçenekler bulunmaktadır.\n\nBunun yanı sıra, yurt ve fakülte binalarında bulunan atıştırmalık ve soğuk-sıcak içecek otomatlarından 24 saat boyunca yararlanılabilir.\n\nKampüs içerisinde bulunan seçkin markalar sayesinde farklı damak tadlarına uygun imkanlar sağlanmaktadır.\n\nKısacası; eğer Mudanya Üniversitesi'ndeyseniz mutlaka damak tadınıza uygun yiyecek ve içecekler bulursunuz.",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/15",
+      "belgeler": [],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-194",
+      "baslik": "Kampüste Yaşam",
+      "kategori": "kampus_yasam",
+      "kategori_etiket": "Kampüs Yaşamı",
+      "ornek_sorular": [
+        "kampüste yaşam",
+        "öğrenci kulüpleri",
+        "sosyal imkanlar"
+      ],
+      "icerik": "Mudanya Üniversitesi, doğayla iç içe konumlanan yeşil kampüsüyle öğrencilerine huzurlu, güvenli ve ilham veren bir yaşam alanı sunmaktadır. Zengin bitki örtüsü, geniş yeşil alanları ve kampüsün doğal yaşamına eşlik eden çeşitli hayvanlarla çevrili bu ortam; öğrencilerin akademik çalışmalarını doğanın sakinliğiyle buluştururken, sosyal ve kişisel gelişimlerini de desteklemektedir. Modern eğitim olanaklarını doğal yaşamın sunduğu ayrıcalıklarla bir araya getiren kampüsümüz, öğrenmenin, sosyalleşmenin ve kaliteli vakit geçirmenin bir arada yaşandığı benzersiz bir üniversite deneyimi sunmaktadır.",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/194",
+      "belgeler": [],
+      "gorseller": [
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4cc7d21.92250917.jpeg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4cbfea5.73712054.jpeg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4ccf913.24040000.jpeg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4cc4075.83629590.jpeg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4c8d4a4.54113969.jpeg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4ccbc14.74452589.jpeg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4c974f7.46156613.jpeg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4c90748.97952059.jpeg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4c93768.01857702.jpeg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4c9b391.86294018.jpeg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4c9e457.07160287.jpeg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4ca1529.30360416.jpeg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4ca44d1.57302868.jpeg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4ca7c34.15609133.jpeg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4cab3d4.81236118.jpeg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4caec28.01324742.jpeg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4cb2147.05152044.jpeg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4cb5744.19264163.jpeg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4cb8656.67070165.jpeg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4cbbda7.88578992.jpeg"
+      ],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-25",
+      "baslik": "Bursa‘da Yaşam",
+      "kategori": "kampus_yasam",
+      "kategori_etiket": "Kampüs Yaşamı",
+      "ornek_sorular": [
+        "bursada yaşam",
+        "şehir hakkında",
+        "life in bursa"
+      ],
+      "icerik": "Bir kültür mozaiği olan bu şehrin her sokağında, binlerce yıllık bir geçmişin izleri görülebilir. Bursa’da yaşam, başlı başına özel bir deneyimdir ve Mudanya Üniversitesi öğrencileri bu deneyimi yaşamaları için teşvik edilir.\n\nBursa, hafta sonları da son derece hareketli. Bursa’nın hem tarihi hem de modern semtlerinde keyifli bir gezintiye çıkabilirsiniz. Bursa her misafirine farklı bir deneyim sunar. Bu yüzden, gezi rehberlerine bağlı kalmak yerine, Bursa’yı bizzat yaşayarak keşfetmenizi tavsiye ederiz.\n\n3,5 milyona yaklaşan, ağırlığını; satın alma gücü yüksek, eğitimli, kentli popülasyonun oluşturduğu nüfusuyla Bursa, Güney Marmara’nın; “En modern, en büyük, en güvenli ve en rahat yaşanabilir kenti” unvanlarına sahip. Bir metropolün, hayata sunduğu, nitelikli ve çok seçenekli sosyal yaşam zenginliklerinden daha fazlası var Bursa’da! Çünkü ekonomik dinamikleri ve potansiyeli çok güçlü. Otomotiv, tekstil, konfeksiyon ve gıda endüstrisinde bir dünya markası Bursa! Yüksek katma değerli üretim yapan işletme yatırımlarının yanında, lojistik üssü, kış sporlarında Premium standartlarıyla en popüler turizm merkezi, müzelerin ve sanat galerinin şehri.\n\nTürkiye ekonomisinin ağırlık noktasını oluşturan “En Büyük 500 Şirketin 30 Firması” Bursa’da faaliyet gösteriyor. 2025’e kadar tamamlanması beklenen yeni ihtisas sanayi bölgeleri ile “En Büyük 500’deki Bursalı şirket sayısının 55’e “yükselmesi bekleniyor. Türkiye’de en çok, katma değeri en yüksek ihracatı yapan 61 firma da yine Bursa’da üretim yapıyor.\n\nModern, ulaşım altyapısı güçlü, güvenli kent Bursa, haftanın 7 günü açık müzeleri, sanat galerileri, her ay 20’den fazla konser ve tiyatro gösterileriyle; kent insanının, eğlence ve düşünce dünyasına da kaliteli seçenekler sunuyor.Vizyon filmlerinin gösterildiği 80’den fazla sinema salonun yanında, gişede şans tanınmayan festival filmlerinin gösterildiği, dünya sineması salonlarına da sahip Bursa…\n\nDört mevsimin aynı anda yaşandığı tek kent tanımı ancak yaşayanın deneyimleyebileceği keşiflerle dolu. Marmara Denizi’ne en uzun sahili bulunan kentlerden biri Bursa. Gün boyu karşılıklı düzenlenen feribot ve deniz otobüsü seferleri ile İstanbul’a 1,5 saatlik mesafede. Kuzey Marmara ve İzmir Otoban ağıyla, Yenişehir Havalimanı ile dünyaya entegre. 2023 sonunda hızlı tren seferleriyle mesafeler daha da kısalacak. Medeniyetler tarihinin en görkemlisi İznik, zamanın durduğu Harmancık, Keles, Türkiye’nin en büyük su kayağı parkı, extrem sporların en iyi seçenekleri, dünyada da markalaşmış gastronomik lezzet durakları, erken dönem Osmanlı tarihinin ata yadigârı muhteşem eserleri, doğa, sanat, nitelikli etkinlikler hep bu kentte!\n\nİngilizce eğitim, istihdam seçenekleri oluşturmak gibi birçok ilki yaşatmayı, temel varlık sebebi kabul eden Bursa’nın ilk vakıf üniversitesi; Mudanya Üniversitesi, işte bu kadar güçlü değerler üzerinde kuruldu. Geleceğe tek sözümüz, iyi ve kaliteli eğitimle markalaşan bir gelecek!\n\nSözümüz söz!",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/25",
+      "belgeler": [],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-20",
+      "baslik": "Sağlık",
+      "kategori": "kampus_yasam",
+      "kategori_etiket": "Kampüs Yaşamı",
+      "ornek_sorular": [
+        "sağlık hizmeti",
+        "revir",
+        "doktor"
+      ],
+      "icerik": "Mudanya Üniversitesi Sağlık Merkezi kampüs ana binasında yer almaktadır. Tıbbi kadrosunda 1 Hekim, 1 Hemşire, 2 Sağlık Memuru yer almaktadır. Sağlık merkezimizde çalışan tüm tıbbi kadro kampüsteki nüfusun sağlık ihtiyaçlarına cevap verebilecek düzeyde bilgi ve beceriye sahip, alanında uzman ve deneyimli kişilerdir.\n\nMerkezimizin amacı, üniversitemiz bireylerine olası sağlık problemlerinde acil destek sağlamak ve devam eden sağlık sorunu olan bireylere ihtiyaç halinde tıbbi destek sağlamaktır. Hedefimiz, üniversitemiz bireylerine bedensel ve ruhsal sağlık hizmetini hekim-hasta mahremiyetini dikkate alarak titizlikle sunmaktır.",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/20",
+      "belgeler": [],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-21",
+      "baslik": "Güvenlik",
+      "kategori": "kampus_yasam",
+      "kategori_etiket": "Kampüs Yaşamı",
+      "ornek_sorular": [
+        "güvenlik",
+        "kampüs güvenliği"
+      ],
+      "icerik": "Mudanya Üniversitesi, ülkemizin en güvenli şehirlerinden biri olan Bursa’da yer almaktadır. Konumu itibariyle şehrin gürültüsünden ve karmaşasından uzaktır.\n\nEtrafı yeşilliklerle çevrili olan üniversitemiz, öğrencilerimize güvenli ve huzurlu bir ortam sunmaktadır.\n\nÜniversitemizde hizmet veren Güvenlik Müdürlüğü; öğrencilerin, çalışanların ve kampüsün emniyetini sağlamak, kampüsteki yaşam düzeninin bozulmasını önleyici tedbirler almak, kampüs trafik ve park düzenini sağlamak, hırsızlığı önlemek, bulunan kayıp eşyaların sahiplerine ulaştırılmasını sağlamak amacıyla çalışmalarını titizlikle sürdürmektedir.",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/21",
+      "belgeler": [],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-23",
+      "baslik": "Engelsiz Yaşam",
+      "kategori": "kampus_yasam",
+      "kategori_etiket": "Kampüs Yaşamı",
+      "ornek_sorular": [
+        "engelsiz yaşam",
+        "engelli öğrenci",
+        "erişilebilirlik"
+      ],
+      "icerik": "Mudanya Üniversitesi engelsiz yaşama uygun olarak tasarlanmış olup, engelli bireyler tüm katlarda ve kullanım alanlarında üniversitenin imkanlarından rahatlıkla istifade edebilmektedir.\n\nMudanya Üniversitesi Engelsiz Yaşam Birimi ve Öğrenci Dekanlığı öğrencilerin gerek akademik gerekse sosyal alanda yaşadıkları sorunlara çözümler üretmektedir.",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/23",
+      "belgeler": [],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-191",
+      "baslik": "Eğitim Alanlarımız",
+      "kategori": "kampus_yasam",
+      "kategori_etiket": "Kampüs Yaşamı",
+      "ornek_sorular": [
+        "eğitim alanları",
+        "sınıflar",
+        "derslikler"
+      ],
+      "icerik": "Mudanya Üniversitesi, öğrencilerine nitelikli ve uygulama odaklı bir öğrenme deneyimi sunmak amacıyla çağdaş eğitim alanlarıyla donatılmış bir kampüs ortamı sağlamaktadır. Laboratuvarlar, kütüphane, uygulama alanları ve ortak kullanım mekânları; eğitim-öğretim faaliyetlerini destekleyecek, bilimsel araştırmaları teşvik edecek ve öğrencilerin akademik, sosyal ve mesleki gelişimlerine katkı sağlayacak şekilde planlanmakta ve sürekli geliştirilmektedir.",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/191",
+      "belgeler": [],
+      "gorseller": [
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a1e5e605802.42374288.jpg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a1e5e609071.88013176.jpg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a1e5e60ca58.33710492.jpg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a1e5e610180.12365093.jpg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a1e5e613978.14922020.jpg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a1e5e616c96.79724927.jpg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a1e5e619c51.28519468.jpg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a1e5e61d4e2.51440443.jpg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a1e5e620976.69730439.jpg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a1e5e624861.22989230.jpg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a1e5e628c81.32465961.jpg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a1e5e62d197.88803412.jpg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a1e5e631591.13156830.jpg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a1e5e6353d9.26928762.jpg"
+      ],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-29",
+      "baslik": "Laboratuvarlar",
+      "kategori": "kampus_yasam",
+      "kategori_etiket": "Kampüs Yaşamı",
+      "ornek_sorular": [
+        "laboratuvarlar",
+        "labs"
+      ],
+      "icerik": "Mudanya Üniversitesi, eğitim, araştırma ve uygulama faaliyetlerini desteklemek amacıyla laboratuvar altyapısını sürekli geliştirmekte ve etkin bir şekilde kullanmaktadır. Laboratuvarlar; öğrencilere uygulamalı öğrenme ortamı sunmanın yanı sıra, akademik araştırmaların yürütülmesine, disiplinlerarası çalışmalara ve bilimsel üretkenliğin artırılmasına katkı sağlayacak şekilde planlanmakta, düzenli olarak güncellenmekte ve ulusal ve uluslararası standartlar doğrultusunda geliştirilmektedir.",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/29",
+      "belgeler": [],
+      "gorseller": [
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a100d7c3f36.23720124.jpg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a100d7c7fc7.37847807.jpg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a100d7cc502.69256432.jpg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a100d7d02e7.53050578.jpg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a100d7d3b60.74314803.jpg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a100d7d7553.10155804.jpg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a100d7db1c3.72679352.jpg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a100d7df2f8.03147178.jpg"
+      ],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-611",
+      "baslik": "3+1 Eğitim",
+      "kategori": "egitim_modeli",
+      "kategori_etiket": "Eğitim Modeli",
+      "ornek_sorular": [
+        "3+1 eğitim modeli",
+        "önlisans işyeri eğitimi"
+      ],
+      "icerik": "Mudanya Üniversitesi, öğrencilerini yalnızca akademik açıdan değil, profesyonel yaşam için de hazırlamayı amaçlamaktadır. 3+1 eğitim modelleri sayesinde öğrenciler, mezun olmadan önce iş dünyasıyla tanışır, mesleki deneyim kazanır ve kariyerlerine sağlam bir başlangıç yapar. Üniversite-sektör iş birlikleriyle desteklenen bu model, öğrencilerin bilgi, beceri ve deneyimlerini bir araya getirerek onları geleceğin başarılı profesyonelleri olarak yetiştirmektedir. Mudanya Üniversitesi’nde eğitim, sınıf ortamının ötesine taşınır; öğrenme süreci doğrudan sektör deneyimiyle tamamlanır.\n3+1 Eğitim Modeli Nedir?\nÖn lisans programlarında uygulanan 3+1 eğitim modeli kapsamında öğrenciler, ilk üç dönem boyunca üniversitede teorik ve uygulamalı dersler alırken son dönemlerini işletmelerde, kurumlarda veya sektör paydaşlarında uygulamalı eğitim yaparak tamamlar. Bu model sayesinde öğrenciler mesleki bilgi ve becerilerini gerçek çalışma ortamlarında geliştirme imkânı bulur. Mudanya Üniversitesi Meslek Yüksekokulu programlarında uygulanan bu model, öğrencilerin sektöre hazır bireyler olarak mezun olmalarını desteklemektedir.\nUygulamalı Eğitimin Avantajları\n• Mezuniyet öncesinde gerçek iş deneyimi kazanma\n• Sektör profesyonelleriyle çalışma fırsatı\n• Teorik bilgiyi uygulamaya dönüştürme imkânı\n• Kariyer planlamasına erken başlama avantajı\n• İş dünyasının beklentilerini yakından tanıma\n• Mezuniyet sonrası istihdam fırsatlarını artırma",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/611",
+      "belgeler": [],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-612",
+      "baslik": "7+1 Eğitim",
+      "kategori": "egitim_modeli",
+      "kategori_etiket": "Eğitim Modeli",
+      "ornek_sorular": [
+        "7+1 eğitim modeli",
+        "lisans sektör dönemi"
+      ],
+      "icerik": "Mudanya Üniversitesi, öğrencilerini yalnızca akademik açıdan değil, profesyonel yaşam için de hazırlamayı amaçlamaktadır. 7+1 eğitim modelleri sayesinde öğrenciler, mezun olmadan önce iş dünyasıyla tanışır, mesleki deneyim kazanır ve kariyerlerine sağlam bir başlangıç yapar. Üniversite-sektör iş birlikleriyle desteklenen bu model, öğrencilerin bilgi, beceri ve deneyimlerini bir araya getirerek onları geleceğin başarılı profesyonelleri olarak yetiştirmektedir. Mudanya Üniversitesi’nde eğitim, sınıf ortamının ötesine taşınır; öğrenme süreci doğrudan sektör deneyimiyle tamamlanır.\n\n7+1 Eğitim Modeli Nedir?\nLisans programlarında uygulanan 7+1 eğitim modeli ise öğrencilerin ilk yedi yarıyılda akademik eğitimlerini tamamlamalarının ardından son yarıyılda tam zamanlı olarak sektörde uygulamalı eğitim almalarını sağlar. Öğrenciler bu süreçte alanlarıyla ilgili kurum ve kuruluşlarda görev alarak iş dünyasının dinamiklerini yakından tanır, mesleki yetkinliklerini geliştirir ve kariyer ağlarını genişletir. Mudanya Üniversitesi, lisans programlarında da bu modeli benimseyerek öğrencilerini mezuniyet sonrasına en iyi şekilde hazırlamayı hedeflemektedir.\nUygulamalı Eğitimin Avantajları\n• Mezuniyet öncesinde gerçek iş deneyimi kazanma\n• Sektör profesyonelleriyle çalışma fırsatı\n• Teorik bilgiyi uygulamaya dönüştürme imkânı\n• Kariyer planlamasına erken başlama avantajı\n• İş dünyasının beklentilerini yakından tanıma\n• Mezuniyet sonrası istihdam fırsatlarını artırma",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/612",
+      "belgeler": [],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-648",
+      "baslik": "İşletmede Mesleki Eğitim",
+      "kategori": "egitim_modeli",
+      "kategori_etiket": "Eğitim Modeli",
+      "ornek_sorular": [
+        "işletmede mesleki eğitim",
+        "iş yerinde eğitim"
+      ],
+      "icerik": "İşletmede Mesleki Eğitim, öğrencilerimizin teorik bilgilerini gerçek iş ortamında uygulamaya dönüştürmelerini, mesleki bilgi ve becerilerini geliştirmelerini ve mezuniyet öncesinde iş hayatına hazırlanmalarını amaçlayan uygulamalı bir eğitim modelidir.\n\nMudanya Üniversitesi’nde işletmede mesleki eğitim uygulanan programlarda bu model, müfredatın ayrılmaz bir parçasıdır ve krediye tabidir. Öğrencilerimiz eğitim süresince 3308 sayılı Mesleki Eğitim Kanunu kapsamında iş kazası ve meslek hastalığı ile hastalık sigortası güvencesinden yararlanmaktadır.\n\n### Meslek Yüksekokulu (3+1 Eğitim Modeli)\n\nMeslek Yüksekokulu programlarında eğitim dört yarıyıldan oluşmaktadır.\n\n- 3 yarıyıl üniversitede teorik ve uygulamalı dersler,\n\n- 1 yarıyıl işletmelerde tam zamanlı mesleki eğitim\n\nşeklinde yürütülmektedir.\n\n### Fakülteler (7+1 Eğitim Modeli)\n\nFakülte programlarında eğitim sekiz yarıyıldan oluşmaktadır.\n\n- 7 yarıyıl üniversitede teorik ve uygulamalı dersler,\n\n- 1 yarıyıl işletmelerde tam zamanlı mesleki eğitim\n\nşeklinde yürütülmektedir.\n\nHer iki modelde de öğrencilerimiz, üniversitemiz tarafından görevlendirilen sorumlu öğretim elemanı ile işletmede görev yapan eğitici personelin rehberliğinde eğitimlerini tamamlayarak mesleki deneyim kazanır ve iş hayatına güçlü bir başlangıç yaparlar.\n\n### İşletmede Mesleki Eğitime Katılım\n\nİşletmede Mesleki Eğitime katılabilmek için öğrencilerin;\n\n- Ön lisans programlarında dördüncü yarıyıla geçmiş, lisans programlarında ise sekizinci yarıyıla kadar almaları gereken dersleri tamamlamış olması,\n\n- Ön lisans programlarında en az 1,80, lisans programlarında ise en az 2,00 genel not ortalamasına sahip olması,\n\n- Devamsızlık nedeniyle başarısız olduğu dersinin bulunmaması\n\ngerekmektedir.\n\n### Değerlendirme\n\nİşletmede Mesleki Eğitim, ilgili bölüm veya program tarafından belirlenen ölçme ve değerlendirme esasları doğrultusunda değerlendirilmektedir. Öğrencilerin başarılı sayılabilmeleri için 100 üzerinden en az 65 (4,00 üzerinden en az 2,30) başarı notu almaları gerekmektedir.",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/648",
+      "belgeler": [],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-649",
+      "baslik": "Staj",
+      "kategori": "egitim_modeli",
+      "kategori_etiket": "Eğitim Modeli",
+      "ornek_sorular": [
+        "staj",
+        "zorunlu staj",
+        "internship"
+      ],
+      "icerik": "Staj, öğrencilerimizin eğitim süresince edindikleri teorik bilgi ve becerileri uygulama ortamında geliştirmelerini, mesleklerini yakından tanımalarını ve iş hayatına hazırlanmalarını amaçlayan uygulamalı bir eğitim faaliyetidir.\n\nMudanya Üniversitesi’nde staj uygulaması, ilgili bölüm veya programın eğitim planında yer alan programlarda yürütülmektedir. Staj, müfredatın bir parçası olup ilgili programın mezuniyet koşulları arasında yer almaktadır. Öğrencilerimiz staj süresince 5510 sayılı Kanun kapsamında iş kazası ve meslek hastalığı sigortası güvencesinden yararlanmaktadır.\n\n### Staj Süreci\n\nStajlar, ilgili bölüm veya program tarafından belirlenen süre ve esaslar doğrultusunda kamu kurumları, özel sektör kuruluşları veya ilgili diğer kurum ve kuruluşlarda gerçekleştirilmektedir.\n\nÖğrencilerimiz staj süresince, üniversitemiz tarafından görevlendirilen sorumlu öğretim elemanının rehberliğinde çalışmalarını yürütür. İşletme tarafından görevlendirilen eğitici personel ise öğrencinin uygulama sürecini takip ederek mesleki gelişimine katkı sağlar.\n\n### Değerlendirme\n\nStajlar; işletme değerlendirme formu, staj dosyası ve ilgili bölüm veya program tarafından belirlenen ölçme ve değerlendirme esasları doğrultusunda değerlendirilmektedir. Staj, öğrencilerimizin mesleki bilgi ve becerilerini geliştirmelerini sağlayan önemli bir uygulamalı öğrenme deneyimidir.",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/649",
+      "belgeler": [],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-110",
+      "baslik": "Öğrenci İşleri Direktörlüğü",
+      "kategori": "ogrenci_hizmet",
+      "kategori_etiket": "Öğrenci Hizmetleri",
+      "ornek_sorular": [
+        "öğrenci işleri",
+        "transkript",
+        "öğrenci belgesi"
+      ],
+      "icerik": "Mudanya Üniversitesi Öğrenci İşleri Direktörlüğü, lisansüstü, lisans ve ön lisans öğrencilerinin kayıttan mezuniyete kadar akademik ve idari süreçler konusunda bilgi akışını sağlar. Sürekli gelişen bilgi ve teknolojileri kullanarak kısa sürede doğru bilgi ve belge hizmeti sunar. Öğrenci İşleri’nin temel amacı; Eğitim-öğretim yönetmelikleri ve ilgili yönergelerinin geliştirilmesine destek olmak, öğrencilerin hak ve sorumluluklarının bilincinde olmak ve şeffaf bir şekilde açıklayarak bunlara kolayca erişmelerini sağlamak, çeşitli analizler yaparak öğrenci ihtiyaçları doğrultusunda, öğrencilerin yararına sunulan olanakların ve öğrenim ortamının sürekli geliştirilmesine katkıda bulunmak ve öğrencilerle ilgili tüm konularda üniversite birimleri ile arasında köprü görevi görmektir.\n\nKayıt-Kabul İşlemleri, Yatay Geçiş Başvuru ve kayıt işlemleri, Çift Anadal -Yandal Başvuru ve kayıt işlemleri, Yaz Okulu kayıt işlemleri, Askerlik İşlemleri, Mezun İlişik Kesme İşlemleri, Kayıt dondurma ve sildirme süreçleri, Yönetmelik, Yönergeler Hakkında Öğrencilerin Bilgilendirilmesi, Öğrenci Bilgi Sistemi'nin işletilmesi, Öğrencilere ilişkin raporların hazırlanması, Öğrenci Kimliklerinin basımının sağlanarak öğrencilere dağıtımı, Akademik Birimlerden gelen kararların işlenmesi, iş planı içinde yer alan görevlerinden bazılarıdır.",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/110",
+      "belgeler": [],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-107",
+      "baslik": "Sağlık, Kültür ve Sportif Faaliyetler Direktörlüğü",
+      "kategori": "ogrenci_hizmet",
+      "kategori_etiket": "Öğrenci Hizmetleri",
+      "ornek_sorular": [
+        "sağlık kültür spor",
+        "sportif faaliyetler",
+        "kulüp başvurusu"
+      ],
+      "icerik": "Mudanya Üniversitesi Sağlık, Kültür ve Spor Faaliyetler Direktörlüğü faaliyet amacı öğrencilerin üniversite içerisinde geçirecekleri zamanı değerli ve farklı kılmak; beslenme, barınma, sağlık, spor, kültür ve diğer sosyal ihtiyaçlarını karşılamak ve kişisel gelişimlerine destek sağlamaktır. Sağlık, Kültür ve Sportif Faaliyetler Direktörlüğü, öğrencilerin sosyal, kültürel danışma ve rehberlik ile spor ihtiyaçlarını karşılayan bir hizmet birimi ve aynı zamanda eğitim öğretimin desteklenmesi amacıyla bu alanda uygulama ve araştırmaların yapıldığı bir uygulama dairesidir. Yükseköğretim Kanunu’nun 47. Maddesi uyarınca kurulan Sağlık, Kültür ve Sportif Faaliyetler Direktörlüğü, Yükseköğretim Kurulu’nun ve Üniversite Yönetiminin yapacağı plan ve programları uyarınca, öğrencilerin ve personelin beden ve ruh sağlığının korunması, beslenme, dinlenme ve boş zamanlarını değerlendirme gibi sosyal ihtiyaçlarının karşılanması; bu amaçla, üniversitenin genel olanakları ve bütçe olanakları nispetinde, kantin, yemekhane, toplantı ve konferans salonları, spor tesisleri, sağlık tesislerinin yapılması ve işletilmesiyle yükümlüdür.",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/107",
+      "belgeler": [],
+      "gorseller": [
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a43d6ad214ed4.28068437.jpg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a43d6ad20dff1.49262606.jpg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a43d6ad2116b4.33297024.jpg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a43d9c245bf93.43072109.jpeg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a43d9c2465bf9.87525788.jpeg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a43d9c246d6f5.82800980.jpeg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a43d9c2474385.04540658.jpeg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a43d9c2479af1.74245797.jpeg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a43d9c247f618.27900515.jpeg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a43d9c2485162.02698265.jpeg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a43d9c248a124.07624927.jpeg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a43d9c248f1b9.05704892.jpeg"
+      ],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-546",
+      "baslik": "Özel Gereksinimli Öğrenciler",
+      "kategori": "ogrenci_hizmet",
+      "kategori_etiket": "Öğrenci Hizmetleri",
+      "ornek_sorular": [
+        "özel gereksinimli öğrenci",
+        "destek hizmetleri"
+      ],
+      "icerik": "Mudanya Üniversitesi, tüm öğrencilerin eğitim olanaklarına eşit erişim hakkına sahip olduğu anlayışıyla hareket etmekte ve özel gereksinimli öğrenciler için erişilebilir, kapsayıcı ve destekleyici bir eğitim ortamı sunmayı hedeflemektedir.\nÜniversitemiz, özel gereksinimli öğrencilerimizin akademik, sosyal ve kültürel yaşama etkin katılımlarını desteklemek amacıyla gerekli düzenlemeleri gerçekleştirmekte; eğitim süreçlerinde fırsat eşitliğini güçlendirmeye yönelik çalışmalar yürütmektedir.\nBu kapsamda;\n* Kampüs, bina ve ortak kullanım alanlarının erişilebilirliğinin geliştirilmesi,\n* Eğitim-öğretim süreçlerinde makul uyarlamaların sağlanması,\n* Sınav uygulamalarında ihtiyaçlara uygun düzenlemelerin yapılması,\n* Akademik danışmanlık ve rehberlik hizmetlerinin sunulması,\n* Sosyal, kültürel ve sportif etkinliklere erişimin desteklenmesi,\n* Öğrencilerin karşılaştıkları engellerin belirlenmesi ve çözüm önerilerinin geliştirilmesi,\namaçlanmaktadır.\nÜniversitemiz bünyesinde yürütülen çalışmalar, öğrencilerimizin bireysel ihtiyaçlarını gözeten, insan haklarına dayalı ve kapsayıcı eğitim anlayışı çerçevesinde sürdürülmektedir. Mudanya Üniversitesi, tüm öğrencilerinin potansiyellerini en üst düzeyde gerçekleştirebilecekleri erişilebilir bir öğrenme ve yaşam ortamı oluşturmayı temel sorumluluklarından biri olarak kabul etmektedir.\nÖzel gereksinimli öğrencilerimiz, ihtiyaç duydukları destek ve yönlendirme hizmetleri için ilgili birimlerle iletişime geçebilir ve eğitim süreçlerine ilişkin taleplerini üniversitemize iletebilirler.",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/546",
+      "belgeler": [],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-658",
+      "baslik": "Doküman ve Formlar",
+      "kategori": "ogrenci_hizmet",
+      "kategori_etiket": "Öğrenci Hizmetleri",
+      "ornek_sorular": [
+        "doküman ve formlar",
+        "dilekçe",
+        "form indirme"
+      ],
+      "icerik": "Öğrenci Öğrenim Hareketliliği\n\n- [Feragat Dilekçesi](https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/Feragat%20Dilek%C3%A7esi-Erasmus.pdf)( Hakkından feragat edecek adaylar için)\n\n- [Onaylı Katılım Sertifikası](https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/Onayl%C4%B1%20Kat%C4%B1l%C4%B1m%20Sertifikas%C4%B1_erasmus.pdf)\n\n- [Pasaport Harcı Muafiyet Formu](https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/Pasaport%20Harc%C4%B1%20muafiyet%20formu.pdf)\n\n- [Öğrenim Anlaşması (LA)](https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/%C3%96%C4%9Frenim%20Anla%C5%9Fmas%C4%B1%20%28Learning%20Agreement%29.pdf)\n\n- [Ders Değişikliği Formu](https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/Ders%20De%C4%9Fi%C5%9Fikli%C4%9Fi%20Formu-%20LA_DURING.pdf)\n\n- [Erasmus Öğrenci Beyannamesi](https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/ERASMUS%20%C3%96%C4%9ERENC%C4%B0%20BEYANNAMES%C4%B0.pdf)\n\n- [Vatandaş Diplomasi El Kitabı](https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/VATANDA%C5%9E%20D%C4%B0PLOMAS%C4%B0%20EL%20K%C4%B0TABI%20%28TR-ENG%29.pdf)\n\n- [2026 Türkiye Ulusal Ajansı El Kitabı](https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/2026-uygulama-el-kitab%C4%B1.pdf)\n\nPersonel Hareketliliği\n\n- [Feragat Dilekçesi](https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/Feragat%20Dilek%C3%A7esi_staff.pdf)\n\n- Personel Eğitim Alma Anlaşması ([SMT_AGREEMENT](https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/mobility-agreement-training-22_en.pdf))\n\n- Personel Ders Verme Anlaşması [(SMT_AGREEMENT)](https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/mobility-agreement-teaching_en.pdf)",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/658",
+      "belgeler": [
+        {
+          "metin": "Feragat Dilekçesi",
+          "url": "https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/Feragat%20Dilek%C3%A7esi-Erasmus.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Onaylı Katılım Sertifikası",
+          "url": "https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/Onayl%C4%B1%20Kat%C4%B1l%C4%B1m%20Sertifikas%C4%B1_erasmus.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Pasaport Harcı Muafiyet Formu",
+          "url": "https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/Pasaport%20Harc%C4%B1%20muafiyet%20formu.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Öğrenim Anlaşması (LA)",
+          "url": "https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/%C3%96%C4%9Frenim%20Anla%C5%9Fmas%C4%B1%20%28Learning%20Agreement%29.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Ders Değişikliği Formu",
+          "url": "https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/Ders%20De%C4%9Fi%C5%9Fikli%C4%9Fi%20Formu-%20LA_DURING.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Erasmus Öğrenci Beyannamesi",
+          "url": "https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/ERASMUS%20%C3%96%C4%9ERENC%C4%B0%20BEYANNAMES%C4%B0.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Vatandaş Diplomasi El Kitabı",
+          "url": "https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/VATANDA%C5%9E%20D%C4%B0PLOMAS%C4%B0%20EL%20K%C4%B0TABI%20%28TR-ENG%29.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "2026 Türkiye Ulusal Ajansı El Kitabı",
+          "url": "https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/2026-uygulama-el-kitab%C4%B1.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Feragat Dilekçesi",
+          "url": "https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/Feragat%20Dilek%C3%A7esi_staff.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "SMT_AGREEMENT",
+          "url": "https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/mobility-agreement-training-22_en.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "(SMT_AGREEMENT)",
+          "url": "https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/mobility-agreement-teaching_en.pdf",
+          "tur": "pdf"
+        }
+      ],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-657",
+      "baslik": "Sık Sorulan Sorular",
+      "kategori": "ogrenci_hizmet",
+      "kategori_etiket": "Öğrenci Hizmetleri",
+      "ornek_sorular": [
+        "sık sorulan sorular",
+        "sss",
+        "faq"
+      ],
+      "icerik": "Öğrenci Öğrenim Hareketliliği hakkında sıkça sorulan sorular için [tıklayınız](https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/%C3%96%C4%9Frenci%20%C3%96%C4%9Frenim%20Hareketlili%C4%9Fi_SSS_1.pdf).\n\nPersonel Hareketliliği hakkında sıkça sorulan sorular için [tıklayınız](https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/Personel%20Hareketlili%C4%9Fi_SSS.pdf).",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/657",
+      "belgeler": [
+        {
+          "metin": "tıklayınız",
+          "url": "https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/%C3%96%C4%9Frenci%20%C3%96%C4%9Frenim%20Hareketlili%C4%9Fi_SSS_1.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "tıklayınız",
+          "url": "https://best.mudanya.edu.tr/files/mudu/img/yukludosyalar/Personel%20Hareketlili%C4%9Fi_SSS.pdf",
+          "tur": "pdf"
+        }
+      ],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-71",
+      "baslik": "Hakkımızda",
+      "kategori": "kurumsal",
+      "kategori_etiket": "Kurumsal",
+      "ornek_sorular": [
+        "hakkımızda",
+        "üniversite hakkında",
+        "kaç öğrenci var",
+        "neden mudanya",
+        "why choose mudanya",
+        "why study here"
+      ],
+      "icerik": "Misyon ve Vizyon\n\nMudanya Üniversitesi Uluslararası İlişkiler’in misyonu, öğrencilerine global bir kişilik edinmeleri için geniş bakış açısı, beceri ve yeterli araçları sunmaktır.\n\nÜniversitemizin uluslararası programları öğrencilerin toplumsal sorumluluklarını güçlendirmelerini, gerek yerel, gerek evrensel zorluklara göğüs germelerini sağlayan deneyimler kazandırır.\n\nGünümüzün öğrencileri, teknolojik olanaklar ile global olarak nitelendirilebilirler, fakat dünyadaki yollarını çizebilmeleri için hayat tecrübesi önemini korur. Mudanya Üniversitesi’nin sunmuş olduğu uluslararası fırsatlar öğrencilerimizin başarılı birer birey olmaları için farklı kültür, dil ve tarih anlayışı yaratarak onları bir adım öne çıkarır.\n\nİşveren, sadece pratik becerisi olan elemanlar değil, takım çalışmalarını kültürler arası becerilerini kullanarak verimli bir şekilde gerçekleştirebilen ve dünya çapındaki uluslararası rakiplerle iletişim kurabilme kabiliyetini gösterebilen elemanlar aramaktadır.\n\nÖğrencilere tam donanımlı deneyim kazandırmak için Erasmus+, İkili Değişim ve kısa dönem değişim programları Mudanya üniversitesi Uluslararası İlişkiler Ofisi tarafından sunulmaktadır.\n\nUluslararasılaşma\n\nBizim vizyon ve misyonumuz “sadece eğitim değil, geleceğe hazırlık” tır. Öğrenim sadece üniversitenin içinde değil, sınırların dışına açılabilmelerini sağlamaktır.\n\nMUDÜ çeşitlilik ve eleştirel düşüncenin üniversite ve toplum hayatındaki önemine inanır.\n\nHer düzeydeki öğrencilere günümüz dünyasının karmaşık sorunlarıyla baş etmeye yönelik, geleneğin farkında fakat yenilikçiliği hedefleyen, akademik ve mesleki bilgi ve becerileri kazandırır.\n\nHer bireyin kendini yenilemesine yönelik araçlara ulaşmasının temel bir hak olduğu inancıyla yaşam boyu eğitim programları geliştirir.\n\nUlusal ve uluslararası düzeyde faaliyet yürütmeyi ve hizmet sunmayı hedefler.\n\nÖğrencilerinin ve mezunlarının toplumun ve dünyanın sorunlarına duyarlı, sorumluluk taşıyabilen kişiler olmasını önemser.\n\nMUDÜ faaliyetlerinde öğrenci odaklı bir kurum olup, öğrencilerin eğitim ve öğretim süreçlerine etkin bir şekilde katılmasını ve araştırıcı, sorgulayıcı, sentez yapabilen bireyler olarak yetişmesini sağlar.",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/71",
+      "belgeler": [],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-5",
+      "baslik": "Misyon ve Vizyon",
+      "kategori": "kurumsal",
+      "kategori_etiket": "Kurumsal",
+      "ornek_sorular": [
+        "misyon vizyon"
+      ],
+      "icerik": "Misyonumuz\n\nİnsanlığın karşılaştığı yerel, ulusal, bölgesel ve küresel sorunlara evrensel insani değerleri temel alan bir yaklaşımla sürdürülebilir çözümler üretebilen, uzmanlık alanlarında bireysel ve profesyonel yetkinlikler ile donatılmış öğrenciler yetiştirmek ve yüksek etkili araştırma çıktılarına sahip, toplumsal sorunlar karşısında insan odaklı ve yenilikçi çözümler üreten, ürettiği bilgiyi topluma her boyutta aktarabilen, reel sektör iş birlikleri ve araştırma-geliştirme projeleri ile bilgiyi uygulayan ve teknolojiye dönüştürmek yoluyla toplumsal fayda sağlayan, dünya standartlarında bir araştırma üniversitesi olmak.\n\nVizyonumuz\n\nÜniversitemiz, yüksek standartlarda donanıma sahip, yeşillikler arasında şehrin gürültüsünden izole; ancak şehre yakın kampüsü ile öğrencilerimizin ihtiyacı olan her türlü imkânı sunuyor.\n\nMudanya Üniversitesi, geleceğe umutla bakan, kariyerinde sağlam adımlarla yürüyen, topluma katkı sağlayan, hayat boyu eğitim bilincini benimsemiş ve geniş vizyona sahip bir nesil yetiştirme hedefiyle kurulmuştur. Üniversitemizin akademik planlaması, öğrencilerin yalnızca seçmiş oldukları alanlarda değil, disiplinler arası bir yaklaşımla, birçok farklı alanda fikir sahibi bireyler olarak mezun edebilme bilinciyle yapılmıştır.\n\nÜniversitelerin toplumu ileriye taşıyan eğitim yuvaları olduğu düşüncesiyle ülkemize ve dünyaya yeni değerler katabilmek için en yenilikçi eğitim modelleri benimsenmiştir.\n\nÖncelikli amacımız, öğrencilerimizin uluslararası nitelikte bilgi ve kaliteli eğitimi en iyi şartlarda almasıdır.\n\nTürkiye’de eğitim alanında öncü, örnek teşkil edecek bir üniversite olma amacıyla çıktığımız bu yolda, Mudanya Üniversitesi olarak tüm eğitim kadromuzu ve öğrencilerimizi sevgiyle kucaklıyoruz.",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/5",
+      "belgeler": [],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-94",
+      "baslik": "Tarihçe",
+      "kategori": "kurumsal",
+      "kategori_etiket": "Kurumsal",
+      "ornek_sorular": [
+        "tarihçe",
+        "ne zaman kuruldu"
+      ],
+      "icerik": "Mudanya Üniversitesi, 11.03.2022 tarih ve 31775 sayılı kararla kurulmuştur.\n\nYükseköğretim Kurumları Teşkilatı Kanunu'nda Değişiklik Yapılmasına Dair Kanun, Resmi Gazetede yayımlanarak yürürlüğe girdi. Bursa Eğitim ve Kültür Vakfı tarafından kurulan \"Mudanya Üniversitesi\" bünyesinde Sanat ve Sosyal Bilimler Fakültesi; Mühendislik, Mimarlık ve Tasarım Fakültesi; Sağlık Bilimleri Fakültesi; Lisansüstü Eğitim Enstitüsü ve Meslek Yüksekokulu bulunuyor.\n\n2022 yılında Üniversitemiz ile birlikte Çağrışan Kampüsü’nde kurulan Mudanya Üniversitesi Kütüphanesi, yaklaşık 1000 m2 alana ve 200’ün üzerinde oturma kapasitesine sahiptir.\n\nMudanya Üniversitesi Kütüphanesi, üniversitemizin tüm mensuplarının araştırma ihtiyaçlarını karşılamak üzere kapsamlı bir koleksiyon geliştirme politikası uygulamaktır. En yeni ve en güncel kaynaklar ile koleksiyonumuzu oluşturarak ulusal ve uluslararası kaynaklara erişim sağlamak, teknolojik gelişmeleri takip ederek en iyi araştırma ortamını ve imkânlarını oluşturmak öncelikli hedefimizdir.",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/94",
+      "belgeler": [],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-3",
+      "baslik": "Kurucu Vakıf",
+      "kategori": "kurumsal",
+      "kategori_etiket": "Kurumsal",
+      "ornek_sorular": [
+        "kurucu vakıf",
+        "vakıf üniversitesi mi"
+      ],
+      "icerik": "Bursa Eğitim ve Kültür Vakfı, resmi olarak BNG Holding Yönetim Kurulu Başkanı ve aynı zamanda Bursa Sınav Okulları kurucusu Gıyasettin Bingöl Başkanlığında, 04.02.2017 tarih, 29969 sayılı yasa ile kurulmuştur. Vakıf, her düzeyde eğitim ve kültür hizmeti vermektedir.\n\nVakfın Amacı\n\nHer düzeyde eğitim-öğretim kurumları, okullar, enstitüler, araştırma, uygulama ve eğitim merkezleri, teknoloji kuluçka merkezleri, laboratuvarlar, kütüphaneler, müzeler, yurt ve pansiyonlar, her türden sosyal ve spor tesisleri kurmak, sergi ve fuar alanları açmak ve etkinlikler düzenlemek;\n\nEğitim kurumları ile iş birliği yapmak, onlara katkı sağlamak ve desteklemek,\n\nEğitim almakta olan bireyler ve mezunları arasında sosyal dayanışmayı desteklemek, onların bilinçli birey ve katılımcı dinamizme sahip olmalarına katkı sağlamak,\n\nTürk toplumunun eğitsel, sosyal, kültürel ve bilimsel gelişimine hizmet etmek,\n\nGençlerimizin, çağın gerektirdiği eğitim araç ve bilgi teknolojilerini kullanarak muhakeme, problem çözme, eleştirel düşünme özelliklerine sahip birey olarak yetişmelerine katkı vermek,\n\nYine gençliğin, Türk kültür ve medeniyetinin geçmiş ve gelecek bağlarını kurup, sevilmesine ve kabul görmesine katkı sağlayacak yeterlilikte eğitim-öğretim almasına zemin hazırlayarak, ülkemizin muasır medeniyetler seviyesine yükselmesini ve refaha ulaşmasına imkân ve katkı sağlamaktır.",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/3",
+      "belgeler": [],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-kurulus-oykusu",
+      "baslik": "Kuruluş Öyküsü",
+      "kategori": "kurumsal",
+      "kategori_etiket": "Kurumsal",
+      "ornek_sorular": [
+        "kuruluş öyküsü"
+      ],
+      "icerik": "Hayatını eğitime adamış, eğitim alanında birçok başarıya imza atmış olan Mütevelli Heyeti Başkanımız Gıyasettin Bingöl’ün, Bursa'ya bir vakıf üniversitesi kazandırmak hedefi doğrultusunda Bursa Eğitim ve Kültür Vakfı kurulması kararlaştırıldı. Bursa Eğitim ve Kültür Vakfı’nın kuruluşu 04.02.2017 tarih ve 29969 sayılı yasa Resmî Gazetede ilan edildi.\n\nVakıf, 2017-2019 döneminde Bursa’da sivil ve resmî kurumlar ile \"Nasıl bir Üniversite\" konusunda sayısız arama konferansı düzenledi.\n\nElde edilen bilgi ve talepler ışığında 2019 yılında inşaatına başlanan Mudanya Üniversitesi, Bursa Eğitim ve Kültür Vakfı tarafından 11.03.2022 tarihinde TBMM'den oy birliği ile kanunlaşarak kuruldu.",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/kurulus-oykusu",
+      "belgeler": [],
+      "gorseller": [
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a352d6c27be74.36569709.jpg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a352d6c1f63f6.08817191.jpg",
+        "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a352d6c29da04.16424149.jpg"
+      ],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    },
+    {
+      "id": "icerik-81",
+      "baslik": "Mevzuat",
+      "kategori": "mevzuat",
+      "kategori_etiket": "Mevzuat",
+      "ornek_sorular": [
+        "yönetmelik",
+        "yönerge",
+        "burs yönergesi",
+        "yatay geçiş yönergesi"
+      ],
+      "icerik": "Kuruluş felsefemiz, vizyon ve misyonumuza uygun şekilde hazırlanmış bu yönetmelikler, üniversite içi akademik ve idari işleyiş ile kuralları net bir şekilde ortaya koymaktadır. Tüm öğrencilerimiz, akademisyenlerimiz ve çalışanlarımız; aşağıda bağlantılarını bulabileceğiniz yönetmelik hükümlerine uymakla yükümlüdür.\n\nYönetmelikler\n\n[Ana Yönetmelik](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/ana_yonetmelik.pdf)\n\n[İhale Yönetmeliği](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/ihale_yonetmeligi.pdf)\n\n[Lisansüstü Eğitim - Öğretim ve Sınav Yönetmeliği](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/MUDU_lisansustu_egitim_yonetmeligi_010424_32419.pdf)\n\n[Önlisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği](https://mudanya.edu.tr/files/web_icerikler/editor/dosyalar/yonetmelikler/20b94f51.pdf)\n\nYönergeler\n\n[Afet Risk Yönetim Koordinasyon Yönergesi](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/afet_risk_yonerge.pdf)\n\n[Akademik Danışmanlık Yönergesi](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/Akademik_Danismanlik_Yonergesi.pdf)\n\n[Arşiv Yönergesi](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/arsiv_yonergesi_2.pdf)\n\n[Belge Yönetimi ve İmza Yetkileri Yönergesi](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/belge_yonetimi_ve_imza_yetkileri_yonergesi.pdf)\n\n[Bilimsel Araştırma Projeleri (BAP) Uygulama Yönergesi](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/bap_uygulama_yonergesi_190826.pdf)\n\n[Bilimsel Araştırma ve Yayın Etiği Yönergesi](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/MUD_C3_9C_20Bilimsel_20Ara_C5_9Ft_C4_B1rma_20ve_20Yay_C4_B1n_20Eti_C4_9Fi_20Y_C3_B6nergesi_21_2007_202022.pdf)\n\n[Çift Anadal, Yan Dal Yapılması Esasları ve Yönergesi](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/cap_yandal_yonergesi.pdf)\n\n[Ders Muafiyeti ve İntibak İşlemleri Yönergesi](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/ders_muafiyeti_ve_intibak_yonergesi.pdf)\n\n[Diploma ve İlgili Diğer Belgelerin Düzenlenmesi Hakkında Yönerge](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/diploma_ile_ilgili_belgelerin_duzenlenmesi_yonergesi.pdf)\n\n[Eğitim ve Mevzuat Komisyonu Yönergesi](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/egitim_mevzuat_komisyonu_yonergesi.pdf)\n\n[Elektronik Belge Yönetim Sistemi Yönergesi](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/elektronik_belge_yonetim_sistemi.pdf)\n\n[Engelsiz Üniversite Birimi Yönergesi](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/EK_ENGELSIZ_UNIVERSITE_BIRIMI_YONERGES__B4F6E38F_1.pdf)\n\n[Erasmus Yönergesi](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/erasmus_yonergesi.pdf)\n\n[Etik Kurullar Yönergesi](https://mudanya.edu.tr/files/web_icerikler/editor/dosyalar/yonetmelikler/e30d42a2.pdf)\n\n[Hemşirelik Bölümü Klinik Uygulama Usul ve Esasları](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/Hemsirelik_Bolumu_Klinik_Uygulama_Usul_ve_Esaslari.pdf)\n\n[Kalite Güvencesi Yönergesi](https://eski.mudanya.edu.tr/img/yukludosyalar/kalite_guvencesi_yonergesi.pdf)\n\n[Kariyer Araştırma ve Uygulama Koordinatörlüğü Yönergesi](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/kariyer_arastirma_ve_uygulama_koordinatorlugu_yonergesi.pdf)\n\n[Kısmi Zamanlı Öğrenci Çalıştırma Yönergesi](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/Mudanya_Universitesi_Ksmi_Zamanli_Ogrenci_Calistirma_Yonergesi.pdf)\n\n[Kütüphane Çalışma Esasları Yönergesi](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/Mudanya_Universitesi_Kutuphane_Calisma_Esaslari_Yonergesi.pdf)\n\n[Ortak Dersler Koordinatörlüğü ve Ortak Dersler Uygulama Yönergesi](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/ortak_dersler_yonergesi.pdf)\n\n[Öğrenci Toplulukları ve Kulüpleri Yönergesi](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/ogrenci_topluluklari_ve_kulupleri_yonergesi.pdf)\n\n[Öğrenci Burs ve İndirim Yönergesi](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/burs_ve_indirim_yonergesi_190826.pdf)\n\n[Öğretim Elemanlarının Ders Yükleri Ve Ek Ders Ücreti Uygulama Yönergesi](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/ogretim_elemanlari_ders_yukleri_ve_ek_ders_ucreti_uygulama_yonergesi.pdf)\n\n[Öğretim Üyeliğine Yükseltilme ve Atanma Yönergesi](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/ogretim_uyeligine_yukseltilme_ve_atanma_yonergesi.pdf)\n\n[Önlisans ve Lisans Programları Yatay Geçiş Esaslarına İlişkin Yönerge](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/onlisans_lisans_yatay_gecis_yonergesi.pdf)\n\n[Özel Gereksinimli Öğrencilere Yönelik Sınav Uygulamaları Yönergesi](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/EK_OZEL_GEREKSINIMLI_OGRENCILERE_YONELK_SINAV_UYGULAMALARI_YONERGES_B4CBFC35_1.pdf)\n\n[Staj Yönergesi](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/mudu_staj_yonerge.pdf)\n\n[Yabancı Diller Bölümü Hazırlık Programı Yönergesi](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/Hazirlik_Yonergesi_27102025.pdf)\n\n[Yayın Yönergesi](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/Mudanya_Universitesi_Yayin_Yonergesi.pdf)\n\n[Yaz Öğretimi Yönergesi](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/yaz_ogretimi_yonergesi.pdf)\n\n[Yurtdışından Öğrenci Kabul Yönergesi](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/Mudanya_Universitesi_Yurt_Disindan_Ogrenci_Kabulu.pdf)\n\nEK-1: [Yurt Dışından Öğrenci Başvurusunda Kabul Edilen Sınavlar, Diplomalar ve Asgari Puanlar](https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/yabanci_ogrenci_alim_kriter.pdf)",
+      "kaynak_url": "https://mudanya.edu.tr/icerik/81",
+      "belgeler": [
+        {
+          "metin": "Ana Yönetmelik",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/ana_yonetmelik.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "İhale Yönetmeliği",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/ihale_yonetmeligi.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Lisansüstü Eğitim - Öğretim ve Sınav Yönetmeliği",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/MUDU_lisansustu_egitim_yonetmeligi_010424_32419.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Önlisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/editor/dosyalar/yonetmelikler/20b94f51.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Afet Risk Yönetim Koordinasyon Yönergesi",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/afet_risk_yonerge.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Akademik Danışmanlık Yönergesi",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/Akademik_Danismanlik_Yonergesi.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Arşiv Yönergesi",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/arsiv_yonergesi_2.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Belge Yönetimi ve İmza Yetkileri Yönergesi",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/belge_yonetimi_ve_imza_yetkileri_yonergesi.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Bilimsel Araştırma Projeleri (BAP) Uygulama Yönergesi",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/bap_uygulama_yonergesi_190826.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Bilimsel Araştırma ve Yayın Etiği Yönergesi",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/MUD_C3_9C_20Bilimsel_20Ara_C5_9Ft_C4_B1rma_20ve_20Yay_C4_B1n_20Eti_C4_9Fi_20Y_C3_B6nergesi_21_2007_202022.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Çift Anadal, Yan Dal Yapılması Esasları ve Yönergesi",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/cap_yandal_yonergesi.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Ders Muafiyeti ve İntibak İşlemleri Yönergesi",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/ders_muafiyeti_ve_intibak_yonergesi.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Diploma ve İlgili Diğer Belgelerin Düzenlenmesi Hakkında Yönerge",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/diploma_ile_ilgili_belgelerin_duzenlenmesi_yonergesi.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Eğitim ve Mevzuat Komisyonu Yönergesi",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/egitim_mevzuat_komisyonu_yonergesi.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Elektronik Belge Yönetim Sistemi Yönergesi",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/elektronik_belge_yonetim_sistemi.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Engelsiz Üniversite Birimi Yönergesi",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/EK_ENGELSIZ_UNIVERSITE_BIRIMI_YONERGES__B4F6E38F_1.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Erasmus Yönergesi",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/erasmus_yonergesi.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Etik Kurullar Yönergesi",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/editor/dosyalar/yonetmelikler/e30d42a2.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Hemşirelik Bölümü Klinik Uygulama Usul ve Esasları",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/Hemsirelik_Bolumu_Klinik_Uygulama_Usul_ve_Esaslari.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Kalite Güvencesi Yönergesi",
+          "url": "https://eski.mudanya.edu.tr/img/yukludosyalar/kalite_guvencesi_yonergesi.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Kariyer Araştırma ve Uygulama Koordinatörlüğü Yönergesi",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/kariyer_arastirma_ve_uygulama_koordinatorlugu_yonergesi.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Kısmi Zamanlı Öğrenci Çalıştırma Yönergesi",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/Mudanya_Universitesi_Ksmi_Zamanli_Ogrenci_Calistirma_Yonergesi.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Kütüphane Çalışma Esasları Yönergesi",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/Mudanya_Universitesi_Kutuphane_Calisma_Esaslari_Yonergesi.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Ortak Dersler Koordinatörlüğü ve Ortak Dersler Uygulama Yönergesi",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/ortak_dersler_yonergesi.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Öğrenci Toplulukları ve Kulüpleri Yönergesi",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/ogrenci_topluluklari_ve_kulupleri_yonergesi.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Öğrenci Burs ve İndirim Yönergesi",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/burs_ve_indirim_yonergesi_190826.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Öğretim Elemanlarının Ders Yükleri Ve Ek Ders Ücreti Uygulama Yönergesi",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/ogretim_elemanlari_ders_yukleri_ve_ek_ders_ucreti_uygulama_yonergesi.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Öğretim Üyeliğine Yükseltilme ve Atanma Yönergesi",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/ogretim_uyeligine_yukseltilme_ve_atanma_yonergesi.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Önlisans ve Lisans Programları Yatay Geçiş Esaslarına İlişkin Yönerge",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/onlisans_lisans_yatay_gecis_yonergesi.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Özel Gereksinimli Öğrencilere Yönelik Sınav Uygulamaları Yönergesi",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/EK_OZEL_GEREKSINIMLI_OGRENCILERE_YONELK_SINAV_UYGULAMALARI_YONERGES_B4CBFC35_1.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Staj Yönergesi",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/mudu_staj_yonerge.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Yabancı Diller Bölümü Hazırlık Programı Yönergesi",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/Hazirlik_Yonergesi_27102025.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Yayın Yönergesi",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/Mudanya_Universitesi_Yayin_Yonergesi.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Yaz Öğretimi Yönergesi",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/yaz_ogretimi_yonergesi.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Yurtdışından Öğrenci Kabul Yönergesi",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/Mudanya_Universitesi_Yurt_Disindan_Ogrenci_Kabulu.pdf",
+          "tur": "pdf"
+        },
+        {
+          "metin": "Yurt Dışından Öğrenci Başvurusunda Kabul Edilen Sınavlar, Diplomalar ve Asgari Puanlar",
+          "url": "https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/yabanci_ogrenci_alim_kriter.pdf",
+          "tur": "pdf"
+        }
+      ],
+      "gorseller": [],
+      "harita_linkleri": [],
+      "telefonlar": [],
+      "epostalar": [],
+      "guncellenme": "2026-09-03"
+    }
+  ]
+}

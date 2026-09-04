@@ -1,0 +1,658 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mudy — Mudanya Üniversitesi Öğrenci Asistanı</title>
+<link rel="icon" href="/mudy.jpeg">
+<style>
+  :root {
+    --ana: #030635;
+    --koyu: #0c1a40;
+    --vurgu: #e7272d;
+    --yumusak: #f6f8fd;
+    --cizgi: #e4e9f4;
+    --gri: #5b6377;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+    color: #1c2233; background: #fff; line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+  }
+  .kap { max-width: 1080px; margin: 0 auto; padding: 0 24px; }
+
+  /* ---------- ust bar ---------- */
+  header {
+    background: rgba(3,6,53,.96); backdrop-filter: blur(8px);
+    color: #fff; padding: 12px 0; position: sticky; top: 0; z-index: 20;
+  }
+  header .kap { display: flex; align-items: center; gap: 12px; }
+  header img { width: 38px; height: 38px; border-radius: 50%; background: #eef2fb; object-fit: cover; }
+  header .ad { font-size: 16px; font-weight: 600; letter-spacing: .2px; }
+  header .ad span { display: block; font-size: 11.5px; font-weight: 400; opacity: .65; letter-spacing: 0; }
+  header nav { margin-left: auto; display: flex; gap: 24px; font-size: 13.5px; }
+  header nav a { color: rgba(255,255,255,.75); text-decoration: none; transition: color .15s; }
+  header nav a:hover { color: #fff; }
+
+  /* ---------- hero ---------- */
+  .hero {
+    background:
+      radial-gradient(900px 420px at 82% 18%, rgba(93,124,255,.28), transparent 65%),
+      linear-gradient(155deg, var(--ana) 0%, var(--koyu) 100%);
+    color: #fff; padding: 76px 0 88px; overflow: hidden;
+  }
+  .hero .kap { display: grid; grid-template-columns: 1.25fr .75fr; gap: 48px; align-items: center; }
+  .rozet {
+    display: inline-flex; align-items: center; gap: 8px;
+    background: rgba(255,255,255,.09); border: 1px solid rgba(255,255,255,.2);
+    border-radius: 999px; padding: 6px 15px; font-size: 12px; margin-bottom: 22px;
+    letter-spacing: .3px;
+  }
+  .rozet b { color: #7dd3fc; font-weight: 600; }
+  .hero h1 { font-size: 44px; font-weight: 600; line-height: 1.15; letter-spacing: -.8px; }
+  .hero h1 em { font-style: normal; color: #7dd3fc; }
+  .hero .alt { margin-top: 20px; font-size: 17px; opacity: .82; max-width: 520px; }
+  .hero-butonlar { margin-top: 32px; display: flex; gap: 12px; flex-wrap: wrap; }
+  .btn {
+    display: inline-flex; align-items: center; gap: 8px; cursor: pointer;
+    border-radius: 11px; padding: 13px 22px; font-size: 14.5px; font-weight: 550;
+    text-decoration: none; border: none; font-family: inherit;
+    transition: transform .12s, background .15s, box-shadow .15s;
+  }
+  .btn-birincil { background: #fff; color: var(--ana); box-shadow: 0 8px 24px rgba(0,0,0,.2); }
+  .btn-birincil:hover { transform: translateY(-2px); }
+  .btn-ikincil { background: rgba(255,255,255,.1); color: #fff; border: 1px solid rgba(255,255,255,.28); }
+  .btn-ikincil:hover { background: rgba(255,255,255,.18); }
+
+  .maskot { text-align: center; position: relative; }
+  .maskot img {
+    width: 100%; max-width: 270px; border-radius: 28px;
+    background: #fff; padding: 10px;
+    box-shadow: 0 26px 70px rgba(0,0,0,.35);
+    animation: suzul 5s ease-in-out infinite;
+  }
+  @keyframes suzul { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-14px); } }
+
+  /* ---------- olcumler ---------- */
+  .olcumler { background: var(--ana); padding: 0 0 12px; }
+  .olcumler .kap {
+    display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;
+    transform: translateY(-44px);
+  }
+  .olcum {
+    background: #fff; padding: 28px 22px 26px; text-align: center;
+    border-radius: 16px; box-shadow: 0 16px 40px rgba(0,0,0,.22);
+  }
+  .olcum b { display: block; font-size: 28px; font-weight: 650; color: var(--ana); letter-spacing: -.5px; }
+  .olcum span { display: block; margin-top: 8px; font-size: 13px; color: var(--gri); line-height: 1.45; }
+
+  /* ---------- bolumler ---------- */
+  section.blok { padding: 62px 0; }
+  section.blok.gri { background: var(--yumusak); border-top: 1px solid var(--cizgi); border-bottom: 1px solid var(--cizgi); }
+  .etiket {
+    font-size: 12px; font-weight: 650; letter-spacing: 1.4px; text-transform: uppercase;
+    color: var(--vurgu); margin-bottom: 10px;
+  }
+  h2 { font-size: 29px; font-weight: 600; color: var(--ana); letter-spacing: -.5px; line-height: 1.25; }
+  .giris-metni { margin-top: 12px; color: var(--gri); font-size: 16px; max-width: 660px; }
+  .baslik-blok { margin-bottom: 34px; }
+
+  .izgara { display: grid; gap: 16px; }
+  .izgara.uc { grid-template-columns: repeat(3, 1fr); }
+  .izgara.iki { grid-template-columns: repeat(2, 1fr); }
+
+  .kart {
+    background: #fff; border: 1px solid var(--cizgi); border-radius: 15px; padding: 24px;
+    transition: box-shadow .18s, transform .18s, border-color .18s;
+  }
+  .kart:hover { box-shadow: 0 12px 32px rgba(3,6,53,.09); transform: translateY(-3px); border-color: #ccd6ee; }
+  .kart .ikon {
+    width: 42px; height: 42px; border-radius: 11px; display: grid; place-items: center;
+    background: #eef2fb; font-size: 19px; margin-bottom: 15px;
+  }
+  .kart h3 { font-size: 16px; font-weight: 600; color: var(--ana); margin-bottom: 7px; }
+  .kart p { font-size: 14px; color: var(--gri); }
+
+  /* ---------- hizmet listesi ---------- */
+  .hizmet { display: flex; gap: 13px; align-items: flex-start; padding: 15px 0; border-bottom: 1px solid var(--cizgi); }
+  .hizmet:last-child { border-bottom: none; }
+  .tik {
+    width: 22px; height: 22px; border-radius: 50%; flex-shrink: 0; margin-top: 2px;
+    display: grid; place-items: center; font-size: 12px; font-weight: 700; color: #fff;
+    background: #16a34a;
+  }
+  .tik.plan { background: #cbd5e1; color: #475569; }
+  .hizmet div strong { display: block; font-size: 14.5px; color: var(--ana); font-weight: 600; }
+  .hizmet div span { font-size: 13.5px; color: var(--gri); }
+  .rozet-kucuk {
+    display: inline-block; font-size: 10.5px; font-weight: 600; letter-spacing: .4px;
+    padding: 2px 8px; border-radius: 999px; margin-left: 7px; vertical-align: 2px;
+  }
+  .rozet-kucuk.aktif { background: #dcfce7; color: #15803d; }
+  .rozet-kucuk.sirada { background: #e2e8f0; color: #475569; }
+
+  /* ---------- yol haritasi ---------- */
+  .yol { position: relative; padding-left: 34px; }
+  .yol::before {
+    content: ''; position: absolute; left: 10px; top: 6px; bottom: 6px;
+    width: 2px; background: linear-gradient(180deg, #16a34a 0%, #16a34a 22%, var(--cizgi) 40%);
+  }
+  .adim { position: relative; padding: 0 0 26px; }
+  .adim:last-child { padding-bottom: 0; }
+  .adim::before {
+    content: ''; position: absolute; left: -30px; top: 5px;
+    width: 14px; height: 14px; border-radius: 50%;
+    background: #cbd5e1; border: 3px solid #fff; box-shadow: 0 0 0 1px var(--cizgi);
+  }
+  .adim.bitti::before { background: #16a34a; box-shadow: 0 0 0 1px #16a34a; }
+  .adim.simdi::before { background: var(--vurgu); box-shadow: 0 0 0 1px var(--vurgu); }
+  .adim h4 { font-size: 15.5px; color: var(--ana); font-weight: 600; }
+  .adim h4 small { font-weight: 500; color: var(--gri); font-size: 12.5px; margin-left: 6px; }
+  .adim p { font-size: 14px; color: var(--gri); margin-top: 3px; }
+
+  /* ---------- vizyon ---------- */
+  .vizyon { background: linear-gradient(150deg, var(--ana), var(--koyu)); color: #fff; padding: 66px 0; }
+  .vizyon h2 { color: #fff; }
+  .vizyon .giris-metni { color: rgba(255,255,255,.78); }
+  .vizyon .kart {
+    background: rgba(255,255,255,.06); border-color: rgba(255,255,255,.14);
+  }
+  .vizyon .kart:hover { background: rgba(255,255,255,.1); box-shadow: none; border-color: rgba(255,255,255,.24); }
+  .vizyon .kart .ikon { background: rgba(255,255,255,.11); }
+  .vizyon .kart h3 { color: #fff; }
+  .vizyon .kart p { color: rgba(255,255,255,.72); }
+
+  /* ---------- deneyin ---------- */
+  .deneyin {
+    background: #fff; border: 1px solid var(--cizgi); border-radius: 16px; padding: 28px;
+    display: grid; grid-template-columns: 92px 1fr; gap: 22px; align-items: center;
+  }
+  .deneyin > img { width: 92px; border-radius: 16px; background: #eef2fb; }
+  .deneyin h3 { font-size: 18px; color: var(--ana); margin-bottom: 6px; }
+  .deneyin p { font-size: 14px; color: var(--gri); }
+  .ornekler { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 15px; }
+  .ornek {
+    background: var(--yumusak); border: 1px solid var(--cizgi); border-radius: 999px;
+    padding: 8px 14px; font-size: 13px; color: var(--koyu); cursor: pointer;
+    font-family: inherit; transition: background .15s, color .15s, border-color .15s;
+  }
+  .ornek:hover { background: var(--ana); color: #fff; border-color: var(--ana); }
+  .ornek.tuzak { border-style: dashed; border-color: #f0a3a6; color: #b91c1c; }
+  .ornek.tuzak:hover { background: var(--vurgu); border-color: var(--vurgu); color: #fff; }
+  .ipuc { font-size: 12.5px; color: var(--gri); margin-top: 13px; }
+
+  /* ---------- dipnot ---------- */
+  footer { background: var(--ana); color: rgba(255,255,255,.6); padding: 34px 0; font-size: 13px; }
+  footer strong { color: #fff; display: block; font-size: 14.5px; margin-bottom: 7px; }
+  footer .ayrac { margin: 14px 0; height: 1px; background: rgba(255,255,255,.1); }
+
+  @media (max-width: 900px) {
+    .hero .kap { grid-template-columns: 1fr; gap: 34px; }
+    .maskot { order: -1; }
+    .maskot img { max-width: 190px; }
+    .olcumler .kap { grid-template-columns: repeat(2, 1fr); gap: 14px; }
+    .izgara.uc, .izgara.iki { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 640px) {
+    .hero { padding: 52px 0 66px; }
+    .hero h1 { font-size: 31px; }
+    h2 { font-size: 24px; }
+    header nav { display: none; }
+    .deneyin { grid-template-columns: 1fr; text-align: left; }
+    .deneyin > img { width: 74px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="kap">
+    <img src="/mudy.jpeg" alt="Mudy">
+    <div class="ad">Mudy<span>Mudanya Üniversitesi Öğrenci Asistanı</span></div>
+    <nav>
+      <a href="#amac">Amaç</a>
+      <a href="#hizmet">Hizmet Alanı</a>
+      <a href="#yol">Yol Haritası</a>
+      <a href="#fayda">Fayda</a>
+      <a href="#vizyon">Vizyon</a>
+    </nav>
+  </div>
+</header>
+
+<!-- ============ HERO ============ -->
+<section class="hero">
+  <div class="kap">
+    <div>
+      <div class="rozet"><b>●</b> Demo sürümü · 2026-2027 verisiyle çalışıyor</div>
+      <h1>Öğrenci bilgi sistemini <em>aramaktan</em> çıkarıp <em>sormaya</em> çevirdik.</h1>
+      <p class="alt">
+        Mudy, üniversitenin kendi web sitesindeki bilgiyi öğrenciye tek soruda ulaştıran
+        bir asistan. Aday öğrenci artık ücret tablosunu bulmak için altı sayfa gezmiyor;
+        sorusunu yazıyor, kaynağıyla birlikte yanıtını alıyor.
+      </p>
+      <div class="hero-butonlar">
+        <button class="btn btn-birincil" onclick="window.MuduChatbot && window.MuduChatbot.ac()">
+          Mudy ile konuşun
+        </button>
+        <a class="btn btn-ikincil" href="#hizmet">Neleri yanıtlıyor?</a>
+      </div>
+    </div>
+    <div class="maskot">
+      <img src="/mudy.jpeg" alt="Mudy maskotu">
+    </div>
+  </div>
+</section>
+
+<section class="olcumler">
+  <div class="kap">
+    <div class="olcum"><b>39</b><span>Program, ücretiyle birlikte</span></div>
+    <div class="olcum"><b>40</b><span>Kategorili bilgi sayfası</span></div>
+    <div class="olcum"><b>%100</b><span>Kaynakla doğrulanmış sayı</span></div>
+    <div class="olcum"><b>7/24</b><span>Kesintisiz yanıt</span></div>
+  </div>
+</section>
+
+<!-- ============ AMAC ============ -->
+<section class="blok" id="amac">
+  <div class="kap">
+    <div class="baslik-blok">
+      <div class="etiket">Amaç</div>
+      <h2>Bilgi sitede var; sorun ona ulaşmak.</h2>
+      <p class="giris-metni">
+        Aday öğrencinin en çok sorduğu üç şey ücret, burs ve kayıt koşulları. Bu bilgilerin
+        tamamı web sitesinde yayımlı ama farklı sayfalara dağılmış durumda. Mudy bu dağınıklığı
+        öğrenciden saklıyor ve tek bir sohbet penceresine indiriyor.
+      </p>
+    </div>
+    <div class="izgara uc">
+      <div class="kart">
+        <div class="ikon">🔎</div>
+        <h3>Gezinme yükünü kaldırır</h3>
+        <p>
+          "Psikoloji burslu ne kadar?" sorusunun cevabı normalde menü → ücretler → tablo
+          yolculuğu gerektiriyor. Mudy tek adımda yanıtlıyor.
+        </p>
+      </div>
+      <div class="kart">
+        <div class="ikon">📞</div>
+        <h3>Tekrarlayan çağrıları azaltır</h3>
+        <p>
+          Telefon ve e-posta ile gelen soruların büyük bölümü aynı 20-30 başlıkta yoğunlaşıyor.
+          Bunlar otomatik yanıtlanınca personel gerçek istisnalara zaman ayırabiliyor.
+        </p>
+      </div>
+      <div class="kart">
+        <div class="ikon">🎯</div>
+        <h3>Tek bir doğru kaynak</h3>
+        <p>
+          Yanıtlar yalnızca mudanya.edu.tr içeriğinden üretiliyor. Site güncellenince
+          veri yeniden çekilir; ikinci bir içerik havuzu bakımı gerekmiyor.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ HIZMET ALANI ============ -->
+<section class="blok gri" id="hizmet">
+  <div class="kap">
+    <div class="baslik-blok">
+      <div class="etiket">Şimdilik hizmet alanı</div>
+      <h2>Bu demoda Mudy'nin gerçekten bildiği konular</h2>
+      <p class="giris-metni">
+        Aşağıdaki başlıklar test edilmiş ve kaynakla karşılaştırılmış durumda.
+        Listede olmayan bir konu sorulduğunda Mudy tahmin üretmiyor; bilgisi olmadığını
+        söyleyip üniversitenin iletişim kanallarına yönlendiriyor.
+      </p>
+    </div>
+    <div class="izgara iki">
+      <div>
+        <div class="hizmet">
+          <span class="tik">✓</span>
+          <div>
+            <strong>Öğrenim ücretleri <span class="rozet-kucuk aktif">aktif</span></strong>
+            <span>39 lisans ve ön lisans programı; tam ücret ve %50 burslu tutarlar, 2026-2027.</span>
+          </div>
+        </div>
+        <div class="hizmet">
+          <span class="tik">✓</span>
+          <div>
+            <strong>Uluslararası öğrenci ücretleri <span class="rozet-kucuk aktif">aktif</span></strong>
+            <span>USD cinsinden erken kayıt ve standart tutarlar, program kontenjanları.</span>
+          </div>
+        </div>
+        <div class="hizmet">
+          <span class="tik">✓</span>
+          <div>
+            <strong>Lisansüstü ücretleri <span class="rozet-kucuk aktif">aktif</span></strong>
+            <span>Yüksek lisans programları, tezli/tezsiz ayrımı ve kontenjanlarıyla.</span>
+          </div>
+        </div>
+        <div class="hizmet">
+          <span class="tik">✓</span>
+          <div>
+            <strong>Başvuru ve kayıt süreci <span class="rozet-kucuk aktif">aktif</span></strong>
+            <span>Gerekli belgeler, başvuru kriterleri, denklik ve dil yeterlilik koşulları.</span>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="hizmet">
+          <span class="tik">✓</span>
+          <div>
+            <strong>Konum ve ulaşım <span class="rozet-kucuk aktif">aktif</span></strong>
+            <span>Kampüs adresi, harita bağlantısı, otobüs hatları, şehirlerarası rotalar ve kampüs görselleri.</span>
+          </div>
+        </div>
+        <div class="hizmet">
+          <span class="tik">✓</span>
+          <div>
+            <strong>Bölüm tanıtımları <span class="rozet-kucuk aktif">aktif</span></strong>
+            <span>Program içerikleri, fakülte yapısı, eğitim dili ve bölüm sayfası bağlantıları.</span>
+          </div>
+        </div>
+        <div class="hizmet">
+          <span class="tik">✓</span>
+          <div>
+            <strong>Kampüs yaşamı <span class="rozet-kucuk aktif">aktif</span></strong>
+            <span>Anlaşmalı yurtlar, yemekhane, kütüphane, otopark ve dolap hizmetleri.</span>
+          </div>
+        </div>
+        <div class="hizmet">
+          <span class="tik">✓</span>
+          <div>
+            <strong>Türkçe ve İngilizce <span class="rozet-kucuk aktif">aktif</span></strong>
+            <span>Sorunun dili algılanır, yanıt aynı dilde döner. Program adları iki dilde eşleşir.</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="baslik-blok" style="margin-top:44px">
+      <div class="etiket">Eklenecek kısımlar</div>
+      <h2>Bir sonraki aşamada devreye girecekler</h2>
+      <p class="giris-metni">
+        Bunlar teknik olarak hazır olan ama bu demoda kapsam dışı bırakılan başlıklar.
+        Bir kısmı üniversiteden veri girişi, bir kısmı entegrasyon izni bekliyor.
+      </p>
+    </div>
+    <div class="izgara iki">
+      <div>
+        <div class="hizmet">
+          <span class="tik plan">→</span>
+          <div>
+            <strong>WhatsApp kanalı <span class="rozet-kucuk sirada">sırada</span></strong>
+            <span>Aynı yanıt motoru; sadece mesaj katmanı eklenecek. Öğrencinin uygulama indirmesine gerek kalmaz.</span>
+          </div>
+        </div>
+        <div class="hizmet">
+          <span class="tik plan">→</span>
+          <div>
+            <strong>Yurt ve yemek ücretleri <span class="rozet-kucuk sirada">veri bekliyor</span></strong>
+            <span>Bu tutarlar web sitesinde yayımlanmıyor. Manuel giriş alanı hazır; üniversite girdiği an aktifleşir.</span>
+          </div>
+        </div>
+        <div class="hizmet">
+          <span class="tik plan">→</span>
+          <div>
+            <strong>Detaylı burs oranları <span class="rozet-kucuk sirada">veri bekliyor</span></strong>
+            <span>Tabloda yalnızca tam ve %50 kademesi var. Başarı ve spor bursu koşulları yönerge PDF'inde.</span>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="hizmet">
+          <span class="tik plan">→</span>
+          <div>
+            <strong>Kişiye özel öğrenci bilgisi <span class="rozet-kucuk sirada">entegrasyon</span></strong>
+            <span>Not, devamsızlık, ders programı ve borç sorgusu. Öğrenci bilgi sistemine kimlik doğrulamalı bağlantı gerekir.</span>
+          </div>
+        </div>
+        <div class="hizmet">
+          <span class="tik plan">→</span>
+          <div>
+            <strong>Canlı destek aktarımı <span class="rozet-kucuk sirada">sırada</span></strong>
+            <span>Mudy yanıtlayamadığı soruyu ilgili birime kayıt numarasıyla devredebilir.</span>
+          </div>
+        </div>
+        <div class="hizmet">
+          <span class="tik plan">→</span>
+          <div>
+            <strong>Soru analitiği paneli <span class="rozet-kucuk sirada">sırada</span></strong>
+            <span>En çok sorulanlar ve yanıtsız kalanlar raporu; web sitesi içeriğini neyin eksik olduğuna göre geliştirmek için.</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ YOL HARITASI ============ -->
+<section class="blok" id="yol">
+  <div class="kap">
+    <div class="baslik-blok">
+      <div class="etiket">Yol haritası</div>
+      <h2>Nerede olduğumuz ve nereye gittiğimiz</h2>
+    </div>
+    <div class="yol">
+      <div class="adim bitti">
+        <h4>1. Veri katmanı <small>tamamlandı</small></h4>
+        <p>
+          Web sitesinin tamamı tarandı, öğrenciyi ilgilendiren sayfalar ayıklandı.
+          Ücret tabloları yapısal veriye çevrildi ve her sayı kaynak sayfayla otomatik karşılaştırıldı.
+        </p>
+      </div>
+      <div class="adim bitti">
+        <h4>2. Doğruluk testleri <small>tamamlandı</small></h4>
+        <p>
+          13 senaryoluk test seti kuruldu. Bunların üçü kasıtlı tuzak: üniversitede olmayan
+          bir bölümün ücreti soruluyor ve Mudy'nin sayı uydurmadığı doğrulanıyor.
+        </p>
+      </div>
+      <div class="adim simdi">
+        <h4>3. Web widget'ı <small>şu anda buradayız</small></h4>
+        <p>
+          Sağ alttaki asistan. Tek satır kodla herhangi bir sayfaya eklenebiliyor;
+          sitenin tasarımını etkilemiyor, sitenin tasarımından da etkilenmiyor.
+        </p>
+      </div>
+      <div class="adim">
+        <h4>4. WhatsApp entegrasyonu <small>sonraki adım</small></h4>
+        <p>
+          Yanıt motoru aynı kalır, üzerine mesajlaşma katmanı eklenir.
+          Öğrenci rehberine numarayı kaydedip soru sormaya başlar.
+        </p>
+      </div>
+      <div class="adim">
+        <h4>5. Öğrenci bilgi sistemi bağlantısı <small>uzun vade</small></h4>
+        <p>
+          Kimlik doğrulamadan sonra kişiye özel sorular: "borcum ne kadar",
+          "yarın hangi dersim var", "devamsızlığım kaç saat".
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FAYDA ============ -->
+<section class="blok gri" id="fayda">
+  <div class="kap">
+    <div class="baslik-blok">
+      <div class="etiket">Faydası</div>
+      <h2>Kim ne kazanıyor?</h2>
+    </div>
+    <div class="izgara uc">
+      <div class="kart">
+        <div class="ikon">🎓</div>
+        <h3>Aday öğrenci</h3>
+        <p>
+          Tercih döneminde gece yarısı da yanıt alır. Ücret ve burs karşılaştırmasını
+          sayfalar arasında gezinmeden yapar; kaynağı görüp doğrulayabilir.
+        </p>
+      </div>
+      <div class="kart">
+        <div class="ikon">🌍</div>
+        <h3>Uluslararası öğrenci</h3>
+        <p>
+          Kendi dilinde soru sorar, aynı dilde yanıt alır. Denklik, vize ve
+          belge listesi gibi süreçleri tek yerden öğrenir.
+        </p>
+      </div>
+      <div class="kart">
+        <div class="ikon">🏛️</div>
+        <h3>Üniversite</h3>
+        <p>
+          Tanıtım ekibinin tekrar eden soru yükü azalır. Hangi bilginin arandığı
+          ama sitede bulunamadığı ölçülebilir hale gelir.
+        </p>
+      </div>
+      <div class="kart">
+        <div class="ikon">⚖️</div>
+        <h3>Bilgi tutarlılığı</h3>
+        <p>
+          Ücret gibi kritik sayılar dil modeline bırakılmaz; yapısal veriden okunur.
+          Farklı kanallarda farklı cevap çıkma riski ortadan kalkar.
+        </p>
+      </div>
+      <div class="kart">
+        <div class="ikon">🛡️</div>
+        <h3>Yanlış bilgi koruması</h3>
+        <p>
+          Veride olmayan bir konu sorulduğunda tahmin üretilmez. Asistan bilmediğini
+          söyler ve resmi iletişim kanalını verir.
+        </p>
+      </div>
+      <div class="kart">
+        <div class="ikon">💸</div>
+        <h3>Düşük işletme maliyeti</h3>
+        <p>
+          Veri bir dosyada tutulur, ağır bir altyapı gerekmez. Site güncellenince
+          tek komutla yeniden çekilip doğrulanır.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ VIZYON ============ -->
+<section class="vizyon" id="vizyon">
+  <div class="kap">
+    <div class="baslik-blok">
+      <div class="etiket" style="color:#7dd3fc">Vizyon</div>
+      <h2>Mudy'nin uzun vadeli hedefi</h2>
+      <p class="giris-metni">
+        Bugün bir bilgi asistanı. Hedef, öğrencinin üniversiteyle kurduğu tüm dijital
+        temasın tek kapısı olmak: soru sormaktan işlem yapmaya uzanan bir hat.
+      </p>
+    </div>
+    <div class="izgara uc">
+      <div class="kart">
+        <div class="ikon">💬</div>
+        <h3>Tek asistan, her kanal</h3>
+        <p>
+          Web, WhatsApp, mobil uygulama ve kampüs ekranları aynı beyni kullanır.
+          Öğrenci nerede sorarsa aynı yanıtı alır.
+        </p>
+      </div>
+      <div class="kart">
+        <div class="ikon">🧭</div>
+        <h3>Soru sormaktan işleme</h3>
+        <p>
+          Yalnızca bilgilendirme değil; randevu alma, belge talebi ve
+          başvuru başlatma gibi işlemleri de sohbet içinden yürütmek.
+        </p>
+      </div>
+      <div class="kart">
+        <div class="ikon">🎒</div>
+        <h3>Aday öğrenciden mezuna</h3>
+        <p>
+          Tercih döneminde başlayan ilişkinin kayıt, öğrencilik ve mezuniyet
+          sonrasında da aynı asistanla sürmesi.
+        </p>
+      </div>
+      <div class="kart">
+        <div class="ikon">📊</div>
+        <h3>Veriye dayalı iyileştirme</h3>
+        <p>
+          Yanıtsız kalan her soru bir eksik içerik sinyali. Bu sinyaller
+          web sitesinin ve tanıtım materyalinin neyi eksik anlattığını gösterir.
+        </p>
+      </div>
+      <div class="kart">
+        <div class="ikon">♿</div>
+        <h3>Erişilebilirlik</h3>
+        <p>
+          Tablo okumak zorunda kalmayan, ekran okuyucuyla uyumlu, sesli soruya
+          da açık bir bilgi erişimi.
+        </p>
+      </div>
+      <div class="kart">
+        <div class="ikon">🔐</div>
+        <h3>Güven ilkesi</h3>
+        <p>
+          Kaynağı gösterilebilir olmayan hiçbir bilgi verilmez. Asistanın değeri
+          hızından değil, doğruluğundan gelir.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ DENEYIN ============ -->
+<section class="blok">
+  <div class="kap">
+    <div class="deneyin">
+      <img src="/mudy.jpeg" alt="Mudy">
+      <div>
+        <h3>Şimdi deneyin</h3>
+        <p>
+          Sağ alttaki Mudy'ye tıklayın veya aşağıdaki örneklerden birini seçin.
+          Kırmızı kesikli çerçeveli soru bir tuzak: yanıtı veride yok, Mudy'nin
+          nasıl davrandığını görmek için.
+        </p>
+        <div class="ornekler">
+          <button class="ornek">Psikoloji bölümü ücreti ne kadar?</button>
+          <button class="ornek">Bilgisayar mühendisliği burslu fiyatı nedir?</button>
+          <button class="ornek">Kampüs nerede, İstanbul'dan nasıl gelirim?</button>
+          <button class="ornek">Kayıt için hangi belgeler gerekli?</button>
+          <button class="ornek">How much is the tuition for international students?</button>
+          <button class="ornek">Psikoloji yüksek lisans ücreti ne kadar?</button>
+          <button class="ornek tuzak">Tıp Fakültesi ücreti ne kadar?</button>
+          <button class="ornek tuzak">Yurt ücretleri ne kadar?</button>
+        </div>
+        <p class="ipuc">
+          Yanıtların altında kaynak bağlantıları, PDF'ler, harita linkleri ve
+          kampüs görselleri ek kart olarak görünür.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="kap">
+    <strong>Mudy — Mudanya Üniversitesi Öğrenci Asistanı</strong>
+    Çağrışan Mah. 2029 Sk. No:2, 16940 Mudanya/Bursa &nbsp;·&nbsp;
+    +90 (224) 224 20 22 &nbsp;·&nbsp; bilgi@mudanya.edu.tr
+    <div class="ayrac"></div>
+    Bu bir geliştirme demosudur, resmi bir üniversite hizmeti değildir.
+    Tüm bilgiler mudanya.edu.tr üzerinden 2026-2027 akademik yılı için derlenmiştir;
+    bağlayıcı işlemler için üniversiteyle doğrudan iletişime geçin.
+  </div>
+</footer>
+
+<script src="/widget.js" data-baslik="Mudy" data-alt-baslik="Mudanya Üniversitesi Öğrenci Asistanı" defer></script>
+<script>
+  // Sunumdaki ornek sorular widget'i acip sorulari dogrudan gonderir
+  document.querySelectorAll('.ornek').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      if (!window.MuduChatbot) return;
+      window.MuduChatbot.ac();
+      setTimeout(function () { window.MuduChatbot.sor(btn.textContent.trim()); }, 350);
+    });
+  });
+</script>
+</body>
+</html>

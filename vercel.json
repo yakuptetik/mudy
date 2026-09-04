@@ -1,0 +1,15 @@
+{
+  "functions": {
+    "api/chat.ts": {
+      "maxDuration": 60,
+      "includeFiles": "data/{programs,content,campus,overrides,aliases}.json"
+    },
+    "api/health.ts": {
+      "includeFiles": "data/{programs,content,campus,overrides,aliases}.json"
+    }
+  },
+  "rewrites": [
+    { "source": "/api/chat", "destination": "/api/chat" },
+    { "source": "/api/health", "destination": "/api/health" }
+  ]
+}

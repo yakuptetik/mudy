@@ -1,0 +1,75 @@
+{
+  "cekilme_tarihi": "2026-09-03",
+  "ad": "Mudanya Üniversitesi",
+  "kampus": "Çağrışan Kampüsü",
+  "adres": "Çağrışan Mah. 2029 Sk. No:2 16940 Mudanya/Bursa",
+  "telefon": "+90 (224) 224 20 22",
+  "eposta": "bilgi@mudanya.edu.tr",
+  "kep_adresi": "mudanyauniversitesi@hs03.kep.tr",
+  "telefon_e164": "+902242242022",
+  "whatsapp_link": "https://wa.me/902242242022",
+  "whatsapp_link_kaynakta": "https://api.whatsapp.com/send?phone=++90(224)2242022&text=Merhaba",
+  "konum": {
+    "enlem": 40.29955979325504,
+    "boylam": 28.947955873509045,
+    "harita_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5714.198001125703!2d28.947955873509045!3d40.29955979325504!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca6d6c75c2e751:0x3194c996e65c03c0!2sMudanya",
+    "google_maps_link": "https://www.google.com/maps/search/?api=1&query=40.29955979325504,28.947955873509045",
+    "not": "Koordinat, iletişim sayfasındaki gömülü Google Maps haritasından alındı.",
+    "kaynak": "https://mudanya.edu.tr/iletisim"
+  },
+  "ulasim": {
+    "harita_rotalari": [
+      {
+        "etiket": "Bursa’dan – Mudanya Üniversitesi",
+        "url": "https://www.google.com/maps/d/u/0/edit?mid=19ihhydFLBwSas7Mp41z6Qg_-1pQ2KSc&usp=sharing"
+      },
+      {
+        "etiket": "İstanbul’dan – Mudanya Üniversitesi",
+        "url": "https://www.google.com/maps/d/u/0/edit?mid=1VTdMhrKmqmSRo3aczB9MRELPeUMb0Lg&usp=sharing"
+      },
+      {
+        "etiket": "İzmir’den – Mudanya Üniversitesi",
+        "url": "https://www.google.com/maps/d/u/0/edit?mid=1KtVZgBapvA-PaAZ3lWHvsGXx_rr9Fy4&usp=sharing"
+      },
+      {
+        "etiket": "Ankara’dan – Mudanya Üniversitesi",
+        "url": "https://www.google.com/maps/d/u/0/edit?mid=1I3tKIRibMqEkcjwkrQkUz-PgTNMrlC4&usp=sharing"
+      },
+      {
+        "etiket": "Yenikapı",
+        "url": "https://www.google.com/maps/d/u/0/edit?mid=1GkEnLmNepdC7b5S-YQDUH2ztQsTWRpg&usp=sharing"
+      }
+    ],
+    "burulas_otobus_hatlari": [
+      "14 L",
+      "14 L3",
+      "14 U"
+    ],
+    "metin": "• Kampüse Araçla Ulaşım\n\nMudanya Üniversitesi’ni özel aracınızla ziyaret edecekseniz, bu sayfadaki alternatiflerinden birini kullanarak kampüse en kısa sürede ulaşım sağlayabilirsiniz.\n\n[•Bursa’dan – Mudanya Üniversitesi](https://www.google.com/maps/d/u/0/edit?mid=19ihhydFLBwSas7Mp41z6Qg_-1pQ2KSc&usp=sharing)[•İstanbul’dan – Mudanya Üniversitesi](https://www.google.com/maps/d/u/0/edit?mid=1VTdMhrKmqmSRo3aczB9MRELPeUMb0Lg&usp=sharing)[•İzmir’den – Mudanya Üniversitesi](https://www.google.com/maps/d/u/0/edit?mid=1KtVZgBapvA-PaAZ3lWHvsGXx_rr9Fy4&usp=sharing)[•Ankara’dan – Mudanya Üniversitesi](https://www.google.com/maps/d/u/0/edit?mid=1I3tKIRibMqEkcjwkrQkUz-PgTNMrlC4&usp=sharing) • Kampüse Toplu Taşıma Aracıyla Ulaşım\n\nBurulaş [www.burulas.com.tr](http://www.burulas.com.tr/) adresini kullanarak Bursa'nın herhangi bir yerinden Çağrışan Kampüsümüze ulaşım güzergâhınızı belirleyebilirsiniz.\n\nKampüs - BURULAŞ otobüs seferleri:\n\n[14 L](https://www.burulas.com.tr/hizmetler/otobus)\n\n[14 L3](https://www.burulas.com.tr/hizmetler/otobus)\n\n[14 U](https://www.burulas.com.tr/hizmetler/otobus)\n\n• Kampüse Deniz Yolu Üzerinden Ulaşım\n\nİDO\n\nBursa’ya (Mudanya-Güzelyalı İskelesi) İstanbul’un üç farklı noktasından ([Yenikapı](https://www.google.com/maps/d/u/0/edit?mid=1GkEnLmNepdC7b5S-YQDUH2ztQsTWRpg&usp=sharing), Kadıköy ve Kabataş) İDO aracılığı ile tarifeli ve karşılıklı deniz otobüsü ve feribot seferleri bulunmaktadır (Bkz: [www.ido.com.tr](http://www.ido.com.tr/) ).\n\nBUDO\n\nBursa’ya (Mudanya Merkez İskelesi) İstanbul’un Kabataş semtinden BUDO aracılığı ile tarifeli ve karşılıklı deniz otobüsü seferleri bulunmaktadır (Bkz: [https://budo.burulas.com.tr](https://budo.burulas.com.tr/) ).",
+    "kaynak": "https://mudanya.edu.tr/icerik/62"
+  },
+  "kampus_tanitimi": {
+    "metin": "Mudanya Üniversitesi, 27.500 m2’lik kapalı ve 22.000 m2’lik açık alan üzerine inşa edilmiş merkez kampüs içerisinde, Türkiye’nin en büyük kütüphanesine, 520 kişilik iki farklı konferans salonuna, 48 adet çok amaçlı laboratuvar ve dersliğe, 300 kişilik 3 farklı amfiye, 5 adet atölye ve stüdyoya sahiptir. Mudanya Üniversitesi kampüsü, öğrenci dostu ve maksimum güvenliğe sahip, öğrencileri akademik ve sosyal hayata yakınlaştıran, ormanın kalbinde bir üniversite olmanın yanı sıra, engelsiz yaşam alanları, ulaşım kolaylığı ve 7 gün 24 saat yaşayan bir üniversite deneyimi sunmaktadır.",
+    "kaynak": "https://mudanya.edu.tr/icerik/24"
+  },
+  "gorseller": [
+    "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4cc7d21.92250917.jpeg",
+    "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4cbfea5.73712054.jpeg",
+    "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4ccf913.24040000.jpeg",
+    "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4cc4075.83629590.jpeg",
+    "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4c8d4a4.54113969.jpeg",
+    "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4ccbc14.74452589.jpeg",
+    "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4c974f7.46156613.jpeg",
+    "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4c90748.97952059.jpeg",
+    "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4c93768.01857702.jpeg",
+    "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4c9b391.86294018.jpeg",
+    "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4c9e457.07160287.jpeg",
+    "https://mudanya.edu.tr/files/web_icerikler/galeri/icerik_galeri_6a5a28c4ca1529.30360416.jpeg"
+  ],
+  "kaynaklar": [
+    "https://mudanya.edu.tr/iletisim",
+    "https://mudanya.edu.tr/icerik/62",
+    "https://mudanya.edu.tr/icerik/24",
+    "https://mudanya.edu.tr/icerik/194"
+  ]
+}

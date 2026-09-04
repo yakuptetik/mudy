@@ -1,0 +1,64 @@
+{
+  "aciklama": "Sitede yayinlanmayan, elle girilen bilgiler. Scraper bu dosyaya asla dokunmaz; 'npm run scrape' calistirmak burayi silmez.",
+  "kullanim": "Bir kaydi bota vermek icin 'aktif' alanini true yap ve 'icerik' alanini doldur. aktif=false olan kayitlar yok sayilir; bot uydurmak yerine 'bilmiyorum' der. Bilgi bir site sayfasina dayaniyorsa 'kaynak_url' ekle.",
+  "guncellenme": "2026-09-03",
+  "manuel_bilgiler": [
+    {
+      "id": "lisansustu-ucret-duzeltmesi",
+      "baslik": "Yüksek Lisans Ücretleri Hakkında Açıklama",
+      "kategori": "ucret_burs",
+      "ornek_sorular": [
+        "yüksek lisans ücreti",
+        "lisansüstü ücret",
+        "tezsiz yüksek lisans fiyatı",
+        "master tuition"
+      ],
+      "icerik": "Yüksek lisans ücret tablosunda iki önemli nokta var:\n\n1) Kaynak sayfa hangi akademik yıla ait olduğunu BELİRTMİYOR. Bu nedenle ücretler aktarılırken \"sitede yayınlanan güncel tablo\" denmeli, yıl atfedilmemeli.\n2) Tabloda yazım hatası var: Bilgisayar Mühendisliği ve İşletme Tezsiz Yüksek Lisans için ücretli tutar \"261,827,86 ₺\" olarak yazılmış. Doğrusu 261.827,86 ₺'dir; aynı tutar Endüstri Mühendisliği satırında doğru biçimde yazılmış ve %50 burslu tutarın (130.913,93 ₺) iki katına eşittir.\n\nDoğru tutarlar: Tezsiz programlar (Bilgisayar Müh., Endüstri Müh., İşletme) 261.827,86 ₺ / %50 burslu 130.913,93 ₺. Tezli programlar ve Psikoloji Tezsiz 289.360,82 ₺ / %50 burslu 144.680,41 ₺. Yabancı öğrenciler için tüm yüksek lisans programları 6.000 USD.",
+      "aktif": true,
+      "kaynak_url": "https://mudanya.edu.tr/fakulte/lisansustu-egitim-enstitusu-556860/icerik/195",
+      "not": "Site kaynakli yazim hatasinin duzeltmesi. Tutarlar sitedendir, hesaplama ile capraz dogrulandi."
+    },
+    {
+      "id": "yurt-ucretleri",
+      "baslik": "Yurt ve Konaklama Ücretleri",
+      "kategori": "kampus_yasam",
+      "ornek_sorular": [
+        "yurt ücreti ne kadar",
+        "konaklama fiyatı",
+        "yurtta kalmak kaça geliyor",
+        "dormitory price",
+        "accommodation fee"
+      ],
+      "icerik": "",
+      "aktif": false,
+      "not": "Sitenin 1740 sayfasi tarandi, yurt ucreti hicbir yerde yayinlanmiyor. Anlasmali yurtlarin adi ve telefonu icerik verisinde mevcut (bkz. icerik-16). Ucretleri buraya elle gir."
+    },
+    {
+      "id": "yemekhane-ucretleri",
+      "baslik": "Yemekhane Ücretleri",
+      "kategori": "kampus_yasam",
+      "ornek_sorular": ["yemek ücreti", "yemekhane fiyat", "öğle yemeği kaç para", "meal price"],
+      "icerik": "",
+      "aktif": false,
+      "not": "Sitede yemekhane tanitimi var ama fiyat yok."
+    },
+    {
+      "id": "servis-ulasim-ucreti",
+      "baslik": "Öğrenci Servisi Ücretleri",
+      "kategori": "konum_ulasim",
+      "ornek_sorular": ["servis var mı", "servis ücreti", "okul servisi", "shuttle service"],
+      "icerik": "",
+      "aktif": false,
+      "not": "Sitede BURULAS otobus hatlari var (14 L, 14 L3, 14 U); universiteye ait ozel servis bilgisi yok."
+    },
+    {
+      "id": "burs-oranlari",
+      "baslik": "Burs Oranları ve Koşulları",
+      "kategori": "ucret_burs",
+      "ornek_sorular": ["burs oranları", "hangi burslar var", "%25 burs", "tam burs", "scholarship rates"],
+      "icerik": "",
+      "aktif": false,
+      "not": "Ucret tablosunda sadece 'tam' ve '%50 burslu' kolonlari var. Diger burs kademeleri (%25, %75, tam burs) ve basari/spor bursu kosullari PDF yonergesinde: https://mudanya.edu.tr/files/web_icerikler/crawler_assets/172/burs_ve_indirim_yonergesi_190826.pdf"
+    }
+  ]
+}
